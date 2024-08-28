@@ -17,4 +17,6 @@ For this project, use Python and Jupyter Notebook, choosing PostgreSQL as the da
 ### Dashboard
 
 ![Dashboard](data-README.md/dashboard1.png)
-![Dashboard](data-README.md/dashboard2.png)
+![Dashboard](data-README.md/dashboard3.png)
+
+these are our results
