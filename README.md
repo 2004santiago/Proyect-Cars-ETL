@@ -13,3 +13,8 @@ Clean the dataset through an EDA process.
 Migrating the cleaned data to a PostgreSQL database for further analysis.
 
 For this project, use Python and Jupyter Notebook, choosing PostgreSQL as the database to manage and query the clean data.
+
+### Dashboard
+
+![Dashboard](data-README.md/dashboard1.png)
+![Dashboard](data-README.md/dashboard2.png)
