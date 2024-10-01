@@ -1,0 +1,1001 @@
+period,duoarea,area-name,product,product-name,process,process-name,series,series-description,value,units
+2024-09-30,R30,PADD 3,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R30_DPG,Gulf Coast All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),2.793,$/GAL
+2024-09-30,R10,PADD 1,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R10_DPG,East Coast No 2 Diesel Retail Prices (Dollars per Gallon),3.571,$/GAL
+2024-09-30,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R5XCA_DPG,West Coast (PADD 5) Except California No 2 Diesel Retail Prices (Dollars per Gallon),3.797,$/GAL
+2024-09-30,R40,PADD 4,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R40_DPG,Rocky Mountain Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.421,$/GAL
+2024-09-30,R1X,PADD 1A,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R1X_DPG,New England (PADD 1A) Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.058,$/GAL
+2024-09-30,YORD,CHICAGO,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_YORD_DPG,"Chicago, IL Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.675,$/GAL
+2024-09-30,R50,PADD 5,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R50_DPG,West Coast Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),4.233,$/GAL
+2024-09-30,Y05LA,LOS ANGELES,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_Y05LA_DPG,"Los Angeles, CA Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.238,$/GAL
+2024-09-30,R1Y,PADD 1B,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.071,$/GAL
+2024-09-30,SFL,FLORIDA,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SFL_DPG,Florida Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.118,$/GAL
+2024-09-30,SMN,MINNESOTA,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SMN_DPG,Minnesota Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.06,$/GAL
+2024-09-30,R1X,PADD 1A,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R1X_DPG,New England (PADD 1A) Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.019,$/GAL
+2024-09-30,R40,PADD 4,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R40_DPG,Rocky Mountain Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.415,$/GAL
+2024-09-30,SMA,MASSACHUSETTS,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SMA_DPG,Massachusetts Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.015,$/GAL
+2024-09-30,NUS,U.S.,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_NUS_DPG,U.S. Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.926,$/GAL
+2024-09-30,SOH,OHIO,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_SOH_DPG,Ohio Premium Conventional Retail Gasoline Prices (Dollars per Gallon),4.269,$/GAL
+2024-09-30,Y05SF,SAN FRANCISCO,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_Y05SF_DPG,"San Francisco, CA Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",5.235,$/GAL
+2024-09-30,R10,PADD 1,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R10_DPG,East Coast Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),3.902,$/GAL
+2024-09-30,YBOS,BOSTON,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_YBOS_DPG,"Boston, MA Premium All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.933,$/GAL
+2024-09-30,Y48SE,SEATTLE,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_Y48SE_DPG,"Seattle, WA Premium All Formulations Retail Gasoline Prices (Dollars per Gallon)",4.7,$/GAL
+2024-09-30,YMIA,MIAMI,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_YMIA_DPG,"Miami, FL Premium All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.932,$/GAL
+2024-09-30,SOH,OHIO,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SOH_DPG,Ohio Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.269,$/GAL
+2024-09-30,NUS,U.S.,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_NUS_DPG,U.S. Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.549,$/GAL
+2024-09-30,STX,TEXAS,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_STX_DPG,Texas Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.195,$/GAL
+2024-09-30,R30,PADD 3,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R30_DPG,Gulf Coast Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.234,$/GAL
+2024-09-30,Y48SE,SEATTLE,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_Y48SE_DPG,"Seattle, WA Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon)",4.663,$/GAL
+2024-09-30,R1Z,PADD 1C,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.464,$/GAL
+2024-09-30,SNY,NEW YORK,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SNY_DPG,New York Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.573,$/GAL
+2024-09-30,SMA,MASSACHUSETTS,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SMA_DPG,Massachusetts Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.627,$/GAL
+2024-09-30,Y05LA,LOS ANGELES,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_Y05LA_DPG,"Los Angeles, CA All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.36,$/GAL
+2024-09-30,Y05SF,SAN FRANCISCO,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_Y05SF_DPG,"San Francisco, CA All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.873,$/GAL
+2024-09-30,R1Z,PADD 1C,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.025,$/GAL
+2024-09-30,SMN,MINNESOTA,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SMN_DPG,Minnesota All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.118,$/GAL
+2024-09-30,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R5XCA_DPG,West Coast (PADD 5) Except California All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.754,$/GAL
+2024-09-30,R1X,PADD 1A,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R1X_DPG,New England (PADD 1A) All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.157,$/GAL
+2024-09-30,R1Z,PADD 1C,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.002,$/GAL
+2024-09-30,Y48SE,SEATTLE,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_Y48SE_DPG,"Seattle, WA Regular Conventional Retail Gasoline Prices (Dollars per Gallon)",4.179,$/GAL
+2024-09-30,R30,PADD 3,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R30_DPG,Gulf Coast Regular Conventional Retail Gasoline Prices (Dollars per Gallon),2.739,$/GAL
+2024-09-30,YDEN,DENVER,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_YDEN_DPG,"Denver, CO Regular Conventional Retail Gasoline Prices (Dollars per Gallon)",,$/GAL
+2024-09-30,YDEN,DENVER,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_YDEN_DPG,"Denver, CO Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.387,$/GAL
+2024-09-30,SCA,CALIFORNIA,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_SCA_DPG,California Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),4.412,$/GAL
+2024-09-30,R30,PADD 3,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R30_DPG,Gulf Coast Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),2.605,$/GAL
+2024-09-30,NUS,U.S.,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_NUS_DPG,U.S. Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.179,$/GAL
+2024-09-30,Y05SF,SAN FRANCISCO,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_Y05SF_DPG,San Francisco Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),4.726,$/GAL
+2024-09-30,YMIA,MIAMI,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_YMIA_DPG,"Miami, FL Premium Conventional Retail Gasoline Prices (Dollars per Gallon)",3.932,$/GAL
+2024-09-30,SCO,COLORADO,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_SCO_DPG,Colorado Premium Conventional Retail Gasoline Prices (Dollars per Gallon),4.161,$/GAL
+2024-09-30,NUS,U.S.,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_NUS_DPG,U.S. Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.292,$/GAL
+2024-09-30,Y35NY,NEW YORK CITY,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_Y35NY_DPG,New York City Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.908,$/GAL
+2024-09-30,SCA,CALIFORNIA,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SCA_DPG,California Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.898,$/GAL
+2024-09-30,R30,PADD 3,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R30_DPG,Gulf Coast Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.532,$/GAL
+2024-09-30,R50,PADD 5,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R50_DPG,West Coast Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),4.12,$/GAL
+2024-09-30,YMIA,MIAMI,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_YMIA_DPG,"Miami, FL Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon)",3.603,$/GAL
+2024-09-30,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),4.12,$/GAL
+2024-09-30,R20,PADD 2,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R20_DPG,Midwest Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.419,$/GAL
+2024-09-30,R40,PADD 4,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R40_DPG,Rocky Mountain Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.839,$/GAL
+2024-09-30,R50,PADD 5,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R50_DPG,West Coast Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),4.664,$/GAL
+2024-09-30,Y44HO,HOUSTON,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_Y44HO_DPG,"Houston, TX Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.234,$/GAL
+2024-09-30,YORD,CHICAGO,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_YORD_DPG,Chicago Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),4.265,$/GAL
+2024-09-30,R1X,PADD 1A,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R1X_DPG,New England (PADD 1A) Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.642,$/GAL
+2024-09-30,R30,PADD 3,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R30_DPG,Gulf Coast Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.192,$/GAL
+2024-09-30,R40,PADD 4,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R40_DPG,Rocky Mountain Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.761,$/GAL
+2024-09-30,SOH,OHIO,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_SOH_DPG,Ohio All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.305,$/GAL
+2024-09-30,SMN,MINNESOTA,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_SMN_DPG,Minnesota All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.118,$/GAL
+2024-09-30,R1Y,PADD 1B,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R1Y_DPG,Central Atlantic (PADD 1B) All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.394,$/GAL
+2024-09-30,YMIA,MIAMI,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_YMIA_DPG,"Miami, FL All Grades Conventional Retail Gasoline Prices (Dollars per Gallon)",3.289,$/GAL
+2024-09-30,R20,PADD 2,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R20_DPG,Midwest All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.112,$/GAL
+2024-09-30,YORD,CHICAGO,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_YORD_DPG,"Chicago, IL All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.842,$/GAL
+2024-09-30,STX,TEXAS,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_STX_DPG,Texas All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),2.722,$/GAL
+2024-09-30,R30,PADD 3,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R30_DPG,Gulf Coast All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),2.722,$/GAL
+2024-09-30,Y05SF,SAN FRANCISCO,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_Y05SF_DPG,San Francisco All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),4.873,$/GAL
+2024-09-30,R20,PADD 2,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R20_DPG,Midwest All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.186,$/GAL
+2024-09-30,R1Y,PADD 1B,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R1Y_DPG,Central Atlantic (PADD 1B) All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.291,$/GAL
+2024-09-30,R40,PADD 4,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R40_DPG,Rocky Mountain No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.612,$/GAL
+2024-09-30,R50,PADD 5,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R50_DPG,West Coast No 2 Diesel Retail Prices (Dollars per Gallon),4.226,$/GAL
+2024-09-30,SNY,NEW YORK,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_SNY_DPG,New York Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.304,$/GAL
+2024-09-30,SFL,FLORIDA,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_SFL_DPG,Florida Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.118,$/GAL
+2024-09-30,SOH,OHIO,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_SOH_DPG,Ohio Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.215,$/GAL
+2024-09-30,R10,PADD 1,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R10_DPG,East Coast Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.034,$/GAL
+2024-09-30,Y44HO,HOUSTON,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_Y44HO_DPG,"Houston, TX Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",2.628,$/GAL
+2024-09-30,R20,PADD 2,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R20_DPG,Midwest Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.44,$/GAL
+2024-09-30,R20,PADD 2,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R20_DPG,Midwest Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.105,$/GAL
+2024-09-30,YBOS,BOSTON,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_YBOS_DPG,"Boston, MA Regular All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.031,$/GAL
+2024-09-30,SMN,MINNESOTA,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_SMN_DPG,Minnesota Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.777,$/GAL
+2024-09-30,STX,TEXAS,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_STX_DPG,Texas Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.523,$/GAL
+2024-09-30,SWA,WASHINGTON,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_SWA_DPG,Washington Premium Conventional Retail Gasoline Prices (Dollars per Gallon),4.455,$/GAL
+2024-09-30,YCLE,CLEVELAND,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_YCLE_DPG,"Cleveland, OH Premium Conventional Retail Gasoline Prices (Dollars per Gallon)",4.238,$/GAL
+2024-09-30,R40,PADD 4,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R40_DPG,Rocky Mountain Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.175,$/GAL
+2024-09-30,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.014,$/GAL
+2024-09-30,R1Z,PADD 1C,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),3.651,$/GAL
+2024-09-30,R50,PADD 5,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R50_DPG,West Coast Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.836,$/GAL
+2024-09-30,YORD,CHICAGO,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_YORD_DPG,Chicago Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.718,$/GAL
+2024-09-30,SMN,MINNESOTA,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SMN_DPG,Minnesota Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.777,$/GAL
+2024-09-30,R50,PADD 5,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R50_DPG,West Coast Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.686,$/GAL
+2024-09-30,R40,PADD 4,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R40_DPG,Rocky Mountain Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.739,$/GAL
+2024-09-30,SMN,MINNESOTA,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_SMN_DPG,Minnesota Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.4,$/GAL
+2024-09-30,SWA,WASHINGTON,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_SWA_DPG,Washington Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),4.265,$/GAL
+2024-09-30,YCLE,CLEVELAND,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_YCLE_DPG,"Cleveland, OH Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon)",3.732,$/GAL
+2024-09-30,NUS,U.S.,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_NUS_DPG,U.S. Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),4.015,$/GAL
+2024-09-30,Y05LA,LOS ANGELES,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_Y05LA_DPG,"Los Angeles, CA Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.651,$/GAL
+2024-09-30,R1X,PADD 1A,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R1X_DPG,New England (PADD 1A) Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.635,$/GAL
+2024-09-30,SCA,CALIFORNIA,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_SCA_DPG,California Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),4.743,$/GAL
+2024-09-30,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.747,$/GAL
+2024-09-30,R1Y,PADD 1B,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.632,$/GAL
+2024-09-30,YDEN,DENVER,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_YDEN_DPG,Denver Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.85,$/GAL
+2024-09-30,SCA,CALIFORNIA,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SCA_DPG,California Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),4.743,$/GAL
+2024-09-30,YBOS,BOSTON,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_YBOS_DPG,"Boston, MA Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.62,$/GAL
+2024-09-30,SFL,FLORIDA,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_SFL_DPG,Florida All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.218,$/GAL
+2024-09-30,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R5XCA_DPG,West Coast (PADD 5) Except California All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.844,$/GAL
+2024-09-30,SCO,COLORADO,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_SCO_DPG,Colorado All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.631,$/GAL
+2024-09-30,NUS,U.S.,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_NUS_DPG,U.S. All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.179,$/GAL
+2024-09-30,SNY,NEW YORK,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_SNY_DPG,New York All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.385,$/GAL
+2024-09-30,R1X,PADD 1A,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R1X_DPG,New England (PADD 1A) All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.144,$/GAL
+2024-09-30,STX,TEXAS,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_STX_DPG,Texas All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),2.804,$/GAL
+2024-09-30,R1Z,PADD 1C,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.106,$/GAL
+2024-09-30,SMA,MASSACHUSETTS,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_SMA_DPG,Massachusetts All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.175,$/GAL
+2024-09-30,SNY,NEW YORK,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_SNY_DPG,New York All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.123,$/GAL
+2024-09-30,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R5XCA_DPG,West Coast (PADD 5) Except California All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.357,$/GAL
+2024-09-30,SOH,OHIO,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SOH_DPG,Ohio All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.305,$/GAL
+2024-09-30,SCO,COLORADO,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SCO_DPG,Colorado All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.599,$/GAL
+2024-09-30,R40,PADD 4,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R40_DPG,Rocky Mountain All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.54,$/GAL
+2024-09-30,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R5XCA_DPG,West Coast (PADD 5) Except California No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.797,$/GAL
+2024-09-30,NUS,U.S.,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_NUS_DPG,U.S. No 2 Diesel Retail Prices (Dollars per Gallon),3.544,$/GAL
+2024-09-30,R10,PADD 1,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R10_DPG,East Coast Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.073,$/GAL
+2024-09-30,SCO,COLORADO,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_SCO_DPG,Colorado Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.499,$/GAL
+2024-09-30,Y05SF,SAN FRANCISCO,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_Y05SF_DPG,"San Francisco, CA Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.726,$/GAL
+2024-09-30,R1X,PADD 1A,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R1X_DPG,New England (PADD 1A) Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.009,$/GAL
+2024-09-30,R30,PADD 3,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R30_DPG,Gulf Coast Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),2.695,$/GAL
+2024-09-30,Y05LA,LOS ANGELES,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_Y05LA_DPG,Los Angeles Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),4.238,$/GAL
+2024-09-30,SNY,NEW YORK,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SNY_DPG,New York Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.126,$/GAL
+2024-09-30,R50,PADD 5,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R50_DPG,West Coast Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),4.042,$/GAL
+2024-09-30,SCA,CALIFORNIA,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SCA_DPG,California Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),4.412,$/GAL
+2024-09-30,Y48SE,SEATTLE,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_Y48SE_DPG,"Seattle, WA Premium Conventional Retail Gasoline Prices (Dollars per Gallon)",4.7,$/GAL
+2024-09-30,SFL,FLORIDA,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_SFL_DPG,Florida Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.898,$/GAL
+2024-09-30,R1X,PADD 1A,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R1X_DPG,New England (PADD 1A) Premium Conventional Retail Gasoline Prices (Dollars per Gallon),4.047,$/GAL
+2024-09-30,SCO,COLORADO,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_SCO_DPG,Colorado Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.175,$/GAL
+2024-09-30,YDEN,DENVER,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_YDEN_DPG,"Denver, CO Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.146,$/GAL
+2024-09-30,YORD,CHICAGO,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_YORD_DPG,"Chicago, IL Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.718,$/GAL
+2024-09-30,R1Y,PADD 1B,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),3.932,$/GAL
+2024-09-30,NUS,U.S.,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_NUS_DPG,U.S. Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.094,$/GAL
+2024-09-30,R1Y,PADD 1B,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.974,$/GAL
+2024-09-30,R1Y,PADD 1B,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.755,$/GAL
+2024-09-30,SFL,FLORIDA,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_SFL_DPG,Florida Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.576,$/GAL
+2024-09-30,STX,TEXAS,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_STX_DPG,Texas Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.118,$/GAL
+2024-09-30,R30,PADD 3,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R30_DPG,Gulf Coast Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.118,$/GAL
+2024-09-30,R10,PADD 1,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R10_DPG,East Coast Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.595,$/GAL
+2024-09-30,Y05SF,SAN FRANCISCO,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_Y05SF_DPG,San Francisco Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),4.966,$/GAL
+2024-09-30,Y05LA,LOS ANGELES,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_Y05LA_DPG,Los Angeles Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),4.651,$/GAL
+2024-09-30,R1Y,PADD 1B,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.675,$/GAL
+2024-09-30,R10,PADD 1,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R10_DPG,East Coast Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.548,$/GAL
+2024-09-30,Y35NY,NEW YORK CITY,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_Y35NY_DPG,New York City Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.546,$/GAL
+2024-09-30,R1Z,PADD 1C,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.454,$/GAL
+2024-09-30,YDEN,DENVER,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_YDEN_DPG,"Denver, CO All Grades Conventional Retail Gasoline Prices (Dollars per Gallon)",,$/GAL
+2024-09-30,SWA,WASHINGTON,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_SWA_DPG,Washington All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),4.009,$/GAL
+2024-09-30,R50,PADD 5,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R50_DPG,West Coast All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.844,$/GAL
+2024-09-30,SCO,COLORADO,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_SCO_DPG,Colorado Allgrades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.567,$/GAL
+2024-09-30,Y44HO,HOUSTON,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_Y44HO_DPG,"Houston, TX All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon)",2.765,$/GAL
+2024-09-30,R20,PADD 2,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R20_DPG,Midwest All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.588,$/GAL
+2024-09-30,NUS,U.S.,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_NUS_DPG,U.S. All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.548,$/GAL
+2024-09-30,R1X,PADD 1A,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R1X_DPG,New England (PADD 1A) All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.161,$/GAL
+2024-09-30,Y05LA,LOS ANGELES,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_Y05LA_DPG,Los Angeles All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),4.36,$/GAL
+2024-09-30,YBOS,BOSTON,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_YBOS_DPG,"Boston, MA All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.2,$/GAL
+2024-09-30,Y44HO,HOUSTON,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_Y44HO_DPG,Houston All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),2.765,$/GAL
+2024-09-30,STX,TEXAS,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_STX_DPG,Texas All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),2.758,$/GAL
+2024-09-30,YORD,CHICAGO,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_YORD_DPG,Chicago All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.842,$/GAL
+2024-09-30,R1X,PADD 1A,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Retail Prices (Dollars per Gallon),3.788,$/GAL
+2024-09-30,YMIA,MIAMI,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_YMIA_DPG,"Miami, FL Regular Conventional Retail Gasoline Prices (Dollars per Gallon)",3.15,$/GAL
+2024-09-30,YCLE,CLEVELAND,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_YCLE_DPG,"Cleveland, OH Regular Conventional Retail Gasoline Prices (Dollars per Gallon)",3.186,$/GAL
+2024-09-30,R20,PADD 2,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R20_DPG,Midwest Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.048,$/GAL
+2024-09-30,YORD,CHICAGO,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_YORD_DPG,Chicago Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.675,$/GAL
+2024-09-30,SCO,COLORADO,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SCO_DPG,Colorado Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.446,$/GAL
+2024-09-30,SOH,OHIO,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SOH_DPG,Ohio Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.215,$/GAL
+2024-09-30,Y44HO,HOUSTON,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_Y44HO_DPG,Houston Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),2.628,$/GAL
+2024-09-30,R10,PADD 1,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R10_DPG,East Coast Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.06,$/GAL
+2024-09-30,R10,PADD 1,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R10_DPG,East Coast Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.889,$/GAL
+2024-09-30,R1Y,PADD 1B,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Premium Conventional Retail Gasoline Prices (Dollars per Gallon),4.092,$/GAL
+2024-09-30,R1Z,PADD 1C,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.841,$/GAL
+2024-09-30,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Premium Conventional Retail Gasoline Prices (Dollars per Gallon),4.335,$/GAL
+2024-09-30,R1X,PADD 1A,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R1X_DPG,New England (PADD 1A) Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),3.935,$/GAL
+2024-09-30,R30,PADD 3,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R30_DPG,Gulf Coast Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),3.453,$/GAL
+2024-09-30,Y05LA,LOS ANGELES,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_Y05LA_DPG,"Los Angeles, CA Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.661,$/GAL
+2024-09-30,SWA,WASHINGTON,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SWA_DPG,Washington Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.455,$/GAL
+2024-09-30,R10,PADD 1,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R10_DPG,East Coast Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.895,$/GAL
+2024-09-30,R1Z,PADD 1C,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.823,$/GAL
+2024-09-30,STX,TEXAS,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_STX_DPG,Texas Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.478,$/GAL
+2024-09-30,R10,PADD 1,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R10_DPG,East Coast Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.521,$/GAL
+2024-09-30,YDEN,DENVER,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_YDEN_DPG,"Denver, CO Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.839,$/GAL
+2024-09-30,R20,PADD 2,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R20_DPG,Midwest Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),4.07,$/GAL
+2024-09-30,YORD,CHICAGO,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_YORD_DPG,"Chicago, IL Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.265,$/GAL
+2024-09-30,R50,PADD 5,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R50_DPG,West Coast Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),4.494,$/GAL
+2024-09-30,SCO,COLORADO,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SCO_DPG,Colorado Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.854,$/GAL
+2024-09-30,YCLE,CLEVELAND,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_YCLE_DPG,"Cleveland, OH Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.732,$/GAL
+2024-09-30,Y44HO,HOUSTON,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_Y44HO_DPG,Houston Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.234,$/GAL
+2024-09-30,SWA,WASHINGTON,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SWA_DPG,Washington Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),4.265,$/GAL
+2024-09-30,R30,PADD 3,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R30_DPG,Gulf Coast All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),2.829,$/GAL
+2024-09-30,R1Y,PADD 1B,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R1Y_DPG,Central Atlantic (PADD 1B) All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.22,$/GAL
+2024-09-30,SWA,WASHINGTON,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SWA_DPG,Washington All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),4.009,$/GAL
+2024-09-30,Y48SE,SEATTLE,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_Y48SE_DPG,"Seattle, WA All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon)",4.292,$/GAL
+2024-09-30,R1Z,PADD 1C,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.1,$/GAL
+2024-09-30,R1X,PADD 1A,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.788,$/GAL
+2024-09-30,R20,PADD 2,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R20_DPG,Midwest No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.52,$/GAL
+2024-09-30,R20,PADD 2,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R20_DPG,Midwest No 2 Diesel Retail Prices (Dollars per Gallon),3.52,$/GAL
+2024-09-30,R30,PADD 3,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R30_DPG,Gulf Coast No 2 Diesel Retail Prices (Dollars per Gallon),3.212,$/GAL
+2024-09-30,R1Y,PADD 1B,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R1Y_DPG,Central Atlantic (PADD 1B) No 2 Diesel Retail Prices (Dollars per Gallon),3.802,$/GAL
+2024-09-30,NUS,U.S.,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_NUS_DPG,U.S. Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.087,$/GAL
+2024-09-30,STX,TEXAS,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_STX_DPG,Texas Regular Conventional Retail Gasoline Prices (Dollars per Gallon),2.72,$/GAL
+2024-09-30,SMN,MINNESOTA,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_SMN_DPG,Minnesota Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.06,$/GAL
+2024-09-30,SCO,COLORADO,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_SCO_DPG,Colorado Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.392,$/GAL
+2024-09-30,NUS,U.S.,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_NUS_DPG,U.S. Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.378,$/GAL
+2024-09-30,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.261,$/GAL
+2024-09-30,YBOS,BOSTON,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_YBOS_DPG,"Boston, MA Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.031,$/GAL
+2024-09-30,SNY,NEW YORK,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_SNY_DPG,New York Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),2.935,$/GAL
+2024-09-30,YCLE,CLEVELAND,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_YCLE_DPG,"Cleveland, OH Regular All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.186,$/GAL
+2024-09-30,R1Z,PADD 1C,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),2.995,$/GAL
+2024-09-30,SWA,WASHINGTON,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SWA_DPG,Washington Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.908,$/GAL
+2024-09-30,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.649,$/GAL
+2024-09-30,R50,PADD 5,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R50_DPG,West Coast Premium Conventional Retail Gasoline Prices (Dollars per Gallon),4.335,$/GAL
+2024-09-30,R20,PADD 2,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R20_DPG,Midwest Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.909,$/GAL
+2024-09-30,SCA,CALIFORNIA,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_SCA_DPG,California Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.898,$/GAL
+2024-09-30,SNY,NEW YORK,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_SNY_DPG,New York Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),3.901,$/GAL
+2024-09-30,R20,PADD 2,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R20_DPG,Midwest Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.494,$/GAL
+2024-09-30,Y44HO,HOUSTON,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_Y44HO_DPG,"Houston, TX Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.569,$/GAL
+2024-09-30,STX,TEXAS,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_STX_DPG,Texas Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),3.453,$/GAL
+2024-09-30,SMA,MASSACHUSETTS,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_SMA_DPG,Massachusetts Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),3.926,$/GAL
+2024-09-30,SMA,MASSACHUSETTS,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SMA_DPG,Massachusetts Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.926,$/GAL
+2024-09-30,SCO,COLORADO,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SCO_DPG,Colorado Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.169,$/GAL
+2024-09-30,Y05SF,SAN FRANCISCO,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_Y05SF_DPG,San Francisco Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),5.235,$/GAL
+2024-09-30,SOH,OHIO,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_SOH_DPG,Ohio Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.737,$/GAL
+2024-09-30,SNY,NEW YORK,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_SNY_DPG,New York Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.802,$/GAL
+2024-09-30,SCO,COLORADO,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_SCO_DPG,Colorado Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.867,$/GAL
+2024-09-30,Y05SF,SAN FRANCISCO,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_Y05SF_DPG,"San Francisco, CA Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.966,$/GAL
+2024-09-30,R1Z,PADD 1C,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.347,$/GAL
+2024-09-30,STX,TEXAS,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_STX_DPG,Texas Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.149,$/GAL
+2024-09-30,Y48SE,SEATTLE,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_Y48SE_DPG,"Seattle, WA Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon)",4.663,$/GAL
+2024-09-30,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),4.065,$/GAL
+2024-09-30,R50,PADD 5,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R50_DPG,West Coast All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),4.377,$/GAL
+2024-09-30,R10,PADD 1,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R10_DPG,East Coast All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.18,$/GAL
+2024-09-30,Y35NY,NEW YORK CITY,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_Y35NY_DPG,New York Harbor All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.168,$/GAL
+2024-09-30,YCLE,CLEVELAND,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_YCLE_DPG,"Cleveland, OH All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.288,$/GAL
+2024-09-30,R50,PADD 5,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R50_DPG,West Coast All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),4.18,$/GAL
+2024-09-30,R50,PADD 5,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R50_DPG,West Coast No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),4.226,$/GAL
+2024-09-30,R1Y,PADD 1B,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1Y_DPG,Central Atlantic (PADD 1B) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.802,$/GAL
+2024-09-30,R40,PADD 4,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R40_DPG,Rocky Mountain No 2 Diesel Retail Prices (Dollars per Gallon),3.612,$/GAL
+2024-09-30,R1Z,PADD 1C,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) No 2 Diesel Retail Prices (Dollars per Gallon),3.463,$/GAL
+2024-09-30,SWA,WASHINGTON,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_SWA_DPG,Washington Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.908,$/GAL
+2024-09-30,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.743,$/GAL
+2024-09-30,R40,PADD 4,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R40_DPG,Rocky Mountain Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.392,$/GAL
+2024-09-30,Y35NY,NEW YORK CITY,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_Y35NY_DPG,New York Harbor Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),2.996,$/GAL
+2024-09-30,SMA,MASSACHUSETTS,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_SMA_DPG,Massachusetts Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.015,$/GAL
+2024-09-30,STX,TEXAS,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_STX_DPG,Texas Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),2.605,$/GAL
+2024-09-30,YMIA,MIAMI,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_YMIA_DPG,"Miami, FL Regular All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.15,$/GAL
+2024-09-30,Y48SE,SEATTLE,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_Y48SE_DPG,"Seattle, WA Regular All Formulations Retail Gasoline Prices (Dollars per Gallon)",4.179,$/GAL
+2024-09-30,STX,TEXAS,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_STX_DPG,Texas Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),2.657,$/GAL
+2024-09-30,SNY,NEW YORK,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_SNY_DPG,New York Premium Conventional Retail Gasoline Prices (Dollars per Gallon),4.165,$/GAL
+2024-09-30,YDEN,DENVER,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_YDEN_DPG,"Denver, CO Premium Conventional Retail Gasoline Prices (Dollars per Gallon)",,$/GAL
+2024-09-30,R40,PADD 4,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R40_DPG,Rocky Mountain Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.946,$/GAL
+2024-09-30,Y35NY,NEW YORK CITY,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_Y35NY_DPG,New York Harbor Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),3.908,$/GAL
+2024-09-30,R1X,PADD 1A,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R1X_DPG,New England (PADD 1A) Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.948,$/GAL
+2024-09-30,YDEN,DENVER,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_YDEN_DPG,Denver Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.163,$/GAL
+2024-09-30,YCLE,CLEVELAND,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_YCLE_DPG,"Cleveland, OH Premium All Formulations Retail Gasoline Prices (Dollars per Gallon)",4.238,$/GAL
+2024-09-30,Y44HO,HOUSTON,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_Y44HO_DPG,Houston Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.569,$/GAL
+2024-09-30,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.289,$/GAL
+2024-09-30,SFL,FLORIDA,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SFL_DPG,Florida Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.898,$/GAL
+2024-09-30,R20,PADD 2,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R20_DPG,Midwest Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.058,$/GAL
+2024-09-30,YDEN,DENVER,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_YDEN_DPG,"Denver, CO Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon)",,$/GAL
+2024-09-30,SNY,NEW YORK,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_SNY_DPG,New York Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.445,$/GAL
+2024-09-30,YBOS,BOSTON,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_YBOS_DPG,"Boston, MA Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.62,$/GAL
+2024-09-30,SMA,MASSACHUSETTS,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_SMA_DPG,Massachusetts Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.627,$/GAL
+2024-09-30,SMN,MINNESOTA,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SMN_DPG,Minnesota Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.4,$/GAL
+2024-09-30,R40,PADD 4,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R40_DPG,Rocky Mountain All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.533,$/GAL
+2024-09-30,R10,PADD 1,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R10_DPG,East Coast All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.169,$/GAL
+2024-09-30,YCLE,CLEVELAND,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_YCLE_DPG,"Cleveland, OH All Grades Conventional Retail Gasoline Prices (Dollars per Gallon)",3.288,$/GAL
+2024-09-30,YDEN,DENVER,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_YDEN_DPG,"Denver, CO Allgrades Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.56,$/GAL
+2024-09-30,NUS,U.S.,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_NUS_DPG,U.S. All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.303,$/GAL
+2024-09-30,YDEN,DENVER,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_YDEN_DPG,Denver All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.568,$/GAL
+2024-09-30,YMIA,MIAMI,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_YMIA_DPG,"Miami, FL All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.289,$/GAL
+2024-09-30,SNY,NEW YORK,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SNY_DPG,New York All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.249,$/GAL
+2024-09-30,R10,PADD 1,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R10_DPG,East Coast All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.172,$/GAL
+2024-09-30,NUS,U.S.,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_NUS_DPG,U.S. No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.544,$/GAL
+2024-09-30,R10,PADD 1,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R10_DPG,East Coast No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.571,$/GAL
+2024-09-30,R30,PADD 3,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R30_DPG,Gulf Coast No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.212,$/GAL
+2024-09-30,SCA,CALIFORNIA,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_SCA_DPG,California No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),4.719,$/GAL
+2024-09-30,R1Z,PADD 1C,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.463,$/GAL
+2024-09-30,SCA,CALIFORNIA,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_SCA_DPG,California No 2 Diesel Retail Prices (Dollars per Gallon),4.719,$/GAL
+2024-09-30,R50,PADD 5,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R50_DPG,West Coast Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.743,$/GAL
+2024-09-30,R1Y,PADD 1B,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.32,$/GAL
+2024-09-30,R1Z,PADD 1C,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),2.914,$/GAL
+2024-09-30,YDEN,DENVER,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_YDEN_DPG,Denver Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.393,$/GAL
+2024-09-30,Y35NY,NEW YORK CITY,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_Y35NY_DPG,New York City Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),2.996,$/GAL
+2024-09-30,R1Y,PADD 1B,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.178,$/GAL
+2024-09-30,R30,PADD 3,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R30_DPG,Gulf Coast Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.588,$/GAL
+2024-09-30,YBOS,BOSTON,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_YBOS_DPG,"Boston, MA Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.933,$/GAL
+2024-09-30,Y05LA,LOS ANGELES,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_Y05LA_DPG,Los Angeles Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.661,$/GAL
+2024-09-30,SNY,NEW YORK,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SNY_DPG,New York Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.976,$/GAL
+2024-09-30,R40,PADD 4,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R40_DPG,Rocky Mountain Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.997,$/GAL
+2024-09-30,R1X,PADD 1A,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R1X_DPG,New England (PADD 1A) Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.688,$/GAL
+2024-09-30,SCO,COLORADO,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_SCO_DPG,Colorado Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.839,$/GAL
+2024-09-30,Y35NY,NEW YORK CITY,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_Y35NY_DPG,New York Harbor Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.546,$/GAL
+2024-09-30,R20,PADD 2,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R20_DPG,Midwest Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.556,$/GAL
+2024-09-30,SFL,FLORIDA,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SFL_DPG,Florida Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.576,$/GAL
+2024-09-30,NUS,U.S.,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_NUS_DPG,U.S. Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.738,$/GAL
+2024-09-30,YMIA,MIAMI,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_YMIA_DPG,"Miami, FL Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.603,$/GAL
+2024-09-30,SOH,OHIO,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SOH_DPG,Ohio Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.737,$/GAL
+2024-09-30,Y48SE,SEATTLE,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_Y48SE_DPG,"Seattle, WA All Grades Conventional Retail Gasoline Prices (Dollars per Gallon)",4.292,$/GAL
+2024-09-30,R40,PADD 4,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R40_DPG,Rocky Mountain Allgrades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.567,$/GAL
+2024-09-30,YBOS,BOSTON,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_YBOS_DPG,"Boston, MA All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.2,$/GAL
+2024-09-30,SCA,CALIFORNIA,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_SCA_DPG,California All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),4.535,$/GAL
+2024-09-30,SCA,CALIFORNIA,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SCA_DPG,California All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),4.535,$/GAL
+2024-09-30,SMA,MASSACHUSETTS,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SMA_DPG,Massachusetts All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.175,$/GAL
+2024-09-30,Y35NY,NEW YORK CITY,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_Y35NY_DPG,New York City All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.168,$/GAL
+2024-09-30,SFL,FLORIDA,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SFL_DPG,Florida All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.218,$/GAL
+2024-09-23,R1Y,PADD 1B,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1Y_DPG,Central Atlantic (PADD 1B) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.813,$/GAL
+2024-09-23,R40,PADD 4,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R40_DPG,Rocky Mountain No 2 Diesel Retail Prices (Dollars per Gallon),3.608,$/GAL
+2024-09-23,R1X,PADD 1A,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Retail Prices (Dollars per Gallon),3.797,$/GAL
+2024-09-23,SNY,NEW YORK,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_SNY_DPG,New York Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.351,$/GAL
+2024-09-23,YCLE,CLEVELAND,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_YCLE_DPG,"Cleveland, OH Regular Conventional Retail Gasoline Prices (Dollars per Gallon)",3.102,$/GAL
+2024-09-23,SFL,FLORIDA,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_SFL_DPG,Florida Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.06,$/GAL
+2024-09-23,STX,TEXAS,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_STX_DPG,Texas Regular Conventional Retail Gasoline Prices (Dollars per Gallon),2.706,$/GAL
+2024-09-23,SCO,COLORADO,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_SCO_DPG,Colorado Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.447,$/GAL
+2024-09-23,SOH,OHIO,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_SOH_DPG,Ohio Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.093,$/GAL
+2024-09-23,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.787,$/GAL
+2024-09-23,R1Z,PADD 1C,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),2.916,$/GAL
+2024-09-23,SCO,COLORADO,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SCO_DPG,Colorado Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.419,$/GAL
+2024-09-23,R1Y,PADD 1B,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.205,$/GAL
+2024-09-23,SFL,FLORIDA,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_SFL_DPG,Florida Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.844,$/GAL
+2024-09-23,SOH,OHIO,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_SOH_DPG,Ohio Premium Conventional Retail Gasoline Prices (Dollars per Gallon),4.145,$/GAL
+2024-09-23,R20,PADD 2,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R20_DPG,Midwest Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.88,$/GAL
+2024-09-23,R1X,PADD 1A,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R1X_DPG,New England (PADD 1A) Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),3.989,$/GAL
+2024-09-23,Y44HO,HOUSTON,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_Y44HO_DPG,"Houston, TX Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.58,$/GAL
+2024-09-23,Y05LA,LOS ANGELES,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_Y05LA_DPG,"Los Angeles, CA Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.708,$/GAL
+2024-09-23,R50,PADD 5,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R50_DPG,West Coast Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.898,$/GAL
+2024-09-23,NUS,U.S.,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_NUS_DPG,U.S. Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.108,$/GAL
+2024-09-23,R1X,PADD 1A,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R1X_DPG,New England (PADD 1A) Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.988,$/GAL
+2024-09-23,R1Z,PADD 1C,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.783,$/GAL
+2024-09-23,Y05SF,SAN FRANCISCO,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_Y05SF_DPG,San Francisco Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),5.309,$/GAL
+2024-09-23,SCO,COLORADO,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_SCO_DPG,Colorado Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.809,$/GAL
+2024-09-23,YDEN,DENVER,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_YDEN_DPG,"Denver, CO Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon)",,$/GAL
+2024-09-23,SFL,FLORIDA,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_SFL_DPG,Florida Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.515,$/GAL
+2024-09-23,YCLE,CLEVELAND,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_YCLE_DPG,"Cleveland, OH Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon)",3.651,$/GAL
+2024-09-23,R30,PADD 3,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R30_DPG,Gulf Coast Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.225,$/GAL
+2024-09-23,Y35NY,NEW YORK CITY,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_Y35NY_DPG,New York Harbor Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.624,$/GAL
+2024-09-23,R50,PADD 5,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R50_DPG,West Coast Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),4.549,$/GAL
+2024-09-23,SMN,MINNESOTA,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SMN_DPG,Minnesota Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.402,$/GAL
+2024-09-23,NUS,U.S.,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_NUS_DPG,U.S. Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.751,$/GAL
+2024-09-23,YBOS,BOSTON,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_YBOS_DPG,"Boston, MA Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.649,$/GAL
+2024-09-23,SOH,OHIO,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SOH_DPG,Ohio Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.624,$/GAL
+2024-09-23,SMA,MASSACHUSETTS,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SMA_DPG,Massachusetts Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.688,$/GAL
+2024-09-23,SWA,WASHINGTON,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_SWA_DPG,Washington All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),4.046,$/GAL
+2024-09-23,Y05LA,LOS ANGELES,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_Y05LA_DPG,"Los Angeles, CA All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.41,$/GAL
+2024-09-23,YORD,CHICAGO,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_YORD_DPG,"Chicago, IL All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.725,$/GAL
+2024-09-23,R10,PADD 1,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R10_DPG,East Coast All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.214,$/GAL
+2024-09-23,SCA,CALIFORNIA,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SCA_DPG,California All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),4.607,$/GAL
+2024-09-23,YCLE,CLEVELAND,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_YCLE_DPG,"Cleveland, OH All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.203,$/GAL
+2024-09-23,YORD,CHICAGO,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_YORD_DPG,Chicago All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.725,$/GAL
+2024-09-23,R50,PADD 5,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R50_DPG,West Coast All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),4.247,$/GAL
+2024-09-23,NUS,U.S.,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_NUS_DPG,U.S. No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.539,$/GAL
+2024-09-23,R20,PADD 2,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R20_DPG,Midwest No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.511,$/GAL
+2024-09-23,R1Z,PADD 1C,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) No 2 Diesel Retail Prices (Dollars per Gallon),3.467,$/GAL
+2024-09-23,R30,PADD 3,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R30_DPG,Gulf Coast No 2 Diesel Retail Prices (Dollars per Gallon),3.191,$/GAL
+2024-09-23,Y48SE,SEATTLE,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_Y48SE_DPG,"Seattle, WA Regular Conventional Retail Gasoline Prices (Dollars per Gallon)",4.209,$/GAL
+2024-09-23,R40,PADD 4,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R40_DPG,Rocky Mountain Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.391,$/GAL
+2024-09-23,Y44HO,HOUSTON,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_Y44HO_DPG,"Houston, TX Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",2.667,$/GAL
+2024-09-23,YBOS,BOSTON,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_YBOS_DPG,"Boston, MA Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.102,$/GAL
+2024-09-23,R20,PADD 2,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R20_DPG,Midwest Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.358,$/GAL
+2024-09-23,SNY,NEW YORK,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_SNY_DPG,New York Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.015,$/GAL
+2024-09-23,R30,PADD 3,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R30_DPG,Gulf Coast Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),2.714,$/GAL
+2024-09-23,R1Z,PADD 1C,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),2.951,$/GAL
+2024-09-23,R1X,PADD 1A,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R1X_DPG,New England (PADD 1A) Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.078,$/GAL
+2024-09-23,STX,TEXAS,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_STX_DPG,Texas Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),2.71,$/GAL
+2024-09-23,YDEN,DENVER,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_YDEN_DPG,"Denver, CO Premium Conventional Retail Gasoline Prices (Dollars per Gallon)",,$/GAL
+2024-09-23,YMIA,MIAMI,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_YMIA_DPG,"Miami, FL Premium Conventional Retail Gasoline Prices (Dollars per Gallon)",3.887,$/GAL
+2024-09-23,R1Y,PADD 1B,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Premium Conventional Retail Gasoline Prices (Dollars per Gallon),4.12,$/GAL
+2024-09-23,R1X,PADD 1A,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R1X_DPG,New England (PADD 1A) Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.985,$/GAL
+2024-09-23,R1Y,PADD 1B,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),3.979,$/GAL
+2024-09-23,SMA,MASSACHUSETTS,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_SMA_DPG,Massachusetts Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),3.989,$/GAL
+2024-09-23,SMA,MASSACHUSETTS,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SMA_DPG,Massachusetts Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.989,$/GAL
+2024-09-23,YBOS,BOSTON,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_YBOS_DPG,"Boston, MA Premium All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.966,$/GAL
+2024-09-23,Y48SE,SEATTLE,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_Y48SE_DPG,"Seattle, WA Premium All Formulations Retail Gasoline Prices (Dollars per Gallon)",4.719,$/GAL
+2024-09-23,SNY,NEW YORK,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SNY_DPG,New York Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.048,$/GAL
+2024-09-23,R20,PADD 2,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R20_DPG,Midwest Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.396,$/GAL
+2024-09-23,R10,PADD 1,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R10_DPG,East Coast Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.635,$/GAL
+2024-09-23,YORD,CHICAGO,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_YORD_DPG,"Chicago, IL Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.147,$/GAL
+2024-09-23,SNY,NEW YORK,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SNY_DPG,New York Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.638,$/GAL
+2024-09-23,YDEN,DENVER,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_YDEN_DPG,Denver Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.841,$/GAL
+2024-09-23,SFL,FLORIDA,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SFL_DPG,Florida Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.515,$/GAL
+2024-09-23,R10,PADD 1,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R10_DPG,East Coast Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.539,$/GAL
+2024-09-23,R40,PADD 4,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R40_DPG,Rocky Mountain Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.744,$/GAL
+2024-09-23,SNY,NEW YORK,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_SNY_DPG,New York All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.202,$/GAL
+2024-09-23,Y35NY,NEW YORK CITY,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_Y35NY_DPG,New York Harbor All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.225,$/GAL
+2024-09-23,R1Z,PADD 1C,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.056,$/GAL
+2024-09-23,R40,PADD 4,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R40_DPG,Rocky Mountain No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.608,$/GAL
+2024-09-23,R10,PADD 1,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R10_DPG,East Coast No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.577,$/GAL
+2024-09-23,R30,PADD 3,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R30_DPG,Gulf Coast No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.191,$/GAL
+2024-09-23,R50,PADD 5,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R50_DPG,West Coast Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.787,$/GAL
+2024-09-23,NUS,U.S.,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_NUS_DPG,U.S. Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.074,$/GAL
+2024-09-23,SWA,WASHINGTON,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_SWA_DPG,Washington Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.95,$/GAL
+2024-09-23,R10,PADD 1,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R10_DPG,East Coast Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.067,$/GAL
+2024-09-23,NUS,U.S.,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_NUS_DPG,U.S. Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.426,$/GAL
+2024-09-23,R50,PADD 5,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R50_DPG,West Coast Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),4.313,$/GAL
+2024-09-23,Y05LA,LOS ANGELES,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_Y05LA_DPG,"Los Angeles, CA Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.294,$/GAL
+2024-09-23,STX,TEXAS,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_STX_DPG,Texas Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),2.714,$/GAL
+2024-09-23,YDEN,DENVER,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_YDEN_DPG,Denver Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.391,$/GAL
+2024-09-23,SMN,MINNESOTA,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SMN_DPG,Minnesota Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.068,$/GAL
+2024-09-23,YBOS,BOSTON,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_YBOS_DPG,"Boston, MA Regular All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.102,$/GAL
+2024-09-23,SMA,MASSACHUSETTS,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SMA_DPG,Massachusetts Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.087,$/GAL
+2024-09-23,R50,PADD 5,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R50_DPG,West Coast Premium Conventional Retail Gasoline Prices (Dollars per Gallon),4.374,$/GAL
+2024-09-23,STX,TEXAS,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_STX_DPG,Texas Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),3.548,$/GAL
+2024-09-23,YDEN,DENVER,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_YDEN_DPG,Denver Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.156,$/GAL
+2024-09-23,R1Y,PADD 1B,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.016,$/GAL
+2024-09-23,R40,PADD 4,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R40_DPG,Rocky Mountain Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.72,$/GAL
+2024-09-23,NUS,U.S.,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_NUS_DPG,U.S. Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.532,$/GAL
+2024-09-23,R50,PADD 5,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R50_DPG,West Coast Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),4.153,$/GAL
+2024-09-23,NUS,U.S.,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_NUS_DPG,U.S. Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),4.068,$/GAL
+2024-09-23,Y05LA,LOS ANGELES,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_Y05LA_DPG,"Los Angeles, CA Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.673,$/GAL
+2024-09-23,Y05SF,SAN FRANCISCO,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_Y05SF_DPG,San Francisco Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),5.081,$/GAL
+2024-09-23,R20,PADD 2,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R20_DPG,Midwest Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.517,$/GAL
+2024-09-23,Y05LA,LOS ANGELES,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_Y05LA_DPG,Los Angeles Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),4.673,$/GAL
+2024-09-23,Y44HO,HOUSTON,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_Y44HO_DPG,Houston Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.255,$/GAL
+2024-09-23,Y48SE,SEATTLE,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_Y48SE_DPG,"Seattle, WA Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon)",4.672,$/GAL
+2024-09-23,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),4.098,$/GAL
+2024-09-23,YDEN,DENVER,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_YDEN_DPG,"Denver, CO All Grades Conventional Retail Gasoline Prices (Dollars per Gallon)",,$/GAL
+2024-09-23,SOH,OHIO,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_SOH_DPG,Ohio All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.184,$/GAL
+2024-09-23,SNY,NEW YORK,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_SNY_DPG,New York All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.431,$/GAL
+2024-09-23,R1Y,PADD 1B,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R1Y_DPG,Central Atlantic (PADD 1B) All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.421,$/GAL
+2024-09-23,R50,PADD 5,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R50_DPG,West Coast All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.887,$/GAL
+2024-09-23,STX,TEXAS,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_STX_DPG,Texas All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),2.79,$/GAL
+2024-09-23,SCO,COLORADO,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_SCO_DPG,Colorado Allgrades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.564,$/GAL
+2024-09-23,STX,TEXAS,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_STX_DPG,Texas All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),2.829,$/GAL
+2024-09-23,R1Z,PADD 1C,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.027,$/GAL
+2024-09-23,Y44HO,HOUSTON,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_Y44HO_DPG,Houston All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),2.8,$/GAL
+2024-09-23,SNY,NEW YORK,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SNY_DPG,New York All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.312,$/GAL
+2024-09-23,NUS,U.S.,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_NUS_DPG,U.S. No 2 Diesel Retail Prices (Dollars per Gallon),3.539,$/GAL
+2024-09-23,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R5XCA_DPG,West Coast (PADD 5) Except California No 2 Diesel Retail Prices (Dollars per Gallon),3.815,$/GAL
+2024-09-23,R1Y,PADD 1B,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R1Y_DPG,Central Atlantic (PADD 1B) No 2 Diesel Retail Prices (Dollars per Gallon),3.813,$/GAL
+2024-09-23,YDEN,DENVER,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_YDEN_DPG,"Denver, CO Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.386,$/GAL
+2024-09-23,SCA,CALIFORNIA,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_SCA_DPG,California Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),4.49,$/GAL
+2024-09-23,SOH,OHIO,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SOH_DPG,Ohio Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.093,$/GAL
+2024-09-23,Y48SE,SEATTLE,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_Y48SE_DPG,"Seattle, WA Regular All Formulations Retail Gasoline Prices (Dollars per Gallon)",4.209,$/GAL
+2024-09-23,R10,PADD 1,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R10_DPG,East Coast Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.857,$/GAL
+2024-09-23,Y48SE,SEATTLE,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_Y48SE_DPG,"Seattle, WA Premium Conventional Retail Gasoline Prices (Dollars per Gallon)",4.719,$/GAL
+2024-09-23,R40,PADD 4,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R40_DPG,Rocky Mountain Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.168,$/GAL
+2024-09-23,YMIA,MIAMI,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_YMIA_DPG,"Miami, FL Premium All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.887,$/GAL
+2024-09-23,R40,PADD 4,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R40_DPG,Rocky Mountain Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.023,$/GAL
+2024-09-23,SMN,MINNESOTA,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_SMN_DPG,Minnesota Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.402,$/GAL
+2024-09-23,SWA,WASHINGTON,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_SWA_DPG,Washington Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),4.281,$/GAL
+2024-09-23,YMIA,MIAMI,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_YMIA_DPG,"Miami, FL Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon)",3.556,$/GAL
+2024-09-23,R30,PADD 3,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R30_DPG,Gulf Coast Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.245,$/GAL
+2024-09-23,R10,PADD 1,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R10_DPG,East Coast Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.484,$/GAL
+2024-09-23,R1Z,PADD 1C,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.416,$/GAL
+2024-09-23,YDEN,DENVER,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_YDEN_DPG,"Denver, CO Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.83,$/GAL
+2024-09-23,SNY,NEW YORK,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_SNY_DPG,New York Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.527,$/GAL
+2024-09-23,Y44HO,HOUSTON,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_Y44HO_DPG,"Houston, TX Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.255,$/GAL
+2024-09-23,R1Z,PADD 1C,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.344,$/GAL
+2024-09-23,SMA,MASSACHUSETTS,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_SMA_DPG,Massachusetts Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.688,$/GAL
+2024-09-23,R30,PADD 3,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R30_DPG,Gulf Coast Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.238,$/GAL
+2024-09-23,SCA,CALIFORNIA,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SCA_DPG,California Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),4.797,$/GAL
+2024-09-23,R1Z,PADD 1C,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.409,$/GAL
+2024-09-23,SCO,COLORADO,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_SCO_DPG,Colorado All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.577,$/GAL
+2024-09-23,YCLE,CLEVELAND,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_YCLE_DPG,"Cleveland, OH All Grades Conventional Retail Gasoline Prices (Dollars per Gallon)",3.203,$/GAL
+2024-09-23,YDEN,DENVER,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_YDEN_DPG,"Denver, CO Allgrades Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.556,$/GAL
+2024-09-23,R50,PADD 5,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R50_DPG,West Coast All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),4.452,$/GAL
+2024-09-23,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R5XCA_DPG,West Coast (PADD 5) Except California All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.417,$/GAL
+2024-09-23,SOH,OHIO,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SOH_DPG,Ohio All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.184,$/GAL
+2024-09-23,SMA,MASSACHUSETTS,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SMA_DPG,Massachusetts All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.245,$/GAL
+2024-09-23,YDEN,DENVER,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_YDEN_DPG,Denver All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.565,$/GAL
+2024-09-23,YMIA,MIAMI,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_YMIA_DPG,"Miami, FL All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.244,$/GAL
+2024-09-23,R30,PADD 3,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R30_DPG,Gulf Coast All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),2.831,$/GAL
+2024-09-23,R50,PADD 5,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R50_DPG,West Coast No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),4.239,$/GAL
+2024-09-23,R1Z,PADD 1C,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Regular Conventional Retail Gasoline Prices (Dollars per Gallon),2.954,$/GAL
+2024-09-23,R40,PADD 4,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R40_DPG,Rocky Mountain Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.446,$/GAL
+2024-09-23,R20,PADD 2,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R20_DPG,Midwest Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.029,$/GAL
+2024-09-23,R1X,PADD 1A,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R1X_DPG,New England (PADD 1A) Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.069,$/GAL
+2024-09-23,YORD,CHICAGO,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_YORD_DPG,Chicago Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.558,$/GAL
+2024-09-23,Y44HO,HOUSTON,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_Y44HO_DPG,Houston Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),2.667,$/GAL
+2024-09-23,Y05LA,LOS ANGELES,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_Y05LA_DPG,Los Angeles Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),4.294,$/GAL
+2024-09-23,SWA,WASHINGTON,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SWA_DPG,Washington Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.95,$/GAL
+2024-09-23,Y05SF,SAN FRANCISCO,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_Y05SF_DPG,San Francisco Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),4.854,$/GAL
+2024-09-23,YCLE,CLEVELAND,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_YCLE_DPG,"Cleveland, OH Premium Conventional Retail Gasoline Prices (Dollars per Gallon)",4.146,$/GAL
+2024-09-23,SCO,COLORADO,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_SCO_DPG,Colorado Premium Conventional Retail Gasoline Prices (Dollars per Gallon),4.103,$/GAL
+2024-09-23,R10,PADD 1,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R10_DPG,East Coast Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),3.946,$/GAL
+2024-09-23,YBOS,BOSTON,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_YBOS_DPG,"Boston, MA Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.966,$/GAL
+2024-09-23,R30,PADD 3,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R30_DPG,Gulf Coast Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),3.548,$/GAL
+2024-09-23,NUS,U.S.,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_NUS_DPG,U.S. Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.338,$/GAL
+2024-09-23,Y35NY,NEW YORK CITY,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_Y35NY_DPG,New York City Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.974,$/GAL
+2024-09-23,SMN,MINNESOTA,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SMN_DPG,Minnesota Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.783,$/GAL
+2024-09-23,SOH,OHIO,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SOH_DPG,Ohio Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.145,$/GAL
+2024-09-23,R50,PADD 5,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R50_DPG,West Coast Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.744,$/GAL
+2024-09-23,R30,PADD 3,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R30_DPG,Gulf Coast Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.572,$/GAL
+2024-09-23,SNY,NEW YORK,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_SNY_DPG,New York Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.836,$/GAL
+2024-09-23,STX,TEXAS,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_STX_DPG,Texas Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.189,$/GAL
+2024-09-23,R50,PADD 5,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R50_DPG,West Coast Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),4.721,$/GAL
+2024-09-23,STX,TEXAS,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_STX_DPG,Texas Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.225,$/GAL
+2024-09-23,Y05SF,SAN FRANCISCO,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_Y05SF_DPG,"San Francisco, CA Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",5.081,$/GAL
+2024-09-23,R20,PADD 2,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R20_DPG,Midwest Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.976,$/GAL
+2024-09-23,SCA,CALIFORNIA,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_SCA_DPG,California Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),4.797,$/GAL
+2024-09-23,YORD,CHICAGO,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_YORD_DPG,Chicago Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),4.147,$/GAL
+2024-09-23,R1X,PADD 1A,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R1X_DPG,New England (PADD 1A) Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.686,$/GAL
+2024-09-23,YMIA,MIAMI,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_YMIA_DPG,"Miami, FL All Grades Conventional Retail Gasoline Prices (Dollars per Gallon)",3.244,$/GAL
+2024-09-23,R1Z,PADD 1C,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.058,$/GAL
+2024-09-23,NUS,U.S.,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_NUS_DPG,U.S. All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.597,$/GAL
+2024-09-23,YBOS,BOSTON,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_YBOS_DPG,"Boston, MA All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.263,$/GAL
+2024-09-23,SWA,WASHINGTON,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SWA_DPG,Washington All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),4.046,$/GAL
+2024-09-23,Y05LA,LOS ANGELES,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_Y05LA_DPG,Los Angeles All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),4.41,$/GAL
+2024-09-23,Y48SE,SEATTLE,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_Y48SE_DPG,"Seattle, WA All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon)",4.319,$/GAL
+2024-09-23,SCO,COLORADO,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SCO_DPG,Colorado All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.57,$/GAL
+2024-09-23,R1X,PADD 1A,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.797,$/GAL
+2024-09-23,R50,PADD 5,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R50_DPG,West Coast No 2 Diesel Retail Prices (Dollars per Gallon),4.239,$/GAL
+2024-09-23,R10,PADD 1,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R10_DPG,East Coast No 2 Diesel Retail Prices (Dollars per Gallon),3.577,$/GAL
+2024-09-23,R1Y,PADD 1B,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.347,$/GAL
+2024-09-23,YMIA,MIAMI,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_YMIA_DPG,"Miami, FL Regular Conventional Retail Gasoline Prices (Dollars per Gallon)",3.105,$/GAL
+2024-09-23,Y35NY,NEW YORK CITY,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_Y35NY_DPG,New York Harbor Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.05,$/GAL
+2024-09-23,R1Y,PADD 1B,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.097,$/GAL
+2024-09-23,SFL,FLORIDA,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SFL_DPG,Florida Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.06,$/GAL
+2024-09-23,R20,PADD 2,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R20_DPG,Midwest Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.077,$/GAL
+2024-09-23,R30,PADD 3,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R30_DPG,Gulf Coast Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),2.733,$/GAL
+2024-09-23,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.697,$/GAL
+2024-09-23,NUS,U.S.,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_NUS_DPG,U.S. Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.913,$/GAL
+2024-09-23,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Premium Conventional Retail Gasoline Prices (Dollars per Gallon),4.374,$/GAL
+2024-09-23,SCA,CALIFORNIA,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_SCA_DPG,California Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.961,$/GAL
+2024-09-23,R20,PADD 2,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R20_DPG,Midwest Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.405,$/GAL
+2024-09-23,Y05SF,SAN FRANCISCO,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_Y05SF_DPG,"San Francisco, CA Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",5.309,$/GAL
+2024-09-23,Y35NY,NEW YORK CITY,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_Y35NY_DPG,New York Harbor Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),3.974,$/GAL
+2024-09-23,R1Z,PADD 1C,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),3.651,$/GAL
+2024-09-23,SWA,WASHINGTON,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SWA_DPG,Washington Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.478,$/GAL
+2024-09-23,Y44HO,HOUSTON,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_Y44HO_DPG,Houston Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.58,$/GAL
+2024-09-23,R20,PADD 2,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R20_DPG,Midwest Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.013,$/GAL
+2024-09-23,R1Y,PADD 1B,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.768,$/GAL
+2024-09-23,R1X,PADD 1A,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R1X_DPG,New England (PADD 1A) Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.679,$/GAL
+2024-09-23,SOH,OHIO,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_SOH_DPG,Ohio Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.624,$/GAL
+2024-09-23,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),4.153,$/GAL
+2024-09-23,YBOS,BOSTON,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_YBOS_DPG,"Boston, MA Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.649,$/GAL
+2024-09-23,R1Y,PADD 1B,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.675,$/GAL
+2024-09-23,SCO,COLORADO,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SCO_DPG,Colorado Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.817,$/GAL
+2024-09-23,YCLE,CLEVELAND,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_YCLE_DPG,"Cleveland, OH Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.651,$/GAL
+2024-09-23,Y35NY,NEW YORK CITY,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_Y35NY_DPG,New York City Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.624,$/GAL
+2024-09-23,R30,PADD 3,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R30_DPG,Gulf Coast All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),2.832,$/GAL
+2024-09-23,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R5XCA_DPG,West Coast (PADD 5) Except California All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.887,$/GAL
+2024-09-23,R40,PADD 4,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R40_DPG,Rocky Mountain All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.553,$/GAL
+2024-09-23,R10,PADD 1,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R10_DPG,East Coast All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.14,$/GAL
+2024-09-23,NUS,U.S.,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_NUS_DPG,U.S. All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.166,$/GAL
+2024-09-23,R40,PADD 4,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R40_DPG,Rocky Mountain Allgrades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.564,$/GAL
+2024-09-23,R20,PADD 2,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R20_DPG,Midwest All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.505,$/GAL
+2024-09-23,SMA,MASSACHUSETTS,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_SMA_DPG,Massachusetts All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.245,$/GAL
+2024-09-23,R1X,PADD 1A,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R1X_DPG,New England (PADD 1A) All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.22,$/GAL
+2024-09-23,Y05SF,SAN FRANCISCO,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_Y05SF_DPG,San Francisco All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),4.987,$/GAL
+2024-09-23,Y35NY,NEW YORK CITY,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_Y35NY_DPG,New York City All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.225,$/GAL
+2024-09-23,R20,PADD 2,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R20_DPG,Midwest All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.156,$/GAL
+2024-09-23,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R5XCA_DPG,West Coast (PADD 5) Except California No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.815,$/GAL
+2024-09-23,SCA,CALIFORNIA,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_SCA_DPG,California No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),4.727,$/GAL
+2024-09-23,R1Z,PADD 1C,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.467,$/GAL
+2024-09-23,R20,PADD 2,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R20_DPG,Midwest No 2 Diesel Retail Prices (Dollars per Gallon),3.511,$/GAL
+2024-09-23,R30,PADD 3,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R30_DPG,Gulf Coast Regular Conventional Retail Gasoline Prices (Dollars per Gallon),2.742,$/GAL
+2024-09-23,R1X,PADD 1A,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R1X_DPG,New England (PADD 1A) Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.112,$/GAL
+2024-09-23,R10,PADD 1,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R10_DPG,East Coast Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.045,$/GAL
+2024-09-23,YDEN,DENVER,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_YDEN_DPG,"Denver, CO Regular Conventional Retail Gasoline Prices (Dollars per Gallon)",,$/GAL
+2024-09-23,Y05SF,SAN FRANCISCO,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_Y05SF_DPG,"San Francisco, CA Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.854,$/GAL
+2024-09-23,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.324,$/GAL
+2024-09-23,SMA,MASSACHUSETTS,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_SMA_DPG,Massachusetts Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.087,$/GAL
+2024-09-23,YMIA,MIAMI,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_YMIA_DPG,"Miami, FL Regular All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.105,$/GAL
+2024-09-23,Y35NY,NEW YORK CITY,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_Y35NY_DPG,New York City Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.05,$/GAL
+2024-09-23,NUS,U.S.,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_NUS_DPG,U.S. Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.185,$/GAL
+2024-09-23,R50,PADD 5,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R50_DPG,West Coast Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),4.111,$/GAL
+2024-09-23,SCA,CALIFORNIA,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SCA_DPG,California Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),4.49,$/GAL
+2024-09-23,STX,TEXAS,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_STX_DPG,Texas Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.502,$/GAL
+2024-09-23,SCO,COLORADO,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_SCO_DPG,Colorado Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.168,$/GAL
+2024-09-23,SNY,NEW YORK,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_SNY_DPG,New York Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),3.98,$/GAL
+2024-09-23,YORD,CHICAGO,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_YORD_DPG,"Chicago, IL Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.606,$/GAL
+2024-09-23,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.066,$/GAL
+2024-09-23,YORD,CHICAGO,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_YORD_DPG,Chicago Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.606,$/GAL
+2024-09-23,Y05LA,LOS ANGELES,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_Y05LA_DPG,Los Angeles Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.708,$/GAL
+2024-09-23,R10,PADD 1,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R10_DPG,East Coast Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.896,$/GAL
+2024-09-23,YCLE,CLEVELAND,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_YCLE_DPG,"Cleveland, OH Premium All Formulations Retail Gasoline Prices (Dollars per Gallon)",4.146,$/GAL
+2024-09-23,SCO,COLORADO,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SCO_DPG,Colorado Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.14,$/GAL
+2024-09-23,STX,TEXAS,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_STX_DPG,Texas Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.531,$/GAL
+2024-09-23,Y48SE,SEATTLE,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_Y48SE_DPG,"Seattle, WA Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon)",4.672,$/GAL
+2024-09-23,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.782,$/GAL
+2024-09-23,R1Y,PADD 1B,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.707,$/GAL
+2024-09-23,SWA,WASHINGTON,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SWA_DPG,Washington Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),4.281,$/GAL
+2024-09-23,Y48SE,SEATTLE,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_Y48SE_DPG,"Seattle, WA All Grades Conventional Retail Gasoline Prices (Dollars per Gallon)",4.319,$/GAL
+2024-09-23,SFL,FLORIDA,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_SFL_DPG,Florida All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.161,$/GAL
+2024-09-23,R1X,PADD 1A,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R1X_DPG,New England (PADD 1A) All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.188,$/GAL
+2024-09-23,R20,PADD 2,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R20_DPG,Midwest All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.093,$/GAL
+2024-09-23,R1Y,PADD 1B,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R1Y_DPG,Central Atlantic (PADD 1B) All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.25,$/GAL
+2024-09-23,SCA,CALIFORNIA,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_SCA_DPG,California All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),4.607,$/GAL
+2024-09-23,YBOS,BOSTON,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_YBOS_DPG,"Boston, MA All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.263,$/GAL
+2024-09-23,R1X,PADD 1A,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R1X_DPG,New England (PADD 1A) All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.213,$/GAL
+2024-09-23,SFL,FLORIDA,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SFL_DPG,Florida All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.161,$/GAL
+2024-09-23,R10,PADD 1,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R10_DPG,East Coast All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.165,$/GAL
+2024-09-23,R1Y,PADD 1B,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R1Y_DPG,Central Atlantic (PADD 1B) All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.32,$/GAL
+2024-09-23,SCA,CALIFORNIA,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_SCA_DPG,California No 2 Diesel Retail Prices (Dollars per Gallon),4.727,$/GAL
+2024-09-23,SMN,MINNESOTA,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_SMN_DPG,Minnesota Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.068,$/GAL
+2024-09-23,SCO,COLORADO,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_SCO_DPG,Colorado Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.391,$/GAL
+2024-09-23,YORD,CHICAGO,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_YORD_DPG,"Chicago, IL Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.558,$/GAL
+2024-09-23,YCLE,CLEVELAND,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_YCLE_DPG,"Cleveland, OH Regular All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.102,$/GAL
+2024-09-23,SNY,NEW YORK,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SNY_DPG,New York Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.188,$/GAL
+2024-09-23,R40,PADD 4,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R40_DPG,Rocky Mountain Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.434,$/GAL
+2024-09-23,R10,PADD 1,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R10_DPG,East Coast Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.052,$/GAL
+2024-09-23,SNY,NEW YORK,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_SNY_DPG,New York Premium Conventional Retail Gasoline Prices (Dollars per Gallon),4.217,$/GAL
+2024-09-23,SMN,MINNESOTA,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_SMN_DPG,Minnesota Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.783,$/GAL
+2024-09-23,R40,PADD 4,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R40_DPG,Rocky Mountain Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.981,$/GAL
+2024-09-23,R30,PADD 3,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R30_DPG,Gulf Coast Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.589,$/GAL
+2024-09-23,SWA,WASHINGTON,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_SWA_DPG,Washington Premium Conventional Retail Gasoline Prices (Dollars per Gallon),4.478,$/GAL
+2024-09-23,R1Z,PADD 1C,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.797,$/GAL
+2024-09-23,YDEN,DENVER,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_YDEN_DPG,"Denver, CO Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.139,$/GAL
+2024-09-23,SCA,CALIFORNIA,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SCA_DPG,California Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.961,$/GAL
+2024-09-23,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.33,$/GAL
+2024-09-23,SFL,FLORIDA,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SFL_DPG,Florida Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.844,$/GAL
+2024-09-23,R40,PADD 4,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R40_DPG,Rocky Mountain Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.828,$/GAL
+2024-09-23,SCO,COLORADO,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_SCO_DPG,Colorado Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.828,$/GAL
+2024-09-23,R1X,PADD 1A,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R1X_DPG,New England (PADD 1A) Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.687,$/GAL
+2024-09-23,STX,TEXAS,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_STX_DPG,Texas Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.21,$/GAL
+2024-09-23,YMIA,MIAMI,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_YMIA_DPG,"Miami, FL Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.556,$/GAL
+2024-09-23,SMN,MINNESOTA,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_SMN_DPG,Minnesota All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.125,$/GAL
+2024-09-23,Y44HO,HOUSTON,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_Y44HO_DPG,"Houston, TX All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon)",2.8,$/GAL
+2024-09-23,Y05SF,SAN FRANCISCO,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_Y05SF_DPG,"San Francisco, CA All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.987,$/GAL
+2024-09-23,R30,PADD 3,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R30_DPG,Gulf Coast All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),2.829,$/GAL
+2024-09-23,NUS,U.S.,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_NUS_DPG,U.S. All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.311,$/GAL
+2024-09-23,SMN,MINNESOTA,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SMN_DPG,Minnesota All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.125,$/GAL
+2024-09-23,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R5XCA_DPG,West Coast (PADD 5) Except California All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.8,$/GAL
+2024-09-23,STX,TEXAS,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_STX_DPG,Texas All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),2.812,$/GAL
+2024-09-23,R40,PADD 4,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R40_DPG,Rocky Mountain All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.555,$/GAL
+2024-09-16,R20,PADD 2,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R20_DPG,Midwest No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.481,$/GAL
+2024-09-16,R10,PADD 1,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R10_DPG,East Coast No 2 Diesel Retail Prices (Dollars per Gallon),3.585,$/GAL
+2024-09-16,R1Z,PADD 1C,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) No 2 Diesel Retail Prices (Dollars per Gallon),3.479,$/GAL
+2024-09-16,NUS,U.S.,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_NUS_DPG,U.S. No 2 Diesel Retail Prices (Dollars per Gallon),3.526,$/GAL
+2024-09-16,SCA,CALIFORNIA,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_SCA_DPG,California No 2 Diesel Retail Prices (Dollars per Gallon),4.733,$/GAL
+2024-09-16,R20,PADD 2,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R20_DPG,Midwest Regular Conventional Retail Gasoline Prices (Dollars per Gallon),2.953,$/GAL
+2024-09-16,Y35NY,NEW YORK CITY,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_Y35NY_DPG,New York Harbor Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.116,$/GAL
+2024-09-16,SCA,CALIFORNIA,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_SCA_DPG,California Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),4.515,$/GAL
+2024-09-16,SMA,MASSACHUSETTS,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_SMA_DPG,Massachusetts Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.13,$/GAL
+2024-09-16,SWA,WASHINGTON,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SWA_DPG,Washington Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.99,$/GAL
+2024-09-16,R10,PADD 1,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R10_DPG,East Coast Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.085,$/GAL
+2024-09-16,NUS,U.S.,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_NUS_DPG,U.S. Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.911,$/GAL
+2024-09-16,R10,PADD 1,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R10_DPG,East Coast Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.893,$/GAL
+2024-09-16,R1X,PADD 1A,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R1X_DPG,New England (PADD 1A) Premium Conventional Retail Gasoline Prices (Dollars per Gallon),4.259,$/GAL
+2024-09-16,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Premium Conventional Retail Gasoline Prices (Dollars per Gallon),4.397,$/GAL
+2024-09-16,YDEN,DENVER,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_YDEN_DPG,"Denver, CO Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.093,$/GAL
+2024-09-16,SCA,CALIFORNIA,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_SCA_DPG,California Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.998,$/GAL
+2024-09-16,Y35NY,NEW YORK CITY,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_Y35NY_DPG,New York Harbor Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.013,$/GAL
+2024-09-16,STX,TEXAS,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_STX_DPG,Texas Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),3.554,$/GAL
+2024-09-16,SCA,CALIFORNIA,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SCA_DPG,California Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.998,$/GAL
+2024-09-16,Y05SF,SAN FRANCISCO,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_Y05SF_DPG,San Francisco Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),5.395,$/GAL
+2024-09-16,SFL,FLORIDA,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SFL_DPG,Florida Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.844,$/GAL
+2024-09-16,R1X,PADD 1A,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R1X_DPG,New England (PADD 1A) Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.902,$/GAL
+2024-09-16,R1Z,PADD 1C,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.434,$/GAL
+2024-09-16,Y44HO,HOUSTON,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_Y44HO_DPG,"Houston, TX Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.29,$/GAL
+2024-09-16,SCA,CALIFORNIA,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_SCA_DPG,California Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),4.822,$/GAL
+2024-09-16,Y35NY,NEW YORK CITY,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_Y35NY_DPG,New York Harbor Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.665,$/GAL
+2024-09-16,STX,TEXAS,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_STX_DPG,Texas Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.189,$/GAL
+2024-09-16,SMN,MINNESOTA,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SMN_DPG,Minnesota Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.384,$/GAL
+2024-09-16,SFL,FLORIDA,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SFL_DPG,Florida Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.514,$/GAL
+2024-09-16,R40,PADD 4,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R40_DPG,Rocky Mountain Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.719,$/GAL
+2024-09-16,NUS,U.S.,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_NUS_DPG,U.S. All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.15,$/GAL
+2024-09-16,R40,PADD 4,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R40_DPG,Rocky Mountain Allgrades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.508,$/GAL
+2024-09-16,YORD,CHICAGO,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_YORD_DPG,"Chicago, IL All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.673,$/GAL
+2024-09-16,R20,PADD 2,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R20_DPG,Midwest All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.458,$/GAL
+2024-09-16,R1Y,PADD 1B,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R1Y_DPG,Central Atlantic (PADD 1B) All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.296,$/GAL
+2024-09-16,SNY,NEW YORK,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_SNY_DPG,New York All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.24,$/GAL
+2024-09-16,R10,PADD 1,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R10_DPG,East Coast All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.263,$/GAL
+2024-09-16,R30,PADD 3,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R30_DPG,Gulf Coast All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),2.828,$/GAL
+2024-09-16,SMA,MASSACHUSETTS,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SMA_DPG,Massachusetts All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.291,$/GAL
+2024-09-16,R20,PADD 2,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R20_DPG,Midwest All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.085,$/GAL
+2024-09-16,SCA,CALIFORNIA,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_SCA_DPG,California No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),4.733,$/GAL
+2024-09-16,R20,PADD 2,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R20_DPG,Midwest No 2 Diesel Retail Prices (Dollars per Gallon),3.481,$/GAL
+2024-09-16,SWA,WASHINGTON,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_SWA_DPG,Washington Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.99,$/GAL
+2024-09-16,SNY,NEW YORK,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_SNY_DPG,New York Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.391,$/GAL
+2024-09-16,R10,PADD 1,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R10_DPG,East Coast Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.118,$/GAL
+2024-09-16,Y44HO,HOUSTON,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_Y44HO_DPG,"Houston, TX Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",2.704,$/GAL
+2024-09-16,R1Y,PADD 1B,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.146,$/GAL
+2024-09-16,YORD,CHICAGO,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_YORD_DPG,Chicago Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.505,$/GAL
+2024-09-16,SOH,OHIO,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SOH_DPG,Ohio Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),2.882,$/GAL
+2024-09-16,R30,PADD 3,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R30_DPG,Gulf Coast Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),2.728,$/GAL
+2024-09-16,SMN,MINNESOTA,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SMN_DPG,Minnesota Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.046,$/GAL
+2024-09-16,YBOS,BOSTON,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_YBOS_DPG,"Boston, MA Regular All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.15,$/GAL
+2024-09-16,STX,TEXAS,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_STX_DPG,Texas Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),2.689,$/GAL
+2024-09-16,SCA,CALIFORNIA,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SCA_DPG,California Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),4.515,$/GAL
+2024-09-16,R50,PADD 5,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R50_DPG,West Coast Premium Conventional Retail Gasoline Prices (Dollars per Gallon),4.397,$/GAL
+2024-09-16,YORD,CHICAGO,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_YORD_DPG,"Chicago, IL Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.558,$/GAL
+2024-09-16,R1Y,PADD 1B,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.01,$/GAL
+2024-09-16,R30,PADD 3,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R30_DPG,Gulf Coast Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),3.554,$/GAL
+2024-09-16,R1Z,PADD 1C,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),3.707,$/GAL
+2024-09-16,YBOS,BOSTON,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_YBOS_DPG,"Boston, MA Premium All Formulations Retail Gasoline Prices (Dollars per Gallon)",4.03,$/GAL
+2024-09-16,Y48SE,SEATTLE,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_Y48SE_DPG,"Seattle, WA Premium All Formulations Retail Gasoline Prices (Dollars per Gallon)",4.745,$/GAL
+2024-09-16,YMIA,MIAMI,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_YMIA_DPG,"Miami, FL Premium All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.909,$/GAL
+2024-09-16,YCLE,CLEVELAND,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_YCLE_DPG,"Cleveland, OH Premium All Formulations Retail Gasoline Prices (Dollars per Gallon)",4.004,$/GAL
+2024-09-16,Y44HO,HOUSTON,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_Y44HO_DPG,Houston Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.637,$/GAL
+2024-09-16,SWA,WASHINGTON,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_SWA_DPG,Washington Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),4.314,$/GAL
+2024-09-16,R50,PADD 5,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R50_DPG,West Coast Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),4.169,$/GAL
+2024-09-16,SNY,NEW YORK,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_SNY_DPG,New York Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.873,$/GAL
+2024-09-16,SMA,MASSACHUSETTS,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_SMA_DPG,Massachusetts Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.746,$/GAL
+2024-09-16,R1Y,PADD 1B,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.706,$/GAL
+2024-09-16,R10,PADD 1,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R10_DPG,East Coast Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.678,$/GAL
+2024-09-16,R1X,PADD 1A,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R1X_DPG,New England (PADD 1A) Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.769,$/GAL
+2024-09-16,YDEN,DENVER,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_YDEN_DPG,Denver Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.792,$/GAL
+2024-09-16,YMIA,MIAMI,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_YMIA_DPG,"Miami, FL All Grades Conventional Retail Gasoline Prices (Dollars per Gallon)",3.271,$/GAL
+2024-09-16,R20,PADD 2,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R20_DPG,Midwest All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.017,$/GAL
+2024-09-16,SCA,CALIFORNIA,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_SCA_DPG,California All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),4.634,$/GAL
+2024-09-16,Y48SE,SEATTLE,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_Y48SE_DPG,"Seattle, WA All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon)",4.345,$/GAL
+2024-09-16,Y44HO,HOUSTON,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_Y44HO_DPG,Houston All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),2.839,$/GAL
+2024-09-16,R50,PADD 5,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R50_DPG,West Coast All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),4.273,$/GAL
+2024-09-16,SFL,FLORIDA,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SFL_DPG,Florida All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.156,$/GAL
+2024-09-16,R1Y,PADD 1B,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R1Y_DPG,Central Atlantic (PADD 1B) All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.36,$/GAL
+2024-09-16,R50,PADD 5,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R50_DPG,West Coast No 2 Diesel Retail Prices (Dollars per Gallon),4.244,$/GAL
+2024-09-16,R1Z,PADD 1C,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Regular Conventional Retail Gasoline Prices (Dollars per Gallon),2.97,$/GAL
+2024-09-16,Y48SE,SEATTLE,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_Y48SE_DPG,"Seattle, WA Regular Conventional Retail Gasoline Prices (Dollars per Gallon)",4.236,$/GAL
+2024-09-16,YORD,CHICAGO,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_YORD_DPG,"Chicago, IL Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.505,$/GAL
+2024-09-16,R1X,PADD 1A,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R1X_DPG,New England (PADD 1A) Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.12,$/GAL
+2024-09-16,STX,TEXAS,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_STX_DPG,Texas Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),2.712,$/GAL
+2024-09-16,Y05SF,SAN FRANCISCO,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_Y05SF_DPG,San Francisco Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),4.886,$/GAL
+2024-09-16,STX,TEXAS,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_STX_DPG,Texas Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.453,$/GAL
+2024-09-16,SNY,NEW YORK,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_SNY_DPG,New York Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.01,$/GAL
+2024-09-16,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.079,$/GAL
+2024-09-16,R10,PADD 1,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R10_DPG,East Coast Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),3.987,$/GAL
+2024-09-16,NUS,U.S.,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_NUS_DPG,U.S. Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.119,$/GAL
+2024-09-16,SWA,WASHINGTON,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SWA_DPG,Washington Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.513,$/GAL
+2024-09-16,R20,PADD 2,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R20_DPG,Midwest Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.954,$/GAL
+2024-09-16,R10,PADD 1,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R10_DPG,East Coast Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.512,$/GAL
+2024-09-16,R50,PADD 5,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R50_DPG,West Coast Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),4.747,$/GAL
+2024-09-16,STX,TEXAS,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_STX_DPG,Texas Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.219,$/GAL
+2024-09-16,R20,PADD 2,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R20_DPG,Midwest Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.937,$/GAL
+2024-09-16,SCO,COLORADO,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SCO_DPG,Colorado Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.767,$/GAL
+2024-09-16,SOH,OHIO,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SOH_DPG,Ohio Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.424,$/GAL
+2024-09-16,R1Z,PADD 1C,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.431,$/GAL
+2024-09-16,Y48SE,SEATTLE,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_Y48SE_DPG,"Seattle, WA All Grades Conventional Retail Gasoline Prices (Dollars per Gallon)",4.345,$/GAL
+2024-09-16,NUS,U.S.,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_NUS_DPG,U.S. All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.618,$/GAL
+2024-09-16,Y05LA,LOS ANGELES,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_Y05LA_DPG,Los Angeles All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),4.438,$/GAL
+2024-09-16,SOH,OHIO,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SOH_DPG,Ohio All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),2.974,$/GAL
+2024-09-16,R50,PADD 5,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R50_DPG,West Coast No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),4.244,$/GAL
+2024-09-16,R40,PADD 4,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R40_DPG,Rocky Mountain No 2 Diesel Retail Prices (Dollars per Gallon),3.588,$/GAL
+2024-09-16,R1X,PADD 1A,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R1X_DPG,New England (PADD 1A) Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.233,$/GAL
+2024-09-16,SFL,FLORIDA,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_SFL_DPG,Florida Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.055,$/GAL
+2024-09-16,SMN,MINNESOTA,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_SMN_DPG,Minnesota Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.046,$/GAL
+2024-09-16,SCO,COLORADO,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_SCO_DPG,Colorado Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.332,$/GAL
+2024-09-16,Y05SF,SAN FRANCISCO,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_Y05SF_DPG,"San Francisco, CA Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.886,$/GAL
+2024-09-16,R50,PADD 5,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R50_DPG,West Coast Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),4.339,$/GAL
+2024-09-16,R20,PADD 2,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R20_DPG,Midwest Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.309,$/GAL
+2024-09-16,YCLE,CLEVELAND,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_YCLE_DPG,"Cleveland, OH Regular All Formulations Retail Gasoline Prices (Dollars per Gallon)",2.939,$/GAL
+2024-09-16,SCO,COLORADO,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SCO_DPG,Colorado Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.364,$/GAL
+2024-09-16,Y48SE,SEATTLE,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_Y48SE_DPG,"Seattle, WA Regular All Formulations Retail Gasoline Prices (Dollars per Gallon)",4.236,$/GAL
+2024-09-16,SMA,MASSACHUSETTS,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SMA_DPG,Massachusetts Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.13,$/GAL
+2024-09-16,SNY,NEW YORK,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_SNY_DPG,New York Premium Conventional Retail Gasoline Prices (Dollars per Gallon),4.258,$/GAL
+2024-09-16,YCLE,CLEVELAND,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_YCLE_DPG,"Cleveland, OH Premium Conventional Retail Gasoline Prices (Dollars per Gallon)",4.004,$/GAL
+2024-09-16,SOH,OHIO,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_SOH_DPG,Ohio Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.949,$/GAL
+2024-09-16,R40,PADD 4,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R40_DPG,Rocky Mountain Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.12,$/GAL
+2024-09-16,SCO,COLORADO,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_SCO_DPG,Colorado Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.12,$/GAL
+2024-09-16,R1X,PADD 1A,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R1X_DPG,New England (PADD 1A) Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.048,$/GAL
+2024-09-16,YBOS,BOSTON,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_YBOS_DPG,"Boston, MA Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.03,$/GAL
+2024-09-16,Y44HO,HOUSTON,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_Y44HO_DPG,"Houston, TX Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.637,$/GAL
+2024-09-16,Y35NY,NEW YORK CITY,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_Y35NY_DPG,New York City Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.013,$/GAL
+2024-09-16,R10,PADD 1,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R10_DPG,East Coast Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.933,$/GAL
+2024-09-16,R50,PADD 5,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R50_DPG,West Coast Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.776,$/GAL
+2024-09-16,R30,PADD 3,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R30_DPG,Gulf Coast Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.567,$/GAL
+2024-09-16,YMIA,MIAMI,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_YMIA_DPG,"Miami, FL Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon)",3.58,$/GAL
+2024-09-16,SFL,FLORIDA,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_SFL_DPG,Florida Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.514,$/GAL
+2024-09-16,Y05SF,SAN FRANCISCO,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_Y05SF_DPG,"San Francisco, CA Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",5.097,$/GAL
+2024-09-16,Y05SF,SAN FRANCISCO,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_Y05SF_DPG,San Francisco Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),5.097,$/GAL
+2024-09-16,R30,PADD 3,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R30_DPG,Gulf Coast Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.236,$/GAL
+2024-09-16,YCLE,CLEVELAND,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_YCLE_DPG,"Cleveland, OH Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.505,$/GAL
+2024-09-16,R40,PADD 4,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R40_DPG,Rocky Mountain All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.527,$/GAL
+2024-09-16,SNY,NEW YORK,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_SNY_DPG,New York All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.471,$/GAL
+2024-09-16,R1X,PADD 1A,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R1X_DPG,New England (PADD 1A) All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.323,$/GAL
+2024-09-16,STX,TEXAS,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_STX_DPG,Texas All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),2.745,$/GAL
+2024-09-16,Y05SF,SAN FRANCISCO,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_Y05SF_DPG,"San Francisco, CA All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon)",5.031,$/GAL
+2024-09-16,SMA,MASSACHUSETTS,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_SMA_DPG,Massachusetts All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.291,$/GAL
+2024-09-16,R1Z,PADD 1C,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.086,$/GAL
+2024-09-16,SWA,WASHINGTON,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SWA_DPG,Washington All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),4.086,$/GAL
+2024-09-16,SCO,COLORADO,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SCO_DPG,Colorado All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.517,$/GAL
+2024-09-16,YDEN,DENVER,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_YDEN_DPG,Denver All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.514,$/GAL
+2024-09-16,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R5XCA_DPG,West Coast (PADD 5) Except California All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.825,$/GAL
+2024-09-16,STX,TEXAS,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_STX_DPG,Texas All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),2.791,$/GAL
+2024-09-16,SNY,NEW YORK,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SNY_DPG,New York All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.351,$/GAL
+2024-09-16,R1X,PADD 1A,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R1X_DPG,New England (PADD 1A) All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.283,$/GAL
+2024-09-16,YORD,CHICAGO,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_YORD_DPG,Chicago All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.673,$/GAL
+2024-09-16,R1Y,PADD 1B,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1Y_DPG,Central Atlantic (PADD 1B) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.81,$/GAL
+2024-09-16,R30,PADD 3,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R30_DPG,Gulf Coast Regular Conventional Retail Gasoline Prices (Dollars per Gallon),2.735,$/GAL
+2024-09-16,R10,PADD 1,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R10_DPG,East Coast Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.069,$/GAL
+2024-09-16,STX,TEXAS,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_STX_DPG,Texas Regular Conventional Retail Gasoline Prices (Dollars per Gallon),2.662,$/GAL
+2024-09-16,SOH,OHIO,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_SOH_DPG,Ohio Regular Conventional Retail Gasoline Prices (Dollars per Gallon),2.882,$/GAL
+2024-09-16,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.811,$/GAL
+2024-09-16,Y05LA,LOS ANGELES,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_Y05LA_DPG,"Los Angeles, CA Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.322,$/GAL
+2024-09-16,YBOS,BOSTON,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_YBOS_DPG,"Boston, MA Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.15,$/GAL
+2024-09-16,YDEN,DENVER,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_YDEN_DPG,Denver Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.339,$/GAL
+2024-09-16,SNY,NEW YORK,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SNY_DPG,New York Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.229,$/GAL
+2024-09-16,SFL,FLORIDA,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_SFL_DPG,Florida Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.844,$/GAL
+2024-09-16,R1Y,PADD 1B,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Premium Conventional Retail Gasoline Prices (Dollars per Gallon),4.173,$/GAL
+2024-09-16,R20,PADD 2,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R20_DPG,Midwest Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.814,$/GAL
+2024-09-16,R50,PADD 5,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R50_DPG,West Coast Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.934,$/GAL
+2024-09-16,SMA,MASSACHUSETTS,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_SMA_DPG,Massachusetts Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.048,$/GAL
+2024-09-16,YORD,CHICAGO,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_YORD_DPG,Chicago Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.558,$/GAL
+2024-09-16,R1X,PADD 1A,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R1X_DPG,New England (PADD 1A) Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.073,$/GAL
+2024-09-16,YDEN,DENVER,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_YDEN_DPG,Denver Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.11,$/GAL
+2024-09-16,SCO,COLORADO,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SCO_DPG,Colorado Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.094,$/GAL
+2024-09-16,R1Z,PADD 1C,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.809,$/GAL
+2024-09-16,SMN,MINNESOTA,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SMN_DPG,Minnesota Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.783,$/GAL
+2024-09-16,R30,PADD 3,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R30_DPG,Gulf Coast Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.245,$/GAL
+2024-09-16,YBOS,BOSTON,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_YBOS_DPG,"Boston, MA Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.713,$/GAL
+2024-09-16,R1X,PADD 1A,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R1X_DPG,New England (PADD 1A) Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.75,$/GAL
+2024-09-16,R1Z,PADD 1C,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.397,$/GAL
+2024-09-16,YORD,CHICAGO,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_YORD_DPG,"Chicago, IL Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.102,$/GAL
+2024-09-16,SNY,NEW YORK,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SNY_DPG,New York Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.669,$/GAL
+2024-09-16,Y05LA,LOS ANGELES,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_Y05LA_DPG,Los Angeles Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),4.699,$/GAL
+2024-09-16,R10,PADD 1,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R10_DPG,East Coast Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.572,$/GAL
+2024-09-16,Y44HO,HOUSTON,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_Y44HO_DPG,Houston Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.29,$/GAL
+2024-09-16,Y48SE,SEATTLE,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_Y48SE_DPG,"Seattle, WA Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon)",4.679,$/GAL
+2024-09-16,R1Y,PADD 1B,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R1Y_DPG,Central Atlantic (PADD 1B) All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.455,$/GAL
+2024-09-16,R50,PADD 5,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R50_DPG,West Coast All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.91,$/GAL
+2024-09-16,SCO,COLORADO,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_SCO_DPG,Colorado Allgrades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.508,$/GAL
+2024-09-16,Y44HO,HOUSTON,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_Y44HO_DPG,"Houston, TX All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon)",2.839,$/GAL
+2024-09-16,R50,PADD 5,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R50_DPG,West Coast All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),4.48,$/GAL
+2024-09-16,STX,TEXAS,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_STX_DPG,Texas All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),2.828,$/GAL
+2024-09-16,YBOS,BOSTON,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_YBOS_DPG,"Boston, MA All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.314,$/GAL
+2024-09-16,SCA,CALIFORNIA,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SCA_DPG,California All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),4.634,$/GAL
+2024-09-16,SMN,MINNESOTA,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SMN_DPG,Minnesota All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.105,$/GAL
+2024-09-16,R40,PADD 4,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R40_DPG,Rocky Mountain Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.417,$/GAL
+2024-09-16,SCO,COLORADO,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_SCO_DPG,Colorado Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.395,$/GAL
+2024-09-16,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.357,$/GAL
+2024-09-16,R20,PADD 2,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R20_DPG,Midwest Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.005,$/GAL
+2024-09-16,R1Z,PADD 1C,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),2.97,$/GAL
+2024-09-16,R40,PADD 4,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R40_DPG,Rocky Mountain Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.4,$/GAL
+2024-09-16,R40,PADD 4,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R40_DPG,Rocky Mountain Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.96,$/GAL
+2024-09-16,NUS,U.S.,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_NUS_DPG,U.S. Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.363,$/GAL
+2024-09-16,SMA,MASSACHUSETTS,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SMA_DPG,Massachusetts Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.048,$/GAL
+2024-09-16,Y05LA,LOS ANGELES,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_Y05LA_DPG,Los Angeles Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.74,$/GAL
+2024-09-16,R1Y,PADD 1B,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.052,$/GAL
+2024-09-16,STX,TEXAS,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_STX_DPG,Texas Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.517,$/GAL
+2024-09-16,R40,PADD 4,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R40_DPG,Rocky Mountain Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.703,$/GAL
+2024-09-16,SMN,MINNESOTA,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_SMN_DPG,Minnesota Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.384,$/GAL
+2024-09-16,Y48SE,SEATTLE,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_Y48SE_DPG,"Seattle, WA Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon)",4.679,$/GAL
+2024-09-16,YDEN,DENVER,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_YDEN_DPG,"Denver, CO Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.78,$/GAL
+2024-09-16,SNY,NEW YORK,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_SNY_DPG,New York Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.554,$/GAL
+2024-09-16,Y05LA,LOS ANGELES,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_Y05LA_DPG,"Los Angeles, CA Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.699,$/GAL
+2024-09-16,R20,PADD 2,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R20_DPG,Midwest Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.447,$/GAL
+2024-09-16,R1Y,PADD 1B,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.744,$/GAL
+2024-09-16,YBOS,BOSTON,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_YBOS_DPG,"Boston, MA Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.713,$/GAL
+2024-09-16,SMA,MASSACHUSETTS,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SMA_DPG,Massachusetts Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.746,$/GAL
+2024-09-16,YDEN,DENVER,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_YDEN_DPG,"Denver, CO All Grades Conventional Retail Gasoline Prices (Dollars per Gallon)",,$/GAL
+2024-09-16,SFL,FLORIDA,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_SFL_DPG,Florida All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.156,$/GAL
+2024-09-16,SOH,OHIO,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_SOH_DPG,Ohio All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),2.974,$/GAL
+2024-09-16,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R5XCA_DPG,West Coast (PADD 5) Except California All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.91,$/GAL
+2024-09-16,YCLE,CLEVELAND,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_YCLE_DPG,"Cleveland, OH All Grades Conventional Retail Gasoline Prices (Dollars per Gallon)",3.042,$/GAL
+2024-09-16,R1Z,PADD 1C,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.075,$/GAL
+2024-09-16,YBOS,BOSTON,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_YBOS_DPG,"Boston, MA All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.314,$/GAL
+2024-09-16,R40,PADD 4,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R40_DPG,Rocky Mountain No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.588,$/GAL
+2024-09-16,R10,PADD 1,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R10_DPG,East Coast No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.585,$/GAL
+2024-09-16,R1X,PADD 1A,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.818,$/GAL
+2024-09-16,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R5XCA_DPG,West Coast (PADD 5) Except California No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.818,$/GAL
+2024-09-16,R30,PADD 3,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R30_DPG,Gulf Coast No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.172,$/GAL
+2024-09-16,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R5XCA_DPG,West Coast (PADD 5) Except California No 2 Diesel Retail Prices (Dollars per Gallon),3.818,$/GAL
+2024-09-16,R1Y,PADD 1B,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R1Y_DPG,Central Atlantic (PADD 1B) No 2 Diesel Retail Prices (Dollars per Gallon),3.81,$/GAL
+2024-09-16,R1Y,PADD 1B,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.379,$/GAL
+2024-09-16,NUS,U.S.,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_NUS_DPG,U.S. Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.057,$/GAL
+2024-09-16,R40,PADD 4,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R40_DPG,Rocky Mountain Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.332,$/GAL
+2024-09-16,YDEN,DENVER,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_YDEN_DPG,"Denver, CO Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.333,$/GAL
+2024-09-16,NUS,U.S.,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_NUS_DPG,U.S. Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.447,$/GAL
+2024-09-16,R1Z,PADD 1C,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),2.976,$/GAL
+2024-09-16,SNY,NEW YORK,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_SNY_DPG,New York Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.055,$/GAL
+2024-09-16,NUS,U.S.,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_NUS_DPG,U.S. Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.18,$/GAL
+2024-09-16,R1Y,PADD 1B,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.246,$/GAL
+2024-09-16,R1X,PADD 1A,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R1X_DPG,New England (PADD 1A) Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.146,$/GAL
+2024-09-16,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.723,$/GAL
+2024-09-16,R50,PADD 5,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R50_DPG,West Coast Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),4.136,$/GAL
+2024-09-16,SMN,MINNESOTA,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_SMN_DPG,Minnesota Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.783,$/GAL
+2024-09-16,YDEN,DENVER,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_YDEN_DPG,"Denver, CO Premium Conventional Retail Gasoline Prices (Dollars per Gallon)",,$/GAL
+2024-09-16,R30,PADD 3,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R30_DPG,Gulf Coast Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.576,$/GAL
+2024-09-16,YMIA,MIAMI,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_YMIA_DPG,"Miami, FL Premium Conventional Retail Gasoline Prices (Dollars per Gallon)",3.909,$/GAL
+2024-09-16,SWA,WASHINGTON,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_SWA_DPG,Washington Premium Conventional Retail Gasoline Prices (Dollars per Gallon),4.513,$/GAL
+2024-09-16,R1Z,PADD 1C,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.82,$/GAL
+2024-09-16,Y05SF,SAN FRANCISCO,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_Y05SF_DPG,"San Francisco, CA Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",5.395,$/GAL
+2024-09-16,Y05LA,LOS ANGELES,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_Y05LA_DPG,"Los Angeles, CA Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.74,$/GAL
+2024-09-16,SNY,NEW YORK,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SNY_DPG,New York Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.081,$/GAL
+2024-09-16,SOH,OHIO,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SOH_DPG,Ohio Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.949,$/GAL
+2024-09-16,R40,PADD 4,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R40_DPG,Rocky Mountain Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.996,$/GAL
+2024-09-16,SOH,OHIO,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_SOH_DPG,Ohio Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.424,$/GAL
+2024-09-16,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),4.169,$/GAL
+2024-09-16,R20,PADD 2,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R20_DPG,Midwest Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.319,$/GAL
+2024-09-16,YDEN,DENVER,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_YDEN_DPG,"Denver, CO Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon)",,$/GAL
+2024-09-16,YCLE,CLEVELAND,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_YCLE_DPG,"Cleveland, OH Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon)",3.505,$/GAL
+2024-09-16,R40,PADD 4,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R40_DPG,Rocky Mountain Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.778,$/GAL
+2024-09-16,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.824,$/GAL
+2024-09-16,YORD,CHICAGO,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_YORD_DPG,Chicago Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),4.102,$/GAL
+2024-09-16,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),4.118,$/GAL
+2024-09-16,SWA,WASHINGTON,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_SWA_DPG,Washington All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),4.086,$/GAL
+2024-09-16,R10,PADD 1,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R10_DPG,East Coast All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.165,$/GAL
+2024-09-16,SMN,MINNESOTA,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_SMN_DPG,Minnesota All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.105,$/GAL
+2024-09-16,YDEN,DENVER,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_YDEN_DPG,"Denver, CO Allgrades Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.504,$/GAL
+2024-09-16,Y05LA,LOS ANGELES,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_Y05LA_DPG,"Los Angeles, CA All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.438,$/GAL
+2024-09-16,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R5XCA_DPG,West Coast (PADD 5) Except California All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.449,$/GAL
+2024-09-16,R1X,PADD 1A,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R1X_DPG,New England (PADD 1A) All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.273,$/GAL
+2024-09-16,NUS,U.S.,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_NUS_DPG,U.S. All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.307,$/GAL
+2024-09-16,Y05SF,SAN FRANCISCO,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_Y05SF_DPG,San Francisco All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),5.031,$/GAL
+2024-09-16,R1Z,PADD 1C,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.076,$/GAL
+2024-09-16,Y35NY,NEW YORK CITY,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_Y35NY_DPG,New York City All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.286,$/GAL
+2024-09-16,YCLE,CLEVELAND,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_YCLE_DPG,"Cleveland, OH All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.042,$/GAL
+2024-09-16,YMIA,MIAMI,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_YMIA_DPG,"Miami, FL All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.271,$/GAL
+2024-09-16,R10,PADD 1,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R10_DPG,East Coast All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.198,$/GAL
+2024-09-16,R30,PADD 3,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R30_DPG,Gulf Coast All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),2.826,$/GAL
+2024-09-16,R1Z,PADD 1C,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.479,$/GAL
+2024-09-16,R30,PADD 3,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R30_DPG,Gulf Coast No 2 Diesel Retail Prices (Dollars per Gallon),3.172,$/GAL
+2024-09-16,R1X,PADD 1A,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Retail Prices (Dollars per Gallon),3.818,$/GAL
+2024-09-16,R50,PADD 5,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_R50_DPG,West Coast Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.811,$/GAL
+2024-09-16,YMIA,MIAMI,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_YMIA_DPG,"Miami, FL Regular Conventional Retail Gasoline Prices (Dollars per Gallon)",3.134,$/GAL
+2024-09-16,YCLE,CLEVELAND,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_YCLE_DPG,"Cleveland, OH Regular Conventional Retail Gasoline Prices (Dollars per Gallon)",2.939,$/GAL
+2024-09-16,YDEN,DENVER,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_YDEN_DPG,"Denver, CO Regular Conventional Retail Gasoline Prices (Dollars per Gallon)",,$/GAL
+2024-09-16,R30,PADD 3,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R30_DPG,Gulf Coast Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),2.712,$/GAL
+2024-09-16,YMIA,MIAMI,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_YMIA_DPG,"Miami, FL Regular All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.134,$/GAL
+2024-09-16,SFL,FLORIDA,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SFL_DPG,Florida Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.055,$/GAL
+2024-09-16,Y35NY,NEW YORK CITY,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_Y35NY_DPG,New York City Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.116,$/GAL
+2024-09-16,Y44HO,HOUSTON,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_Y44HO_DPG,Houston Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),2.704,$/GAL
+2024-09-16,Y05LA,LOS ANGELES,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_Y05LA_DPG,Los Angeles Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),4.322,$/GAL
+2024-09-16,Y48SE,SEATTLE,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_Y48SE_DPG,"Seattle, WA Premium Conventional Retail Gasoline Prices (Dollars per Gallon)",4.745,$/GAL
+2024-09-16,SCO,COLORADO,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_SCO_DPG,Colorado Premium Conventional Retail Gasoline Prices (Dollars per Gallon),4.06,$/GAL
+2024-09-16,R20,PADD 2,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R20_DPG,Midwest Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),4.367,$/GAL
+2024-09-16,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.352,$/GAL
+2024-09-16,R1Y,PADD 1B,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.814,$/GAL
+2024-09-16,NUS,U.S.,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_NUS_DPG,U.S. Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.527,$/GAL
+2024-09-16,SCO,COLORADO,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_SCO_DPG,Colorado Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.758,$/GAL
+2024-09-16,STX,TEXAS,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_STX_DPG,Texas Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.143,$/GAL
+2024-09-16,SCO,COLORADO,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_SCO_DPG,Colorado Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.778,$/GAL
+2024-09-16,NUS,U.S.,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_NUS_DPG,U.S. Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),4.087,$/GAL
+2024-09-16,R30,PADD 3,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R30_DPG,Gulf Coast Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.219,$/GAL
+2024-09-16,R50,PADD 5,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R50_DPG,West Coast Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),4.572,$/GAL
+2024-09-16,SCA,CALIFORNIA,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SCA_DPG,California Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),4.822,$/GAL
+2024-09-16,NUS,U.S.,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_NUS_DPG,U.S. Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.755,$/GAL
+2024-09-16,YMIA,MIAMI,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_YMIA_DPG,"Miami, FL Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.58,$/GAL
+2024-09-16,Y35NY,NEW YORK CITY,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_Y35NY_DPG,New York City Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.665,$/GAL
+2024-09-16,SWA,WASHINGTON,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SWA_DPG,Washington Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),4.314,$/GAL
+2024-09-16,R30,PADD 3,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_R30_DPG,Gulf Coast All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),2.825,$/GAL
+2024-09-16,SCO,COLORADO,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_SCO_DPG,Colorado All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),3.526,$/GAL
+2024-09-16,Y35NY,NEW YORK CITY,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_Y35NY_DPG,New York Harbor All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.286,$/GAL
+2024-09-16,R40,PADD 4,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R40_DPG,Rocky Mountain All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.523,$/GAL
+2024-09-16,NUS,U.S.,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_NUS_DPG,U.S. No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.526,$/GAL
+2024-09-09,R1Y,PADD 1B,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R1Y_DPG,Central Atlantic (PADD 1B) All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.409,$/GAL
+2024-09-09,YDEN,DENVER,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_YDEN_DPG,"Denver, CO Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.965,$/GAL
+2024-09-09,YCLE,CLEVELAND,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_YCLE_DPG,"Cleveland, OH Premium All Formulations Retail Gasoline Prices (Dollars per Gallon)",4.172,$/GAL
+2024-09-09,SCO,COLORADO,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SCO_DPG,Colorado Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.97,$/GAL
+2024-09-09,R50,PADD 5,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R50_DPG,West Coast Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.732,$/GAL
+2024-09-09,STX,TEXAS,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_STX_DPG,Texas Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.205,$/GAL
+2024-09-09,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),4.166,$/GAL
+2024-09-09,SFL,FLORIDA,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_SFL_DPG,Florida Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.553,$/GAL
+2024-09-09,R1Z,PADD 1C,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),3.5,$/GAL
+2024-09-09,R1Y,PADD 1B,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.776,$/GAL
+2024-09-09,YORD,CHICAGO,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_YORD_DPG,"Chicago, IL Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.21,$/GAL
+2024-09-09,SNY,NEW YORK,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SNY_DPG,New York Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.732,$/GAL
+2024-09-09,Y44HO,HOUSTON,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_Y44HO_DPG,Houston Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.353,$/GAL
+2024-09-09,YMIA,MIAMI,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_YMIA_DPG,"Miami, FL Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.611,$/GAL
+2024-09-09,SMA,MASSACHUSETTS,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_SMA_DPG,Massachusetts Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.818,$/GAL
+2024-09-09,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),4.119,$/GAL
+2024-09-09,R40,PADD 4,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R40_DPG,Rocky Mountain Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.645,$/GAL
+2024-09-09,YCLE,CLEVELAND,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_YCLE_DPG,"Cleveland, OH All Grades Conventional Retail Gasoline Prices (Dollars per Gallon)",3.195,$/GAL
+2024-09-09,YMIA,MIAMI,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_YMIA_DPG,"Miami, FL All Grades Conventional Retail Gasoline Prices (Dollars per Gallon)",3.292,$/GAL
+2024-09-09,Y44HO,HOUSTON,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_Y44HO_DPG,"Houston, TX All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon)",2.911,$/GAL
+2024-09-09,SNY,NEW YORK,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_SNY_DPG,New York All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.313,$/GAL
+2024-09-09,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R5XCA_DPG,West Coast (PADD 5) Except California All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.481,$/GAL
+2024-09-09,R30,PADD 3,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R30_DPG,Gulf Coast All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),2.937,$/GAL
+2024-09-09,SCA,CALIFORNIA,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SCA_DPG,California All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),4.57,$/GAL
+2024-09-09,Y35NY,NEW YORK CITY,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_Y35NY_DPG,New York City All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.346,$/GAL
+2024-09-09,R20,PADD 2,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R20_DPG,Midwest All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.179,$/GAL
+2024-09-09,YMIA,MIAMI,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_YMIA_DPG,"Miami, FL All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.292,$/GAL
+2024-09-09,R1X,PADD 1A,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R1X_DPG,New England (PADD 1A) All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.37,$/GAL
+2024-09-09,R30,PADD 3,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R30_DPG,Gulf Coast All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),2.898,$/GAL
+2024-09-09,R20,PADD 2,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R20_DPG,Midwest No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.528,$/GAL
+2024-09-09,SMN,MINNESOTA,EPMRU,Conventional Regular Gasoline,PTE,Retail Sales,EMM_EPMRU_PTE_SMN_DPG,Minnesota Regular Conventional Retail Gasoline Prices (Dollars per Gallon),3.093,$/GAL
+2024-09-09,SCO,COLORADO,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_SCO_DPG,Colorado Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.212,$/GAL
+2024-09-09,R40,PADD 4,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R40_DPG,Rocky Mountain Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.212,$/GAL
+2024-09-09,YORD,CHICAGO,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_YORD_DPG,"Chicago, IL Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.604,$/GAL
+2024-09-09,NUS,U.S.,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_NUS_DPG,U.S. Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.488,$/GAL
+2024-09-09,Y05SF,SAN FRANCISCO,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_Y05SF_DPG,"San Francisco, CA Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.73,$/GAL
+2024-09-09,R50,PADD 5,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R50_DPG,West Coast Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),4.289,$/GAL
+2024-09-09,R20,PADD 2,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R20_DPG,Midwest Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),3.407,$/GAL
+2024-09-09,R30,PADD 3,EPMRR,Reformulated Regular Gasoline,PTE,Retail Sales,EMM_EPMRR_PTE_R30_DPG,Gulf Coast Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),2.824,$/GAL
+2024-09-09,Y48SE,SEATTLE,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_Y48SE_DPG,"Seattle, WA Regular All Formulations Retail Gasoline Prices (Dollars per Gallon)",4.246,$/GAL
+2024-09-09,SMN,MINNESOTA,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SMN_DPG,Minnesota Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.093,$/GAL
+2024-09-09,Y05SF,SAN FRANCISCO,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_Y05SF_DPG,San Francisco Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),4.73,$/GAL
+2024-09-09,STX,TEXAS,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_STX_DPG,Texas Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),2.775,$/GAL
+2024-09-09,R50,PADD 5,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R50_DPG,West Coast Premium Conventional Retail Gasoline Prices (Dollars per Gallon),4.388,$/GAL
+2024-09-09,YCLE,CLEVELAND,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_YCLE_DPG,"Cleveland, OH Premium Conventional Retail Gasoline Prices (Dollars per Gallon)",4.172,$/GAL
+2024-09-09,R1Z,PADD 1C,EPMPU,Conventional Premium Gasoline,PTE,Retail Sales,EMM_EPMPU_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Premium Conventional Retail Gasoline Prices (Dollars per Gallon),3.874,$/GAL
+2024-09-09,R40,PADD 4,EPMPR,Reformulated Premium Gasoline,PTE,Retail Sales,EMM_EPMPR_PTE_R40_DPG,Rocky Mountain Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),3.995,$/GAL
+2024-09-09,YORD,CHICAGO,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_YORD_DPG,Chicago Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.654,$/GAL
+2024-09-09,Y35NY,NEW YORK CITY,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_Y35NY_DPG,New York City Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.078,$/GAL
+2024-09-09,Y48SE,SEATTLE,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_Y48SE_DPG,"Seattle, WA Premium All Formulations Retail Gasoline Prices (Dollars per Gallon)",4.766,$/GAL
+2024-09-09,SCA,CALIFORNIA,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SCA_DPG,California Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.933,$/GAL
+2024-09-09,YMIA,MIAMI,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_YMIA_DPG,"Miami, FL Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon)",3.611,$/GAL
+2024-09-09,Y48SE,SEATTLE,EPMMU,Gasoline Conventional Midgrade,PTE,Retail Sales,EMM_EPMMU_PTE_Y48SE_DPG,"Seattle, WA Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon)",4.694,$/GAL
+2024-09-09,R40,PADD 4,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R40_DPG,Rocky Mountain Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.629,$/GAL
+2024-09-09,YDEN,DENVER,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_YDEN_DPG,"Denver, CO Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.63,$/GAL
+2024-09-09,Y44HO,HOUSTON,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_Y44HO_DPG,"Houston, TX Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",3.353,$/GAL
+2024-09-09,Y05LA,LOS ANGELES,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_Y05LA_DPG,"Los Angeles, CA Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.673,$/GAL
+2024-09-09,R1X,PADD 1A,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R1X_DPG,New England (PADD 1A) Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.825,$/GAL
+2024-09-09,R1Z,PADD 1C,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R1Z_DPG,Lower Atlantic (PADD 1C) Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.47,$/GAL
+2024-09-09,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMMR,Gasoline Reformulated Midgrade,PTE,Retail Sales,EMM_EPMMR_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),3.845,$/GAL
+2024-09-09,Y05SF,SAN FRANCISCO,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_Y05SF_DPG,San Francisco Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),4.992,$/GAL
+2024-09-09,R20,PADD 2,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_R20_DPG,Midwest Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.546,$/GAL
+2024-09-09,Y35NY,NEW YORK CITY,EPMM,Midgrade Gasoline,PTE,Retail Sales,EMM_EPMM_PTE_Y35NY_DPG,New York City Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),3.735,$/GAL
+2024-09-09,SWA,WASHINGTON,EPM0U,Conventional Gasoline (No Oxy),PTE,Retail Sales,EMM_EPM0U_PTE_SWA_DPG,Washington All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),4.087,$/GAL
+2024-09-09,Y05SF,SAN FRANCISCO,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_Y05SF_DPG,"San Francisco, CA All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon)",4.885,$/GAL
+2024-09-09,NUS,U.S.,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_NUS_DPG,U.S. All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.654,$/GAL
+2024-09-09,Y35NY,NEW YORK CITY,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_Y35NY_DPG,New York Harbor All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.346,$/GAL
+2024-09-09,Y05LA,LOS ANGELES,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_Y05LA_DPG,Los Angeles All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),4.413,$/GAL
+2024-09-09,YCLE,CLEVELAND,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_YCLE_DPG,"Cleveland, OH All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon)",3.195,$/GAL
+2024-09-09,STX,TEXAS,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_STX_DPG,Texas All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),2.877,$/GAL
