@@ -12,7 +12,7 @@ userDB = os.getenv('DB_USER')
 passDB = os.getenv('DB_PASS')
 
 
-location_file = './API/data/petroleum.csv'  
+location_file = './Data/Raws/petroleum.csv'  
 clean_table_database = 'api_petroleum'  
 
 engine = create_engine(f'postgresql+psycopg2://{userDB}:{passDB}@{localhost}:{port}/{nameDB}')

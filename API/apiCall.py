@@ -27,4 +27,4 @@ if response.status_code == 200:
 else:
     print(f"Error: Falló el llamado a la API con el código de estado {response.status_code}")
 
-save = df.to_csv('API/data/petroleum2.csv', index=False)
+save = df.to_csv('Data/Raws/petroleum2.csv', index=False)
