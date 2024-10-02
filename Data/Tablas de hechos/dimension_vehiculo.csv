@@ -819,63 +819,63 @@ Year,Make,Model,Drivetrain,MinMPG,MaxMPG,FuelType,Transmission,Engine,ID_Vehicul
 2019,Toyota,RAV4 LE,AWD,25,33,Gasoline,Automatic,2.5L I4 16V PDI DOHC,818
 2019,Infiniti,QX60 Luxe,AWD,19,26,Gasoline,CVT,3.5L V6 24V GDI DOHC,819
 2012,Cadillac,Escalade ESV Premium,AWD,13,18,Flex Fuel,Automatic,6.2L V8 16V MPFI OHV Flexible Fuel,820
-2020,Kia,Telluride S,FWD,20,26,Gasoline,Automatic,3.8L V6 24V GDI DOHC,821
-2020,Kia,Telluride SX,AWD,19,24,Gasoline,Automatic,3.8L V6 24V GDI DOHC,822
-2020,Lincoln,Nautilus Reserve,AWD,20,25,Gasoline,Automatic,2.7L V6 24V GDI DOHC Twin Turbo,823
-2019,Buick,Encore Essence,AWD,24,29,Gasoline,Automatic,1.4L I4 16V GDI DOHC Turbo,824
-2018,Jeep,Grand Cherokee Trailhawk,4WD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,825
-2021,Chevrolet,Corvette Stingray w/2LT,RWD,15,27,Gasoline,Automatic,6.2L V8 16V GDI OHV,826
-2021,Jeep,Grand Cherokee Trailhawk,4WD,18,25,Gasoline,Automatic,5.7L V8 16V MPFI OHV,827
-2019,Mercedes-Benz,CLA 250 CLA 250,AWD,24,32,Flex Fuel,Automatic,2.0L I4 16V GDI DOHC Turbo Flexible Fuel,828
-2018,Acura,TLX V6,FWD,20,32,Gasoline,Automatic,3.5L V6 24V GDI SOHC,829
-2020,Volkswagen,Tiguan 2.0T SE,FWD,22,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,830
-2020,Jeep,Grand Cherokee Limited,4WD,18,25,Gasoline,Automatic,5.7L V8 16V MPFI OHV,831
-2017,Land,Rover Range Rover Sport 5.0L Supercharged SVR,4WD,14,19,Gasoline,Automatic,5.0L V8 32V GDI DOHC Supercharged,832
-2019,Acura,RDX Technology Package,AWD,21,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,833
-2019,Land,Rover Range Rover Sport Autobiography,4WD,17,22,Gasoline,Automatic,5.0L V8 32V GDI DOHC Supercharged,834
-2020,Mercedes-Benz,GLC 300 4MATIC Coupe,AWD,21,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,835
-2020,Lexus,NX 300,FWD,22,28,Gasoline,Automatic,2.0L I4 16V PDI DOHC Turbo,836
-2020,Ford,Ranger Lariat,4WD,20,24,Gasoline,Automatic,2.3L I4 16V GDI DOHC Turbo,837
-2021,Bmw,X1 xDrive28i,AWD,23,31,Gasoline,Automatic,4 Cylinder Engine,838
-2017,Jeep,Grand Cherokee Limited,4WD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,839
-2019,Subaru,Impreza 2.0i Premium,AWD,28,38,Gasoline,CVT,2.0L H4 16V GDI DOHC,840
-2021,Acura,TLX A-Spec,FWD,22,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,841
-2019,Infiniti,QX50 ESSENTIAL,AWD,24,30,Gasoline,CVT,2.0L I4 16V PDI DOHC Turbo,842
-2014,Hyundai,Veloster Turbo,FWD,24,33,Gasoline,Manual,201.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,843
-2015,Ford,Mustang GT Premium,RWD,15,25,Gasoline,Automatic,5.0L V8 32V MPFI DOHC,844
-2020,Cadillac,XT6 Premium Luxury AWD,AWD,17,24,Gasoline,Automatic,3.6L V6 24V GDI DOHC,845
-2019,Subaru,Forester Touring,AWD,26,33,Gasoline,CVT,2.5L H4 16V GDI DOHC,846
-2016,Bmw,340 i xDrive,AWD,22,33,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,847
-2021,Subaru,Outback Limited XT,AWD,23,30,Gasoline,CVT,2.4L H4 16V GDI DOHC Turbo,848
-2021,Jeep,Wrangler Unlimited Sport,4WD,17,23,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,849
-2020,Kia,Sorento LX,FWD,19,26,Gasoline,Automatic,V6 Cylinder Engine,850
-2015,Bmw,328 i,RWD,23,35,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,851
-2015,Mercedes-Benz,SLK-Class SLK 250,RWD,22,32,Gasoline,Automatic,1.8L I4 16V GDI DOHC Turbo,852
-2021,Ram,1500 Limited,4WD,15,21,Gasoline,Automatic,5.7L V8 16V MPFI OHV,853
-2020,Toyota,Tacoma TRD Off Road,4WD,18,22,Gasoline,Automatic,3.5L V6 24V PDI DOHC,854
-2017,Subaru,Outback 2.5i Limited,AWD,25,32,Gasoline,CVT,2.5L H4 16V MPFI DOHC,855
-2018,Audi,A6 2.0T quattro Sport,AWD,22,31,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,856
-2021,Toyota,Tundra SR5,RWD,13,17,Gasoline,Automatic,5.7L V8 32V MPFI DOHC,857
-2016,Acura,RDX Base,FWD,20,29,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,858
-2021,Nissan,Rogue SV,FWD,26,34,Gasoline,CVT,2.5L I4 16V GDI DOHC,859
-2016,Jeep,Grand Cherokee Laredo,4WD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,860
-2020,Infiniti,QX60 Pure,AWD,19,26,Gasoline,CVT,3.5L V6 24V GDI DOHC,861
-2017,Jaguar,F-PACE 35t R-Sport,AWD,18,23,Gasoline,Automatic,3.0L V6 24V GDI DOHC Supercharged,862
-2019,Nissan,Rogue SL,FWD,26,33,Gasoline,CVT,2.5L I4 16V MPFI DOHC,863
-2021,Mazda,CX-5 Grand Touring,FWD,25,31,Gasoline,Automatic,2.5L I4 16V GDI DOHC,864
-2010,Mazda,Mazda3 i Sport,FWD,24,33,Gasoline,Automatic,2.0L I4 16V MPFI DOHC,865
-2017,Ford,Expedition EL Limited,RWD,15,20,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,866
-2017,Kia,Forte LX,FWD,29,38,Gasoline,Unknown,2.0L,867
-2014,Mercedes-Benz,E-Class E 350,RWD,21,30,â,Automatic,3.5L V6 24V GDI DOHC,868
-2016,Jeep,Wrangler Unlimited Rubicon,4WD,16,21,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,869
-2019,Bmw,X6 xDrive35i,AWD,18,24,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,870
-2019,Mazda,CX-5 Touring,FWD,25,31,Gasoline,Automatic,2.5L I4 16V GDI DOHC,871
-2019,Acura,RDX Base,FWD,22,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,872
-2019,Acura,RDX A-Spec,AWD,21,26,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,873
-2018,Subaru,Outback 2.5i Limited,AWD,25,32,Gasoline,CVT,2.5L,874
-2018,Ford,Explorer Limited,FWD,19,27,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,875
-2007,Cadillac,DTS,FWD,17,25,Gasoline,Automatic,4.6L V8 32V MPFI DOHC,876
-2019,Honda,CR-V EX,AWD,27,33,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,877
+2019,Honda,CR-V EX,AWD,27,33,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,821
+2020,Kia,Telluride S,FWD,20,26,Gasoline,Automatic,3.8L V6 24V GDI DOHC,822
+2020,Kia,Telluride SX,AWD,19,24,Gasoline,Automatic,3.8L V6 24V GDI DOHC,823
+2020,Lincoln,Nautilus Reserve,AWD,20,25,Gasoline,Automatic,2.7L V6 24V GDI DOHC Twin Turbo,824
+2019,Buick,Encore Essence,AWD,24,29,Gasoline,Automatic,1.4L I4 16V GDI DOHC Turbo,825
+2018,Jeep,Grand Cherokee Trailhawk,4WD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,826
+2021,Chevrolet,Corvette Stingray w/2LT,RWD,15,27,Gasoline,Automatic,6.2L V8 16V GDI OHV,827
+2021,Jeep,Grand Cherokee Trailhawk,4WD,18,25,Gasoline,Automatic,5.7L V8 16V MPFI OHV,828
+2019,Mercedes-Benz,CLA 250 CLA 250,AWD,24,32,Flex Fuel,Automatic,2.0L I4 16V GDI DOHC Turbo Flexible Fuel,829
+2018,Acura,TLX V6,FWD,20,32,Gasoline,Automatic,3.5L V6 24V GDI SOHC,830
+2020,Volkswagen,Tiguan 2.0T SE,FWD,22,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,831
+2020,Jeep,Grand Cherokee Limited,4WD,18,25,Gasoline,Automatic,5.7L V8 16V MPFI OHV,832
+2017,Land,Rover Range Rover Sport 5.0L Supercharged SVR,4WD,14,19,Gasoline,Automatic,5.0L V8 32V GDI DOHC Supercharged,833
+2019,Acura,RDX Technology Package,AWD,21,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,834
+2019,Land,Rover Range Rover Sport Autobiography,4WD,17,22,Gasoline,Automatic,5.0L V8 32V GDI DOHC Supercharged,835
+2020,Mercedes-Benz,GLC 300 4MATIC Coupe,AWD,21,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,836
+2020,Lexus,NX 300,FWD,22,28,Gasoline,Automatic,2.0L I4 16V PDI DOHC Turbo,837
+2020,Ford,Ranger Lariat,4WD,20,24,Gasoline,Automatic,2.3L I4 16V GDI DOHC Turbo,838
+2021,Bmw,X1 xDrive28i,AWD,23,31,Gasoline,Automatic,4 Cylinder Engine,839
+2017,Jeep,Grand Cherokee Limited,4WD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,840
+2019,Subaru,Impreza 2.0i Premium,AWD,28,38,Gasoline,CVT,2.0L H4 16V GDI DOHC,841
+2021,Acura,TLX A-Spec,FWD,22,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,842
+2019,Infiniti,QX50 ESSENTIAL,AWD,24,30,Gasoline,CVT,2.0L I4 16V PDI DOHC Turbo,843
+2014,Hyundai,Veloster Turbo,FWD,24,33,Gasoline,Manual,201.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,844
+2015,Ford,Mustang GT Premium,RWD,15,25,Gasoline,Automatic,5.0L V8 32V MPFI DOHC,845
+2020,Cadillac,XT6 Premium Luxury AWD,AWD,17,24,Gasoline,Automatic,3.6L V6 24V GDI DOHC,846
+2019,Subaru,Forester Touring,AWD,26,33,Gasoline,CVT,2.5L H4 16V GDI DOHC,847
+2016,Bmw,340 i xDrive,AWD,22,33,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,848
+2021,Subaru,Outback Limited XT,AWD,23,30,Gasoline,CVT,2.4L H4 16V GDI DOHC Turbo,849
+2021,Jeep,Wrangler Unlimited Sport,4WD,17,23,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,850
+2020,Kia,Sorento LX,FWD,19,26,Gasoline,Automatic,V6 Cylinder Engine,851
+2015,Bmw,328 i,RWD,23,35,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,852
+2015,Mercedes-Benz,SLK-Class SLK 250,RWD,22,32,Gasoline,Automatic,1.8L I4 16V GDI DOHC Turbo,853
+2021,Ram,1500 Limited,4WD,15,21,Gasoline,Automatic,5.7L V8 16V MPFI OHV,854
+2020,Toyota,Tacoma TRD Off Road,4WD,18,22,Gasoline,Automatic,3.5L V6 24V PDI DOHC,855
+2017,Subaru,Outback 2.5i Limited,AWD,25,32,Gasoline,CVT,2.5L H4 16V MPFI DOHC,856
+2018,Audi,A6 2.0T quattro Sport,AWD,22,31,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,857
+2021,Toyota,Tundra SR5,RWD,13,17,Gasoline,Automatic,5.7L V8 32V MPFI DOHC,858
+2016,Acura,RDX Base,FWD,20,29,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,859
+2021,Nissan,Rogue SV,FWD,26,34,Gasoline,CVT,2.5L I4 16V GDI DOHC,860
+2016,Jeep,Grand Cherokee Laredo,4WD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,861
+2020,Infiniti,QX60 Pure,AWD,19,26,Gasoline,CVT,3.5L V6 24V GDI DOHC,862
+2017,Jaguar,F-PACE 35t R-Sport,AWD,18,23,Gasoline,Automatic,3.0L V6 24V GDI DOHC Supercharged,863
+2019,Nissan,Rogue SL,FWD,26,33,Gasoline,CVT,2.5L I4 16V MPFI DOHC,864
+2021,Mazda,CX-5 Grand Touring,FWD,25,31,Gasoline,Automatic,2.5L I4 16V GDI DOHC,865
+2010,Mazda,Mazda3 i Sport,FWD,24,33,Gasoline,Automatic,2.0L I4 16V MPFI DOHC,866
+2017,Ford,Expedition EL Limited,RWD,15,20,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,867
+2017,Kia,Forte LX,FWD,29,38,Gasoline,Unknown,2.0L,868
+2014,Mercedes-Benz,E-Class E 350,RWD,21,30,â,Automatic,3.5L V6 24V GDI DOHC,869
+2016,Jeep,Wrangler Unlimited Rubicon,4WD,16,21,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,870
+2019,Bmw,X6 xDrive35i,AWD,18,24,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,871
+2019,Mazda,CX-5 Touring,FWD,25,31,Gasoline,Automatic,2.5L I4 16V GDI DOHC,872
+2019,Acura,RDX Base,FWD,22,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,873
+2019,Acura,RDX A-Spec,AWD,21,26,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,874
+2018,Subaru,Outback 2.5i Limited,AWD,25,32,Gasoline,CVT,2.5L,875
+2018,Ford,Explorer Limited,FWD,19,27,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,876
+2007,Cadillac,DTS,FWD,17,25,Gasoline,Automatic,4.6L V8 32V MPFI DOHC,877
 2008,Chevrolet,Silverado 2500 LTZ H/D Crew Cab,4WD,0,0,Diesel,Automatic,365.0HP 6.6L 8 Cylinder Engine Diesel Fuel,878
 2017,Nissan,Murano SL,AWD,21,28,Gasoline,CVT,3.5L V6 24V MPFI DOHC,879
 2020,Gmc,Yukon SLT,RWD,15,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,880
@@ -1162,615 +1162,615 @@ Year,Make,Model,Drivetrain,MinMPG,MaxMPG,FuelType,Transmission,Engine,ID_Vehicul
 2018,Dodge,Charger SXT Plus,RWD,19,30,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1161
 2017,Subaru,Outback 3.6R Limited,AWD,20,27,Gasoline,CVT,3.6L H6 24V MPFI DOHC,1162
 2020,Gmc,Terrain Denali,AWD,21,26,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1163
-2021,Bmw,M235 Gran Coupe i xDrive,AWD,23,32,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1164
-2017,Mercedes-Benz,AMG GLE 43 Coupe 4MATIC,AWD,17,23,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1165
-2021,Bmw,X3 M40i,AWD,21,27,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1166
-2020,Hyundai,Palisade Limited,AWD,19,24,Gasoline,Automatic,3.8L V6 24V GDI DOHC,1167
-2020,Toyota,RAV4 XLE,AWD,27,33,Gasoline,Automatic,2.5L I4 16V PDI DOHC,1168
-2021,Infiniti,QX50 Luxe,AWD,22,28,Gasoline,CVT,2.0L I4 16V PDI DOHC Turbo,1169
-2019,Bmw,X4 M40i,AWD,20,27,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1170
-2018,Toyota,Tundra Platinum,4WD,13,17,Gasoline,Automatic,5.7L V8 32V MPFI DOHC,1171
-2018,Toyota,4Runner Limited,RWD,17,21,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,1172
-2014,Mazda,Mazda6 i Touring,FWD,26,38,Gasoline,Automatic,2.5L I4 16V GDI DOHC,1173
-2020,Honda,CR-V EX,FWD,28,34,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,1174
-2021,Chevrolet,Tahoe LT,4WD,16,20,Gasoline,Automatic,5.3L V8 16V GDI OHV,1175
-2020,Ford,Escape SEL,FWD,27,33,Gasoline,Automatic,1.5L I3 12V GDI DOHC Turbo,1176
-2020,Bmw,740 i xDrive,AWD,20,28,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1177
-2021,Toyota,C-HR LE,FWD,27,31,Gasoline,CVT,2.0L I4 16V MPFI DOHC,1178
-2021,Mercedes-Benz,GLE 350 Base,RWD,19,26,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1179
-2020,Honda,Pilot EX-L,FWD,19,27,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1180
-2021,Hyundai,Tucson Ultimate,FWD,22,28,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1181
-2016,Bmw,528 i xDrive,AWD,22,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1182
-2019,Honda,CR-V EX-L,FWD,28,34,Gasoline,Unknown,Intercooled Turbo Regular Unleaded I-4 1.5 L/91,1183
-2019,Cadillac,XT4 Premium Luxury,AWD,22,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1184
-2019,Chevrolet,Cruze LT,FWD,28,38,Gasoline,Automatic,1.4L I4 16V GDI DOHC Turbo,1185
-2019,Lexus,GX 460,4WD,15,18,Gasoline,Automatic,4.6L V8 32V MPFI DOHC,1186
-2015,Mercedes-Benz,GLK-Class GLK 350 4MATIC,AWD,18,25,Gasoline,Automatic,3.5L V6 24V GDI DOHC,1187
-2019,Subaru,Forester Limited,AWD,26,33,Gasoline,CVT,2.5L H4 16V GDI DOHC,1188
-2014,Volvo,XC90 3.2,â,16,23,Gasoline,Automatic,3.2L I6 24V MPFI DOHC,1189
-2013,Hyundai,Veloster Base,FWD,28,37,Gasoline,Automatic,1.6L I4 16V GDI DOHC,1190
-2019,Porsche,Cayenne S,AWD,18,23,Gasoline,Automatic,2.9L V6 24V GDI DOHC Twin Turbo,1191
-2020,Mazda,CX-9 Touring,AWD,20,26,Gasoline,Automatic,2.5L I4 16V GDI DOHC Turbo,1192
-2015,Infiniti,Q50 Base,AWD,19,27,Gasoline,Automatic,3.7L V6 24V MPFI DOHC,1193
-2021,Audi,A4 45 S line quattro Premium,AWD,24,31,Gasoline,Automatic,2.0L,1194
-2022,Chevrolet,Tahoe LT,RWD,15,20,Gasoline,Automatic,5.3L V8 16V GDI OHV,1195
-2012,Audi,Q5 2.0T Premium,AWD,20,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1196
-2021,Mercedes-Benz,GLC 300 Base 4MATIC,AWD,21,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1197
-2019,Honda,HR-V Sport,AWD,26,31,Gasoline,Unknown,Regular Unleaded I-4 1.8 L/110,1198
-2018,Chevrolet,Trax LT,AWD,24,30,Gasoline,Automatic,1.4L I4 16V MPFI DOHC Turbo,1199
-2020,Acura,TLX Tech,FWD,20,31,Gasoline,Automatic,Premium Unleaded V-6 3.5 L/212,1200
-2020,Lamborghini,Urus Base,AWD,12,17,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,1201
-2019,Nissan,Altima 2.5 SR,AWD,25,35,Gasoline,CVT,2.5L I4 16V GDI DOHC,1202
-2019,Acura,MDX 3.5L w/Technology Package,AWD,19,26,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1203
-2020,Chevrolet,Malibu 1LS,FWD,29,36,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,1204
-2017,Mercedes-Benz,E-Class E 300 Sport,AWD,22,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1205
-2018,Bmw,X1 sDrive28i,FWD,23,32,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1206
-2020,Acura,RDX A-Spec,AWD,21,26,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1207
-2021,Chevrolet,Suburban High Country,4WD,14,19,Gasoline,Automatic,6.2L V8 16V GDI OHV,1208
-2021,Dodge,Durango R/T,RWD,14,22,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1209
-2017,Lincoln,MKC Reserve,AWD,19,25,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1210
-2014,Bmw,X3 xDrive35i,AWD,19,26,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1211
-2019,Gmc,Yukon Denali,4WD,14,22,Gasoline,Automatic,6.2L V8 16V GDI OHV,1212
-2016,Ford,Focus SE,FWD,26,36,Flex Fuel,Automatic,2.0L I4 16V GDI DOHC Flexible Fuel,1213
-2020,Ford,Expedition XLT,RWD,17,23,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,1214
-2017,Chevrolet,Cruze LT,FWD,30,40,Gasoline,Automatic,1.4L I4 16V GDI DOHC Turbo,1215
-2021,Audi,Q3 45 S line Premium,AWD,20,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1216
-2021,Hyundai,Santa Fe Calligraphy,AWD,21,28,Gasoline,Automatic,2.5L I4 16V PDI DOHC Turbo,1217
-2008,Bmw,X5 4.8i,AWD,14,19,Gasoline,Automatic,4.8L V8 32V MPFI DOHC,1218
-2021,Lexus,IS 350 F Sport,AWD,19,26,Gasoline,Automatic,3.5L V6 24V PDI DOHC,1219
-2019,Bmw,440 i xDrive,AWD,21,31,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1220
-2018,Mercedes-Benz,AMG C 43 Base 4MATIC,AWD,20,27,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1221
-2021,Mazda,CX-5 Touring,FWD,25,31,Gasoline,Automatic,2.5L I4 16V GDI DOHC,1222
-2020,Buick,Enclave Avenir,FWD,18,26,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1223
-2020,Toyota,RAV4 LE,AWD,27,34,Gasoline,Automatic,4 Cylinder Engine,1224
-2011,Honda,Pilot EX-L,4WD,16,22,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,1225
-2020,Ford,Escape SEL,AWD,26,31,Gasoline,Automatic,1.5L I3 12V GDI DOHC Turbo,1226
-2019,Cadillac,XT5 Luxury,FWD,19,26,Gasoline,Automatic,Gas V6 3.6L/222,1227
-2020,Nissan,Leaf SV,FWD,123,99,Electric,Automatic,Electric,1228
-2019,Audi,A5 2.0T Premium,AWD,23,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1229
-2016,Volkswagen,Golf R 4-Door,AWD,23,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1230
-2021,Mazda,CX-30 Premium Package,FWD,25,33,Gasoline,Automatic,2.5L I4 16V GDI DOHC,1231
-2004,Bmw,Z4 2.5i Roadster,RWD,20,28,Gasoline,Automatic,2.5L I6 24V MPFI DOHC,1232
-2019,Subaru,Crosstrek 2.0i Premium,AWD,27,33,Gasoline,CVT,4 Cylinder Engine,1233
-2020,Lexus,ES 350 Base,FWD,22,32,Gasoline,Automatic,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,1234
-2020,Jeep,Cherokee Latitude,4WD,21,29,Gasoline,Automatic,2.4L I4 16V MPFI SOHC,1235
-2019,Acura,RDX Advance Package,AWD,21,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1236
-2018,Honda,Accord EX,FWD,30,38,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,1237
-2017,Land,Rover Range Rover Sport 3.0L Supercharged HSE,4WD,17,23,Gasoline,Automatic,3.0L V6 24V GDI DOHC Supercharged,1238
-2019,Bmw,430 i,RWD,24,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1239
-2017,Honda,Accord EX-L,FWD,27,36,Gasoline,CVT,2.4L I4 16V GDI DOHC,1240
-2015,Mercedes-Benz,S-Class S 63 AMG,AWD,15,23,Gasoline,Automatic,5.5L V8 32V GDI DOHC Twin Turbo,1241
-2020,Jeep,Grand Cherokee Trailhawk,4WD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1242
-2022,Porsche,911 GT3,RWD,15,18,Gasoline,Automatic,4.0L H6 24V GDI DOHC,1243
-2020,Ram,1500 Laramie,RWD,20,25,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1244
-2005,Mazda,Tribute i,4WD,19,22,Gasoline,Automatic,2.3L DOHC SMPI 16-valve I4 engine,1245
-2019,Ford,F-150 XLT,4WD,18,23,Flex Fuel,Automatic,3.3L V6 24V PDI DOHC Flexible Fuel,1246
-2015,Acura,MDX 3.5L Technology Package,FWD,20,28,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1247
-2020,Jeep,Wrangler Unlimited Rubicon,4WD,17,23,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1248
-2018,Honda,Accord EX-L 2.0T,FWD,23,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1249
-2018,Gmc,Sierra 1500 SLT,RWD,16,23,Gasoline,Automatic,5.3L V8 16V GDI OHV,1250
-2010,Audi,A4 2.0T Premium Plus quattro,AWD,21,27,Gasoline,Automatic,4 Cylinder Engine,1251
-2005,Porsche,Cayenne S,AWD,14,18,Gasoline,Automatic,4.5L V8 32V MPFI DOHC,1252
-2018,Toyota,RAV4 XLE,AWD,22,28,Gasoline,Automatic,2.5L I4 16V MPFI DOHC,1253
-2020,Lincoln,Nautilus Reserve,AWD,20,25,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1254
-2020,Ford,Explorer XLT,4WD,20,27,Gasoline,Automatic,4 Cylinder Engine,1255
-2018,Lexus,RX 350 RX 350,AWD,19,26,Gasoline,Automatic,3.5L V6 24V GDI DOHC,1256
-2010,Mercedes-Benz,E-Class E 350,RWD,17,26,Gasoline,Automatic,V6 Cylinder Engine,1257
-2020,Lexus,NX 300 F Sport,FWD,22,28,Gasoline,Automatic,2.0L I4 16V PDI DOHC Turbo,1258
-2019,Ford,Expedition Max Limited,4WD,16,21,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,1259
-2021,Nissan,Murano Platinum,FWD,20,28,Gasoline,CVT,3.5L V6 24V MPFI DOHC,1260
-2015,Jeep,Grand Cherokee Summit,4WD,21,28,Diesel,Automatic,Intercooled Turbo Diesel V-6 3.0 L/182,1261
-2018,Mercedes-Benz,GLA 250 Base 4MATIC,AWD,23,31,Flex Fuel,Automatic,2.0L I4 16V GDI DOHC Turbo Flexible Fuel,1262
-2019,Maserati,Levante Base,AWD,15,21,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1263
-2016,Nissan,Versa 1.6 S+,FWD,31,40,Gasoline,CVT,1.6L I4 16V MPFI DOHC,1264
-2021,Land,Rover Defender 110 X,4WD,17,22,Gasoline,Automatic,V6,1265
-2021,Bmw,330 i xDrive,AWD,25,34,Gasoline,Automatic,4 Cylinder Engine,1266
-2019,Nissan,Maxima 3.5 SL,FWD,20,30,Gasoline,CVT,V6 Cylinder Engine,1267
-2019,Lexus,LS 500 Base,AWD,18,27,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,1268
-2020,Hyundai,Palisade SEL,AWD,19,24,Gasoline,Automatic,3.8L V6 24V GDI DOHC,1269
-2021,Chevrolet,Tahoe LT,RWD,16,20,Gasoline,Automatic,5.3L V8 16V GDI OHV,1270
-2020,Land,Rover Range Rover Sport SE,4WD,19,24,Gasoline,Automatic,V6,1271
-2014,Bmw,X3 xDrive28i,AWD,21,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1272
-2015,Nissan,Pathfinder SL,FWD,20,27,Gasoline,CVT,3.5L V6 24V MPFI DOHC,1273
-2022,Bmw,X2 xDrive28i,AWD,24,31,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1274
-2020,Acura,MDX SH-AWD 7-Passenger,AWD,19,26,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1275
-2014,Mercedes-Benz,E-Class E 350 4MATIC,AWD,19,26,Gasoline,Automatic,3.5L V6 24V GDI DOHC,1276
-2017,Lexus,NX 200t F Sport,AWD,22,27,Gasoline,Automatic,2.0L I4 16V PDI DOHC Turbo,1277
-2015,Jeep,Grand Cherokee Limited,RWD,17,25,Flex Fuel,Automatic,3.6L V6 24V MPFI DOHC Flexible Fuel,1278
-2021,Volkswagen,Tiguan 2.0T S,FWD,23,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1279
-2021,Gmc,Yukon XL SLT,4WD,15,19,Gasoline,Automatic,5.3L V8 16V GDI OHV,1280
-2021,Mercedes-Benz,GLE 350 Base 4MATIC,AWD,19,26,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1281
-2019,Toyota,Highlander XLE,AWD,20,26,Gasoline,Automatic,Regular Unleaded V-6 3.5 L/211,1282
-2020,Gmc,Sierra 1500 Denali,4WD,16,22,Gasoline,Automatic,6.2L V8 16V GDI OHV,1283
-2020,Ford,Edge SEL,AWD,21,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1284
-2017,Porsche,911 Carrera GTS,RWD,18,26,Gasoline,Automatic,3.0L H6 24V GDI DOHC Twin Turbo,1285
-2022,Volkswagen,Taos 1.5T SE,FWD,28,36,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,1286
-2020,Acura,RDX Technology Package,AWD,21,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1287
-2017,Toyota,Highlander XLE,AWD,20,26,Gasoline,Automatic,3.5L V6 24V GDI DOHC,1288
-2021,Audi,RS 5 2.9T,AWD,18,25,Gasoline,Automatic,2.9L V6 24V GDI DOHC Twin Turbo,1289
-2019,Lincoln,Nautilus Select,AWD,20,25,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1290
-2020,Chevrolet,Blazer 2LT,FWD,21,28,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1291
-2018,Chrysler,300 Limited,AWD,18,27,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1292
-2016,Honda,Accord EX-L,FWD,21,34,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,1293
-2018,Bmw,430 Gran Coupe i,RWD,24,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1294
-2019,Ford,Expedition Limited,4WD,17,22,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,1295
-2003,Ford,ZX2,FWD,26,33,Gasoline,Manual,2.0L I4 16V MPFI DOHC,1296
-2016,Land,Rover Range Rover 3.0L Turbocharged Diesel Td6,4WD,22,28,Diesel,Automatic,3.0L V6 24V DDI DOHC Turbo Diesel,1297
-2018,Maserati,Ghibli S,RWD,16,24,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1298
-2017,Mercedes-Benz,GLE 350 Base 4MATIC,AWD,18,23,Gasoline,Automatic,3.5L V6 24V GDI DOHC,1299
-2020,Chevrolet,Traverse LT Leather,FWD,18,27,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1300
-2019,Dodge,Durango GT,AWD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1301
-2019,Mercedes-Benz,AMG GT 63 4-Door,AWD,15,20,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,1302
-2022,Mazda,CX-5 Carbon Edition,AWD,24,30,Gasoline,Automatic,2.5L I4 16V,1303
-2019,Land,Rover Range Rover Sport 3.0L Supercharged HSE,4WD,17,23,Gasoline,Automatic,V6,1304
-2016,Hyundai,Elantra SE,FWD,28,38,Gasoline,Automatic,1.8L 4-Cylinder DOHC 16V Dual CVVT,1305
-2019,Volvo,XC90 T6 R-Design,AWD,19,26,Gasoline,Automatic,2.0L I4 16V GDI DOHC,1306
-2014,Dodge,Durango Citadel,AWD,14,22,Gasoline,Automatic,8 Cylinder Engine,1307
-2017,Mercedes-Benz,AMG C 43 Base 4MATIC,AWD,20,28,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1308
-2019,Jeep,Grand Cherokee Overland,4WD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1309
-2020,Mercedes-Benz,C-Class C 300,RWD,21,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1310
-2019,Toyota,RAV4 Limited,FWD,26,35,Gasoline,Automatic,2.5L I4 16V PDI DOHC,1311
-2018,Subaru,Impreza 2.0i,AWD,28,37,Gasoline,CVT,2.0L H4 16V GDI DOHC,1312
-2021,Gmc,Yukon Denali,4WD,14,19,Gasoline,Automatic,8 Cylinder Engine,1313
-2017,Lincoln,Navigator Select,4WD,15,20,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,1314
-2014,Honda,Accord Sport,FWD,26,34,Gasoline,CVT,2.4L I4 16V GDI DOHC,1315
-2021,Hyundai,Tucson SE,FWD,23,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC,1316
-2021,Mazda,CX-5 Touring,AWD,24,30,Gasoline,Automatic,2.5L I4 16V GDI DOHC,1317
-2019,Cadillac,Escalade Luxury,RWD,14,23,Gasoline,Automatic,6.2L V8 16V GDI OHV,1318
-2017,Mercedes-Benz,E-Class E 300,RWD,22,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1319
-2016,Audi,A6 2.0T Premium Plus,AWD,22,32,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1320
-2021,Toyota,Camry XSE V6,FWD,22,32,Gasoline,Automatic,3.5L V6 24V PDI DOHC,1321
-2020,Gmc,Sierra 1500 Denali,4WD,16,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,1322
-2017,Jaguar,F-TYPE Premium,RWD,20,28,Gasoline,Automatic,3.0L V6 24V GDI DOHC Supercharged,1323
-2019,Cadillac,Escalade Luxury,4WD,14,21,Gasoline,Automatic,6.2L V8 16V GDI OHV,1324
-2020,Hyundai,Santa Fe SEL 2.4,FWD,22,29,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1325
-2022,Hyundai,Palisade Calligraphy,FWD,19,26,Gasoline,Automatic,3.8L V6 24V GDI DOHC,1326
-2019,Audi,A4 2.0T Premium Plus,FWD,27,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1327
-2014,Toyota,4Runner SR5,4WD,17,21,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,1328
-2021,Chevrolet,Suburban RST,4WD,15,19,Gasoline,Automatic,8 Cylinder Engine,1329
-2019,Ford,Escape SEL,FWD,23,30,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,1330
-2016,Infiniti,QX60 Base,AWD,19,26,Gasoline,CVT,3.5L V6 24V MPFI DOHC,1331
-2017,Lincoln,Continental Select,FWD,17,26,Gasoline,Automatic,3.7L V6 24V MPFI DOHC,1332
-2020,Infiniti,QX50 Luxe,FWD,23,29,Gasoline,CVT,2.0L I4 16V PDI DOHC Turbo,1333
-2020,Land,Rover Defender 110 SE,4WD,17,22,Gasoline,Automatic,V6,1334
-2021,Tesla,Model Y Performance,AWD,0,0,Electric,Automatic,Electric,1335
-2019,Volvo,S60 T5 Momentum,FWD,24,36,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1336
-2017,Honda,Accord Sport SE,FWD,23,32,Gasoline,Manual,189.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,1337
-2020,Lexus,IS 300 Base,RWD,21,30,Gasoline,Automatic,2.0L I4 16V PDI DOHC Turbo,1338
-2019,Lamborghini,Urus Base,AWD,12,17,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,1339
-2013,Lexus,ES 350 Base,FWD,21,31,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,1340
-2019,Dodge,Durango R/T,AWD,14,22,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1341
-2019,Toyota,Highlander SE,AWD,20,26,Gasoline,Automatic,3.5L V6 24V PDI DOHC,1342
-2020,Volvo,XC90 T5 Momentum 7 Passenger,AWD,20,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1343
-2018,Mercedes-Benz,AMG GLE 43 Coupe 4MATIC,AWD,17,22,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1344
-2014,Mercedes-Benz,CLS-Class CLS 550 4MATIC,AWD,18,25,Gasoline,Automatic,4.7L V8 32V GDI DOHC Twin Turbo,1345
-2016,Honda,Pilot Touring,AWD,19,26,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1346
-2018,Tesla,Model S 100D,AWD,101,102,Electric,Automatic,Electric,1347
-2015,Honda,Accord EX-L,FWD,27,36,Gasoline,CVT,2.4L I4 16V GDI DOHC,1348
-2016,Ford,Explorer Limited,4WD,16,23,Gasoline,Automatic,2.3L I4 16V GDI DOHC Turbo,1349
-2018,Ford,Edge Titanium,FWD,20,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1350
-2019,Chevrolet,Silverado 1500 High Country,4WD,16,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,1351
-2018,Nissan,Pathfinder S,FWD,20,27,Gasoline,CVT,3.5L V6 24V MPFI DOHC,1352
-2018,Gmc,Yukon XL SLT,4WD,15,22,Gasoline,Automatic,8 Cylinder Engine,1353
-2021,Kia,Telluride EX,AWD,19,24,Gasoline,Automatic,3.8L V6 24V GDI DOHC,1354
-2020,Chevrolet,Silverado 1500 LT,RWD,20,23,Gasoline,Automatic,2.7L I4 16V GDI DOHC Turbo,1355
-2021,Lexus,RX 350 Base,AWD,19,26,Gasoline,Automatic,V6 Cylinder Engine,1356
-2021,Porsche,911 Carrera 4,AWD,18,24,Gasoline,Automatic,3.0L H6 24V GDI DOHC Twin Turbo,1357
-2015,Porsche,911 Turbo S,AWD,17,24,Gasoline,Automatic,3.8L H6 24V GDI DOHC Twin Turbo,1358
-2019,Lexus,ES 350 Luxury,FWD,22,33,Gasoline,Automatic,3.5L V6 24V PDI DOHC,1359
-2019,Mercedes-Benz,E-Class E 450,AWD,20,28,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1360
-2016,Jeep,Grand Cherokee Overland,4WD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1361
-2020,Tesla,Model 3 Long Range,AWD,124,116,â,Automatic,â,1362
-2021,Land,Rover Range Rover HSE Westminster,4WD,18,23,Gasoline,Automatic,V6,1363
-2004,Chevrolet,Trailblazer LS,4WD,15,21,Gasoline,Automatic,4.2L I6 24V MPFI DOHC,1364
-2019,Land,Rover Range Rover Sport 3.0L Supercharged SE,4WD,17,23,Gasoline,Automatic,V6,1365
-2020,Ram,1500 Longhorn,4WD,19,24,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1366
-2019,Chevrolet,Equinox 1LT,FWD,26,32,Gasoline,Automatic,4 Cylinder Engine,1367
-2018,Lexus,RX 350,AWD,19,26,Gasoline,Automatic,3.5L V6 24V GDI DOHC,1368
-2019,Hyundai,Kona SE,AWD,25,30,Gasoline,Automatic,2.0L I4 16V MPFI DOHC,1369
-2021,Mercedes-Benz,GLB 250 4MATIC,AWD,23,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1370
-2020,Kia,Telluride S,AWD,19,24,Gasoline,Automatic,3.8L V6 24V GDI DOHC,1371
-2020,Mercedes-Benz,GLE 450 AWD 4MATIC,AWD,19,24,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1372
-2021,Honda,Passport EX-L,FWD,20,25,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1373
-2022,Hyundai,Palisade SE,AWD,19,24,Gasoline,Automatic,3.8L V6 24V GDI DOHC,1374
-2018,Dodge,Challenger GT,AWD,18,27,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1375
-2017,Chevrolet,Corvette Stingray,RWD,16,25,Gasoline,Automatic,6.2L V8 16V GDI OHV,1376
-2021,Alfa,Romeo Stelvio Base,RWD,22,29,Gasoline,Automatic,2.0L I4 16V GDI SOHC Turbo,1377
-2019,Mini,Countryman Cooper S,FWD,23,32,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1378
-2016,Ford,Mustang EcoBoost Premium,RWD,22,31,Gasoline,Automatic,2.3L I4 16V GDI DOHC Turbo,1379
-2017,Subaru,Legacy 2.5i Premium,AWD,25,34,Gasoline,CVT,2.5L H4 16V MPFI DOHC,1380
-2021,Dodge,Durango R/T,AWD,14,22,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1381
-2015,Porsche,911 Turbo,AWD,17,24,Gasoline,Automatic,3.8L H6 24V GDI DOHC Twin Turbo,1382
-2017,Lexus,GX 460 Base,4WD,15,18,Gasoline,Automatic,4.6L V8 32V MPFI DOHC,1383
-2018,Land,Rover Discovery HSE,4WD,16,21,Gasoline,Automatic,V6,1384
-2020,Tesla,Model 3 Performance,AWD,118,107,Gasoline,Automatic,10 Cylinder,1385
-2021,Porsche,911 Carrera S,RWD,18,23,Gasoline,Automatic,3.0L H6 24V GDI DOHC Twin Turbo,1386
-2019,Bmw,530 i,RWD,24,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1387
-2017,Subaru,Outback 2.5i Premium,AWD,25,32,Gasoline,CVT,2.5L H4 16V MPFI DOHC,1388
-2021,Volvo,XC40 T5 R-Design,AWD,22,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1389
-2019,Honda,Pilot EX-L w/Navigation/RES,FWD,19,27,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1390
-2018,Ford,F-150 Lariat,4WD,19,24,Gasoline,Automatic,2.7L V6 24V PDI DOHC Twin Turbo,1391
-2021,Acura,RDX w/A-Spec Package,FWD,22,27,Gasoline,Automatic,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,1392
-2020,Mazda,CX-5 Grand Touring,AWD,24,30,Gasoline,Automatic,Regular Unleaded I-4 2.5 L/152,1393
-2019,Honda,Civic EX-L,FWD,32,42,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,1394
-2022,Acura,TLX A-Spec,FWD,22,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1395
-2020,Mercedes-Benz,C-Class C 300 4MATIC,AWD,23,33,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1396
-2019,Mercedes-Benz,AMG G 63 Base,AWD,13,15,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,1397
-2016,Bmw,X3 xDrive35i,AWD,19,27,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1398
-2018,Porsche,Macan Base,AWD,20,25,Gasoline,Automatic,4 Cylinder Engine,1399
-2019,Mercedes-Benz,GLC 350e Base 4MATIC,AWD,0,0,Gasoline,Automatic,4 Cylinder Engine,1400
-2020,Honda,CR-V Touring,AWD,27,32,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,1401
-2020,Chevrolet,Blazer 2LT,AWD,21,27,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1402
-2011,Ford,F-150 King Ranch,4WD,15,21,Gasoline,Automatic,Turbocharged Gas V6 3.5/213,1403
-2018,Audi,A4 2.0T Premium,AWD,24,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1404
-2006,Chevrolet,Impala LT,FWD,19,27,Gasoline,Automatic,240.0HP 3.9L V6 Cylinder Engine Gasoline Fuel,1405
-2018,Toyota,RAV4 Limited,FWD,23,29,Gasoline,Automatic,2.5L I4 16V MPFI DOHC,1406
-2018,Bmw,530 i,RWD,24,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1407
-2019,Buick,Encore Sport Touring,AWD,24,29,Gasoline,Automatic,1.4L I4 16V MPFI DOHC Turbo,1408
-2019,Volkswagen,Tiguan 2.0T S,FWD,22,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1409
-2020,Jaguar,E-PACE SE,AWD,21,28,Gasoline,Automatic,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,1410
-2008,Porsche,911 Carrera,AWD,18,26,Gasoline,Automatic,3.6L horizontally-opposed DOHC 24V 6-cyl engine-inc: dry sump lu,1411
-2005,Acura,MDX Touring,4WD,17,23,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,1412
-2019,Nissan,Pathfinder S,4WD,19,26,Gasoline,CVT,Regular Unleaded V-6 3.5 L/213,1413
-2021,Gmc,Yukon XL Denali,RWD,14,20,Gasoline,Automatic,Gas V8 6.2L/,1414
-2020,Nissan,Pathfinder SL,4WD,20,27,Gasoline,CVT,3.5L V6 24V GDI DOHC,1415
-2016,Audi,A3 2.0T Premium,AWD,24,33,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1416
-2016,Honda,CR-V Touring,AWD,25,31,Gasoline,CVT,2.4L I4 16V GDI DOHC,1417
-2019,Dodge,Journey SE,FWD,19,25,Gasoline,Automatic,2.4L I4 16V MPFI DOHC,1418
-2021,Volkswagen,Atlas 3.6 V6 SE w/ Technology,FWD,17,23,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1419
-2020,Lexus,NX 300 Base,FWD,22,28,Gasoline,Automatic,2.0L I4 16V PDI DOHC Turbo,1420
-2020,Chevrolet,Equinox Premier w/1LZ,FWD,26,31,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,1421
-2020,Ford,Fusion SE,AWD,20,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1422
-2018,Bmw,540 i,RWD,21,30,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1423
-2021,Nissan,Sentra SV,FWD,29,39,Gasoline,CVT,2.0L I4 16V MPFI DOHC,1424
-2019,Cadillac,Escalade ESV Luxury,RWD,14,23,Gasoline,Automatic,6.2L V8 16V GDI OHV,1425
-2021,Dodge,Charger GT,RWD,19,30,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1426
-2019,Ram,1500 Laramie,4WD,19,24,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1427
-2019,Ford,Edge SEL,AWD,21,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1428
-2019,Ford,F-150 Platinum,4WD,16,22,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,1429
-2016,Chevrolet,Traverse LTZ,AWD,15,22,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1430
-2019,Toyota,RAV4 XLE Premium,AWD,25,33,Gasoline,Automatic,2.5L I4 16V PDI DOHC,1431
-2020,Lexus,RX 350 F Sport Performance,AWD,19,26,Gasoline,Automatic,3.5L V6 24V PDI DOHC,1432
-2018,Lincoln,Continental Black Label,AWD,17,25,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1433
-2012,Chevrolet,Impala LT,FWD,18,30,Flex Fuel,Automatic,3.6L V6 24V GDI DOHC Flexible Fuel,1434
-2020,Chevrolet,Traverse Premier,AWD,17,25,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1435
-2020,Gmc,Acadia SLE,FWD,21,27,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1436
-2021,Gmc,Sierra 1500 Denali,4WD,16,22,Gasoline,Automatic,6.2L V8 16V GDI OHV,1437
-2019,Chevrolet,Traverse LT Cloth,AWD,17,25,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1438
-2019,Chevrolet,Silverado 1500 LT,4WD,18,21,Gasoline,Automatic,5.3L V8 16V GDI OHV,1439
-2019,Chevrolet,Silverado 1500 Custom,4WD,15,20,Gasoline,Automatic,4.3L V6 12V GDI OHV,1440
-2018,Subaru,Legacy 2.5i Sport,AWD,25,34,Gasoline,CVT,2.5L H4 16V MPFI DOHC,1441
-2013,Honda,Pilot EX-L w/ Navigation,4WD,17,24,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,1442
-2021,Kia,Sorento LX,AWD,23,25,Gasoline,Automatic,2.5L I4 16V PDI DOHC,1443
-2019,Chevrolet,Suburban LT,4WD,14,21,Gasoline,Automatic,5.3L V8 16V GDI OHV,1444
-2013,Mercedes-Benz,GL-Class GL 450 4MATIC,AWD,14,19,Gasoline,Automatic,4.7L V8 32V GDI DOHC Twin Turbo,1445
-2018,Lexus,LC 500 Base,RWD,16,26,Gasoline,Automatic,5.0L V8 32V PDI DOHC,1446
-2018,Jeep,Wrangler Sport,4WD,17,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1447
-2016,Kia,Sorento LX,AWD,21,26,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1448
-2019,Jeep,Grand Cherokee Limited,4WD,18,25,Gasoline,Automatic,V6 Cylinder Engine,1449
-2017,Buick,Enclave Leather,AWD,15,22,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1450
-2011,Bmw,X5 xDrive35i,AWD,16,23,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1451
-2019,Mazda,Mazda3 FWD w/Premium Package,FWD,27,36,Gasoline,Automatic,2.5L I4 16V GDI DOHC,1452
-2017,Porsche,Macan S,AWD,17,23,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1453
-2015,Scion,xB Base,FWD,22,28,Gasoline,Automatic,2.4L I4 16V MPFI DOHC,1454
-2020,Bmw,430 i xDrive,AWD,22,32,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1455
-2021,Volkswagen,Atlas 3.6 V6 SEL,AWD,16,22,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1456
-2021,Acura,RDX Technology Package,FWD,22,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1457
-2019,Honda,CR-V LX,FWD,26,32,Gasoline,CVT,2.4L I4 16V GDI DOHC,1458
-2020,Gmc,Sierra 2500 Denali,4WD,0,0,Diesel,Automatic,Turbocharged Diesel V8 6.6L/403,1459
-2018,Gmc,Yukon XL Denali,4WD,14,21,Gasoline,Automatic,6.2L V8 16V GDI OHV,1460
-2018,Ford,Flex Limited,FWD,16,23,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,1461
-2015,Honda,Accord EX-L,FWD,21,32,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,1462
-2019,Honda,Civic Sport,FWD,29,38,Gasoline,Manual,1.5L I4 16V GDI DOHC Turbo,1463
-2019,Toyota,Highlander Hybrid Limited,AWD,29,27,Hybrid,CVT,3.5L V6 24V PDI DOHC Hybrid,1464
-2020,Volkswagen,Tiguan 2.0T S,AWD,20,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1465
-2014,Ford,Explorer Limited,4WD,17,23,Flex Fuel,Automatic,290.0HP 3.5L V6 Cylinder Engine Flex Fuel Capability,1466
-2021,Dodge,Durango R/T,â,14,22,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1467
-2021,Acura,ILX Premium Package,FWD,24,34,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1468
-2020,Chevrolet,Traverse LS,FWD,18,27,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1469
-2019,Jeep,Grand Cherokee Altitude,4WD,18,25,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1470
-2020,Honda,Accord LX 1.5T,FWD,30,38,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,1471
-2018,Gmc,Sierra 1500 Denali,RWD,16,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,1472
-2021,Audi,A4 40 Premium Plus,AWD,24,31,Gasoline,Automatic,2.0L,1473
-2021,Tesla,Model 3 Long Range,AWD,141,127,Gasoline,Automatic,10 Cylinder,1474
-2018,Infiniti,QX60 Base,AWD,19,26,Gasoline,CVT,3.5L V6 24V MPFI DOHC,1475
-2015,Audi,A3 2.0T Premium,AWD,24,33,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1476
-2019,Ford,Flex Limited,FWD,16,23,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,1477
-2019,Gmc,Acadia SLT-1,AWD,17,25,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1478
-2017,Hyundai,Tucson SE,AWD,21,26,Gasoline,Automatic,4 Cylinder,1479
-2016,Mercedes-Benz,S-Class S 550 4MATIC,AWD,16,24,Gasoline,Automatic,4.7L V8 32V GDI DOHC Twin Turbo,1480
-2020,Nissan,Rogue SV,AWD,25,32,Gasoline,CVT,2.5L I4 16V MPFI DOHC,1481
-2018,Jeep,Grand Cherokee High Altitude,4WD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1482
-2016,Mercedes-Benz,C-Class C 300,AWD,24,31,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1483
-2019,Ford,Fiesta SE,FWD,27,35,Gasoline,Automatic,1.6L I4 16V MPFI DOHC,1484
-2019,Mercedes-Benz,AMG C 63 S,RWD,17,26,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,1485
-2020,Honda,Passport Touring,FWD,20,25,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1486
-2020,Cadillac,Escalade Luxury,4WD,14,21,Gasoline,Automatic,6.2L V8 16V GDI OHV,1487
-2021,Infiniti,Q50 3.0t SENSORY,RWD,20,29,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1488
-2019,Honda,Passport Sport,AWD,19,24,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1489
-2017,Toyota,Highlander Limited,FWD,21,27,Gasoline,Automatic,3.5L V6 24V GDI DOHC,1490
-2020,Volkswagen,Atlas Cross Sport 3.6L V6 SEL,FWD,17,23,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1491
-2015,Cadillac,SRX Luxury Collection,FWD,17,24,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1492
-2021,Toyota,Corolla Hatchback SE,FWD,32,41,Gasoline,CVT,2.0L I4 16V PDI DOHC,1493
-2017,Mercedes-Benz,GLS 550 Base 4MATIC,AWD,14,18,Gasoline,Automatic,4.7L V8 32V GDI DOHC Twin Turbo,1494
-2019,Toyota,Sienna LE Auto Access Seat,FWD,19,27,Gasoline,Automatic,3.5L V6 24V PDI DOHC,1495
-2021,Hyundai,Tucson Value,FWD,23,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC,1496
-2019,Mercedes-Benz,GLC 300 Base,RWD,22,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1497
-2017,Chevrolet,Equinox LT,AWD,20,28,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1498
-2015,Mercedes-Benz,S-Class S 550 4MATIC,AWD,16,24,Gasoline,Automatic,4.7L V8 32V GDI DOHC Twin Turbo,1499
-2015,Chevrolet,Silverado 1500 LTZ,4WD,16,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,1500
-2021,Lexus,RX 350,AWD,19,26,Gasoline,Automatic,3.5L V6 24V PDI DOHC,1501
-2021,Mazda,CX-5 Grand Touring,AWD,24,30,Gasoline,Automatic,2.5L I4 16V,1502
-2020,Buick,Encore Preferred,FWD,25,30,Gasoline,Automatic,1.4L I4 16V MPFI DOHC Turbo,1503
-2016,Nissan,Maxima 3.5 SV,FWD,22,30,Gasoline,CVT,3.5L V6 24V MPFI DOHC,1504
-2019,Toyota,RAV4 Limited,AWD,25,33,Gasoline,Automatic,2.5L I4 16V PDI DOHC,1505
-2019,Hyundai,Santa Fe SE 2.4,AWD,21,27,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1506
-2020,Subaru,Forester Premium,AWD,26,33,Gasoline,CVT,2.5L H4 16V GDI DOHC,1507
-2020,Toyota,RAV4 LE,AWD,27,34,Gasoline,Automatic,2.5L I4 16V PDI DOHC,1508
-2015,Cadillac,Escalade ESV Base,4WD,14,20,Gasoline,Automatic,6.2L V8 16V GDI OHV,1509
-2018,Toyota,Highlander Limited,AWD,20,26,Gasoline,Automatic,3.5L V6 24V PDI DOHC,1510
-2019,Jaguar,F-PACE 25t Premium,AWD,22,27,Gasoline,Automatic,I4,1511
-2019,Gmc,Acadia SLE-2,AWD,17,25,Gasoline,Automatic,V6 Cylinder Engine,1512
-2019,Hyundai,Tucson Limited,AWD,21,26,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1513
-2020,Bmw,X3 xDrive30i,AWD,24,29,Gasoline,Automatic,4 Cylinder Engine,1514
-2019,Volvo,XC90 T5 Momentum,AWD,20,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1515
-2019,Mercedes-Benz,S-Class S 450,RWD,19,28,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1516
-2018,Alfa,Romeo Giulia Ti,RWD,24,33,Gasoline,Automatic,2.0L I4 16V GDI SOHC Turbo,1517
-2020,Cadillac,Escalade Platinum,4WD,14,21,Gasoline,Automatic,6.2L V8 16V GDI OHV,1518
-2021,Kia,Sorento SX,FWD,22,29,Gasoline,Automatic,2.5L I4 16V PDI DOHC Turbo,1519
-2020,Ford,F-150 Lariat,RWD,20,26,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,1520
-2021,Porsche,Macan Base,AWD,19,23,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1521
-2017,Mercedes-Benz,E-Class E 300 Sport,RWD,22,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1522
-2020,Gmc,Yukon XL SLT,4WD,14,21,Gasoline,Automatic,5.3L V8 16V GDI OHV,1523
-2018,Bmw,320 i,RWD,24,35,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1524
-2012,Jeep,Patriot Latitude,4WD,22,28,Gasoline,CVT,2.4L I4 16V MPFI DOHC,1525
-2013,Ford,Escape Titanium,FWD,22,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1526
-2016,Bmw,X6 xDrive35i,AWD,18,24,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1527
-2021,Acura,TLX Type S,AWD,19,24,Gasoline,Automatic,3.0L V6 24V GDI SOHC Turbo,1528
-2019,Toyota,RAV4 XLE,AWD,25,33,Gasoline,Automatic,2.5L I4 16V PDI DOHC,1529
-2004,Nissan,Murano SL,AWD,20,24,Gasoline,CVT,3.5L V6 24V MPFI DOHC,1530
-2020,Buick,Enclave Avenir,AWD,17,25,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1531
-2020,Mercedes-Benz,GLS 450 Base 4MATIC,AWD,19,23,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1532
-2021,Honda,CR-V Touring,AWD,27,32,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,1533
-2014,Chevrolet,Tahoe LTZ,RWD,15,21,Flex Fuel,Automatic,5.3L V8 16V MPFI OHV Flexible Fuel,1534
-2021,Kia,Seltos SX,AWD,25,30,Gasoline,Automatic,1.6L I4 16V GDI DOHC Turbo,1535
-2022,Hyundai,Kona SEL,FWD,30,35,Gasoline,CVT,2.0L I4 16V MPFI DOHC,1536
-2019,Volvo,XC40 T5 Momentum,AWD,23,31,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1537
-2016,Toyota,4Runner SR5,RWD,17,22,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,1538
-2020,Toyota,RAV4 XLE,FWD,28,35,Gasoline,Automatic,2.5L I4 16V PDI DOHC,1539
-2016,Tesla,Model X P90D,AWD,89,90,Electric,Automatic,Electric,1540
-2005,Mazda,Mazda3 s,FWD,24,29,Gasoline,Automatic,2.3L DOHC MPFI 16-valve 4-cyl engine w/variable-valve timing (V-,1541
-2018,Jaguar,F-PACE S,AWD,18,23,Gasoline,Automatic,3.0L V6 24V GDI DOHC Supercharged,1542
-2019,Lincoln,MKC Standard,AWD,19,25,Gasoline,Automatic,4 Cylinder Engine,1543
-2015,Jeep,Grand Cherokee Limited,4WD,17,24,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1544
-2019,Cadillac,Escalade Premium Luxury,4WD,14,21,Gasoline,Automatic,6.2L V8 16V GDI OHV,1545
-2019,Gmc,Sierra 1500 Denali,4WD,15,21,Gasoline,Automatic,6.2L V8 16V GDI OHV,1546
-2020,Nissan,Rogue S,FWD,26,33,Gasoline,Unknown,Regular Unleaded I-4 2.5 L/152,1547
-2017,Hyundai,Tucson Limited,FWD,25,30,Gasoline,Automatic,1.6L I4 16V GDI DOHC Turbo,1548
-2021,Lincoln,Corsair Standard,AWD,21,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1549
-2017,Ford,Escape Titanium,4WD,22,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1550
-2015,Chevrolet,Equinox 1LT,AWD,20,29,Gasoline,Automatic,4 Cylinder Engine,1551
-2017,Gmc,Yukon Denali,4WD,15,21,Gasoline,Automatic,6.2L V8 16V GDI OHV,1552
-2021,Mercedes-Benz,C-Class C 300 4MATIC,AWD,23,32,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1553
-2021,Gmc,Yukon SLT,RWD,16,20,Gasoline,Automatic,5.3L V8 16V GDI OHV,1554
-2014,Maserati,GranTurismo Sport,RWD,13,21,Gasoline,Automatic,4.7L V8 32V MPFI DOHC,1555
-2019,Lincoln,Navigator Select,4WD,16,21,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,1556
-2017,Jeep,Grand Cherokee Limited,4WD,18,25,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1557
-2018,Chevrolet,Suburban LT,RWD,16,23,Gasoline,Automatic,5.3L V8 16V GDI OHV,1558
-2016,Kia,Forte LX,FWD,26,39,Gasoline,Automatic,1.8L I4 16V MPFI DOHC,1559
-2013,Nissan,Maxima SV,FWD,19,26,Gasoline,CVT,3.5L V6 24V MPFI DOHC,1560
-2017,Honda,Civic EX,FWD,31,40,Gasoline,CVT,Engine: 1.5L I-4 DOHC 16-Valve Turbocharged,1561
-2019,Ford,F-150 Lariat,4WD,19,24,Gasoline,Automatic,5.0L V8 32V PDI DOHC,1562
-2019,Chevrolet,Equinox 2LT,FWD,26,32,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,1563
-2020,Alfa,Romeo Giulia Base,AWD,23,31,Gasoline,Automatic,2.0L I4 16V GDI SOHC Turbo,1564
-2019,Gmc,Acadia SLE-2,AWD,21,25,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1565
-2013,Nissan,Rogue S,AWD,22,27,Gasoline,CVT,2.5L I4 16V MPFI DOHC,1566
-2020,Bmw,M4 Base,RWD,18,25,Gasoline,Automatic,3.0L I6 24V GDI DOHC Twin Turbo,1567
-2019,Audi,S5 3.0T Premium Plus,AWD,21,30,Gasoline,Automatic,3.0L V6 24V GDI DOHC Turbo,1568
-2021,Toyota,Camry SE,AWD,25,34,Gasoline,Automatic,2.5L I4 16V PDI DOHC,1569
-2017,Toyota,Camry SE,FWD,24,33,Gasoline,Automatic,2.5L I4 16V MPFI DOHC,1570
-2019,Porsche,Macan 4DR SUV AWD,AWD,19,23,Gasoline,Automatic,Intercooled Turbo Premium Unleaded I-4 2.0 L/121,1571
-2020,Hyundai,Kona Ultimate,AWD,26,29,Gasoline,Automatic,1.6L I4 16V GDI DOHC Turbo,1572
-2017,Chevrolet,Equinox 1LT,FWD,21,31,Gasoline,Automatic,Gas I4 2.4/145,1573
-2019,Gmc,Terrain SLT,AWD,24,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1574
-2015,Gmc,Yukon XL 1500 SLE,4WD,15,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,1575
-2013,Cadillac,Escalade Platinum Edition,AWD,13,18,Gasoline,Automatic,6.2L V8 16V MPFI OHV,1576
-2013,Honda,Accord EX-L,FWD,21,34,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,1577
-2015,Porsche,Macan S,AWD,17,23,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1578
-2019,Audi,A8 L 55,AWD,19,27,Gasoline,Automatic,3.0L V6 24V GDI DOHC Turbo,1579
-2022,Hyundai,Palisade Calligraphy,AWD,19,24,Gasoline,Automatic,3.8L V6 24V GDI DOHC,1580
-2020,Toyota,4Runner Limited,4WD,16,19,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,1581
-2019,Mercedes-Benz,E-Class E 300,AWD,21,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1582
-2018,Tesla,Model 3 Performance,AWD,120,112,Electric,Automatic,Electric,1583
-2021,Mercedes-Benz,GLB 250 Base 4MATIC,AWD,23,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1584
-2019,Buick,Encore Essence,FWD,25,30,Gasoline,Automatic,1.4L I4 16V GDI DOHC Turbo,1585
-2009,Ford,F-150 Lariat SuperCab,RWD,14,20,Flex Fuel,Automatic,5.4L V8 24V MPFI SOHC Flexible Fuel,1586
-2021,Ram,1500 Laramie,4WD,19,24,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1587
-2020,Bmw,X3 M Base (A8),AWD,14,19,Gasoline,Automatic,3.0L I6 24V GDI DOHC Twin Turbo,1588
-2018,Ford,Edge Sport,AWD,17,24,Gasoline,Automatic,2.7L V6 24V GDI DOHC Twin Turbo,1589
-2015,Acura,TLX FWD,FWD,24,35,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1590
-2016,Infiniti,QX80 4WD,4WD,13,19,Gasoline,Automatic,Premium Unleaded V-8 5.6 L/339,1591
-2019,Honda,Pilot Elite,AWD,19,26,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1592
-2020,Subaru,Ascent Premium,AWD,21,27,Gasoline,â,Engine: 2.4L DOHC Intercooled Turbocharged,1593
-2018,Ford,Expedition XLT,RWD,17,24,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,1594
-2014,Ford,Escape Titanium,FWD,23,32,Gasoline,Automatic,1.6L I4 16V GDI DOHC Turbo,1595
-2017,Gmc,Acadia Limited Limited,AWD,15,22,Gasoline,Automatic,V6 Cylinder Engine,1596
-2011,Toyota,Camry LE,FWD,22,32,Gasoline,Automatic,2.5L I4 16V MPFI DOHC,1597
-2019,Gmc,Sierra 1500 Limited SLE,4WD,16,23,Gasoline,Automatic,5.3L V8 16V GDI OHV,1598
-2022,Volvo,XC60 B5 Inscription,FWD,23,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1599
-2020,Acura,RDX Base,AWD,21,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1600
-2018,Ford,Escape SE,FWD,23,30,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,1601
-2012,Toyota,Sequoia SR5,4WD,13,17,Gasoline,Automatic,5.7L V8 32V MPFI DOHC,1602
-2019,Gmc,Acadia SLE-1,AWD,21,25,Gasoline,Automatic,2.5L I4 16V GDI DOHC,1603
-2020,Mercedes-Benz,GLS 580 Base 4MATIC,AWD,16,21,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,1604
-2021,Gmc,Yukon AT4,4WD,16,20,Gasoline,Automatic,5.3L V8 16V GDI OHV,1605
-2020,Toyota,Tundra SR5,4WD,13,17,Gasoline,Automatic,5.7L V8 32V MPFI DOHC,1606
-2019,Nissan,Rogue S,AWD,25,32,Gasoline,CVT,2.5L I4 16V MPFI DOHC,1607
-2015,Mercedes-Benz,G-Class G 63 AMG,AWD,12,14,Gasoline,Automatic,5.5L V8 32V GDI DOHC Twin Turbo,1608
-2019,Toyota,Camry XSE,FWD,28,39,Gasoline,Automatic,Regular Unleaded I-4 2.5 L/152,1609
-2019,Subaru,Forester Premium,AWD,26,33,Gasoline,CVT,2.5L H4 16V GDI DOHC,1610
-2014,Volvo,S60 T5,FWD,21,30,Gasoline,Automatic,2.5L I5 20V MPFI DOHC Turbo,1611
-2019,Lexus,NX 300 Base,FWD,22,28,Gasoline,Automatic,2.0L I4 16V PDI DOHC Turbo,1612
-2019,Jaguar,F-PACE 25t Prestige,AWD,22,27,Gasoline,Automatic,I4,1613
-2019,Porsche,Macan Base,AWD,19,23,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1614
-2018,Porsche,Macan S,AWD,17,23,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1615
-2016,Honda,Pilot Touring,FWD,20,27,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1616
-2020,Lexus,UX 250h Base,AWD,41,38,Hybrid,CVT,2.0L I4 16V PDI DOHC Hybrid,1617
-2015,Acura,TLX V6 Tech,FWD,21,34,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1618
-2020,Gmc,Acadia SLT,FWD,21,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1619
-2020,Jeep,Compass Trailhawk,4WD,22,30,Gasoline,Automatic,2.4L I4 16V MPFI SOHC,1620
-2022,Kia,Telluride SX,FWD,20,26,Gasoline,Automatic,3.8L V6 24V GDI DOHC,1621
-2020,Ford,EcoSport SE,4WD,23,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC,1622
-2018,Ford,Escape Titanium,4WD,20,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1623
-2021,Ford,Mustang Mach-E Premium,AWD,100,86,Electric,Automatic,Electric,1624
-2020,Cadillac,XT6 AWD Premium Luxury,AWD,17,24,Gasoline,Automatic,Gas V6 3.6L/222,1625
-2019,Cadillac,XT5 Luxury,AWD,18,25,Gasoline,Automatic,Gas V6 3.6L/222,1626
-2011,Honda,Pilot Touring,4WD,16,22,Gasoline,Automatic,V6 Cylinder Engine,1627
-2019,Buick,Encore Preferred,AWD,24,29,Gasoline,Automatic,1.4L I4 16V MPFI DOHC Turbo,1628
-2021,Lexus,RX 350 Base,FWD,20,27,Gasoline,Automatic,V6 Cylinder Engine,1629
-2018,Jeep,Grand Cherokee Trackhawk,4WD,11,17,Gasoline,Automatic,6.2L V8 16V MPFI OHV Supercharged,1630
-2019,Buick,Encore Preferred,AWD,24,29,Gasoline,Automatic,4 Cylinder Engine,1631
-2020,Ford,Explorer Platinum,4WD,18,24,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1632
-2018,Gmc,Yukon SLT,RWD,16,23,Gasoline,Automatic,5.3L V8 16V GDI OHV,1633
-2017,Chevrolet,Suburban Premier,4WD,15,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,1634
-2014,Acura,TL 3.5,FWD,20,29,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,1635
-2020,Kia,Sportage S,AWD,22,26,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1636
-2018,Subaru,Forester 2.5i Premium,AWD,26,32,Gasoline,Unknown,Regular Unleaded H-4 2.5 L/152,1637
-2021,Subaru,Ascent Touring 7-Passenger,AWD,20,26,Gasoline,CVT,2.4L H4 16V GDI DOHC Turbo,1638
-2017,Porsche,718 Boxster S,RWD,20,26,Gasoline,Automatic,2.5L H4 16V GDI DOHC Turbo,1639
-2019,Infiniti,QX50 Luxe,AWD,24,30,Gasoline,CVT,2.0L I4 16V PDI DOHC Turbo,1640
-2020,Hyundai,Kona SE,FWD,27,33,Gasoline,Automatic,2.0L I4 16V MPFI DOHC,1641
-2019,Hyundai,Tucson Value,AWD,22,25,Gasoline,Automatic,2.0L I4 16V GDI DOHC,1642
-2020,Ram,1500 Big Horn,4WD,19,24,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1643
-2019,Bmw,530 i xDrive,AWD,23,33,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1644
-2019,Volvo,XC60 T5 Inscription,AWD,20,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1645
-2017,Buick,Encore Preferred,FWD,25,33,Gasoline,Automatic,1.4L I4 16V MPFI DOHC Turbo,1646
-2017,Chevrolet,Tahoe LT,4WD,16,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,1647
-2021,Volkswagen,Atlas 2.0T S,AWD,20,24,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1648
-2018,Toyota,RAV4 Sport,AWD,22,28,Gasoline,Automatic,2.5L I4 16V MPFI DOHC,1649
-2019,Honda,Civic EX,FWD,31,40,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,1650
-2015,Ford,Escape Titanium,FWD,23,32,Gasoline,Automatic,1.6L I4 16V GDI DOHC Turbo,1651
-2020,Mercedes-Benz,A-Class A 220,FWD,24,35,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1652
-2019,Ford,Escape Titanium,FWD,22,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1653
-2020,Ram,1500 Classic SLT,4WD,16,23,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1654
-2021,Volkswagen,Atlas 3.6 V6 SE w/ Technology R-Line,FWD,17,23,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1655
-2019,Cadillac,CT6 Luxury,AWD,18,27,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1656
-2020,Bmw,M340 i xDrive,AWD,22,30,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1657
-2021,Jeep,Gladiator Rubicon,4WD,16,23,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1658
-2006,Ford,Escape Limited,4WD,19,23,Gasoline,Automatic,3.0L V6 24V MPFI DOHC,1659
-2018,Hyundai,Santa Fe Sport 2.4L,AWD,20,26,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1660
-2017,Chevrolet,Tahoe Premier,4WD,16,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,1661
-2018,Lexus,RX 350 RX 350,FWD,20,27,Gasoline,Automatic,3.5L V6 24V GDI DOHC,1662
-2019,Buick,Envision Essence,FWD,22,29,Gasoline,Automatic,2.5L I4 16V GDI DOHC,1663
-2020,Nissan,Armada SL,RWD,14,19,Gasoline,Automatic,5.6L V8 32V GDI DOHC,1664
-2013,Mazda,Mazda3 i Touring,FWD,28,40,Gasoline,Automatic,2.0L I4 16V GDI DOHC,1665
-2016,Mercedes-Benz,GLE-Class GLE 350,RWD,18,24,Gasoline,Automatic,3.5L V6 24V GDI DOHC,1666
-2021,Jeep,Grand Cherokee Overland,RWD,19,26,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1667
-2016,Mercedes-Benz,S-Class S 550,RWD,17,26,Gasoline,Automatic,4.7L V8 32V GDI DOHC Twin Turbo,1668
-2017,Kia,Cadenza Technology,FWD,20,28,Gasoline,Automatic,3.3L V6 24V GDI DOHC,1669
-2020,Toyota,Camry LE,AWD,25,34,Gasoline,Automatic,2.5L I4 16V PDI DOHC,1670
-2010,Lexus,RX 350 Base,AWD,18,24,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,1671
-2020,Land,Rover Range Rover Velar S R-Dynamic,4WD,21,27,Gasoline,Automatic,I4,1672
-2019,Volvo,S60 T6 Inscription,AWD,21,32,Gasoline,Automatic,2.0L I4 16V GDI DOHC,1673
-2019,Jeep,Cherokee Limited,4WD,19,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1674
-2018,Audi,SQ5 3.0T Premium Plus,AWD,19,24,Gasoline,Automatic,3.0L V6 24V GDI DOHC Turbo,1675
-2019,Mercedes-Benz,GLA 250 Base,FWD,24,33,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1676
-2019,Bmw,750 i,RWD,18,26,Gasoline,Automatic,4.4L V8 32V GDI DOHC Twin Turbo,1677
-2017,Infiniti,Q50 3.0T Sport,RWD,20,29,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1678
-2018,Jeep,Grand Cherokee Altitude,4WD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1679
-2020,Dodge,Durango GT,RWD,19,26,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1680
-2020,Ford,Edge SEL,FWD,21,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1681
-2014,Buick,Enclave Premium,FWD,17,24,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1682
-2018,Mercedes-Benz,CLA 250 Base,FWD,24,37,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1683
-2021,Jeep,Wrangler Sport,4WD,17,25,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1684
-2016,Chevrolet,Corvette Z06,RWD,15,22,Gasoline,Automatic,6.2L V8 16V GDI OHV Supercharged,1685
-2019,Ford,Edge SEL,FWD,22,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1686
-2012,Chevrolet,Tahoe LT,4WD,15,21,Flex Fuel,Automatic,5.3L V8 16V MPFI OHV Flexible Fuel,1687
-2018,Bmw,X2 xDrive28i,AWD,21,31,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1688
-2018,Mercedes-Benz,GLC 300 Base 4MATIC,AWD,21,28,Gasoline,Automatic,4 Cylinder Engine,1689
-2020,Volkswagen,Passat 2.0T SE,FWD,23,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1690
-2021,Kia,Sorento EX,FWD,22,29,Gasoline,Automatic,2.5L I4 16V PDI DOHC Turbo,1691
-2021,Toyota,4Runner TRD Pro,4WD,16,19,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,1692
-2012,Toyota,Camry SE,FWD,25,35,Gasoline,Automatic,2.5L I4 16V MPFI DOHC,1693
-2021,Hyundai,Sonata SEL Plus,FWD,27,37,Gasoline,Automatic,1.6L I4 16V GDI DOHC Turbo,1694
-2017,Jaguar,XE 35t First Edition,RWD,21,30,Gasoline,Automatic,V6,1695
-2012,Chevrolet,Cruze LT w/1LT,FWD,26,38,Gasoline,Automatic,"Engine, ECOTEC Turbo 1.4L Variable Valve Timing DOHC 4-cylinder",1696
-2018,Bmw,M3 Base,RWD,17,25,Gasoline,Automatic,3.0L I6 24V GDI DOHC Twin Turbo,1697
-2021,Mercedes-Benz,AMG GLE 53 Base,AWD,18,23,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1698
-2020,Hyundai,Santa Fe SE 2.4,AWD,21,27,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1699
-2015,Subaru,Forester 2.5i Limited,AWD,24,32,Gasoline,CVT,2.5L H4 16V MPFI DOHC,1700
-2021,Audi,A4 40 Premium,AWD,24,31,Gasoline,Automatic,2.0L,1701
-2015,Lexus,GS 350 Base,RWD,19,29,Gasoline,Automatic,3.5L V6 24V PDI DOHC,1702
-2021,Chevrolet,Tahoe LT,RWD,16,20,Gasoline,Automatic,8 Cylinder Engine,1703
-2016,Honda,Accord Touring,FWD,21,34,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,1704
-2019,Ford,Explorer Limited,FWD,19,27,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,1705
-2020,Subaru,Outback Limited,AWD,26,33,Gasoline,CVT,2.5L H4 16V GDI DOHC,1706
-2021,Jeep,Wrangler Unlimited Rubicon,4WD,17,23,Diesel,Automatic,3.0L V6 24V DDI DOHC Turbo Diesel,1707
-2015,Toyota,RAV4 Limited,AWD,22,29,Gasoline,Automatic,2.5L I4 16V MPFI DOHC,1708
-2019,Chevrolet,Camaro 1LT,RWD,20,30,Gasoline,Automatic,3.6L V6 GDI DOHC,1709
-2019,Hyundai,Santa Fe XL Limited Ultimate,AWD,17,22,Gasoline,Automatic,3.3L V6 24V GDI DOHC,1710
-2021,Dodge,Durango GT,AWD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1711
-2012,Mitsubishi,Eclipse GS Sport,FWD,20,27,Gasoline,Automatic,2.4L I4 16V MPFI SOHC,1712
-2011,Hyundai,Sonata GLS,FWD,22,35,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1713
-2021,Kia,K5 GT-Line,AWD,26,34,Gasoline,Automatic,1.6L I4 16V GDI DOHC Turbo,1714
-2015,Mini,Hardtop Cooper,FWD,29,40,Gasoline,Automatic,1.5L I3 12V GDI DOHC Turbo,1715
-2017,Toyota,RAV4 XLE,AWD,22,29,Gasoline,Automatic,2.5L I4 16V MPFI DOHC,1716
-2019,Buick,Envision Essence,AWD,21,27,Gasoline,Automatic,4 Cylinder Engine,1717
-2019,Toyota,Highlander Limited,AWD,20,26,Gasoline,Automatic,3.5L V6 24V PDI DOHC,1718
-2019,Subaru,Ascent Touring 7-Passenger,AWD,20,26,Gasoline,CVT,2.4L H4 16V GDI DOHC Turbo,1719
-2019,Nissan,Rogue Sport SV,FWD,25,32,Gasoline,CVT,2.0L I4 16V GDI DOHC,1720
-2021,Ram,1500 Laramie,RWD,20,25,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1721
-2021,Jaguar,E-PACE P250 SE,AWD,20,26,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1722
-2018,Audi,A5 2.0T Premium Plus,AWD,24,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1723
-2020,Volkswagen,Tiguan 2.0T SEL Premium R-Line,AWD,20,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1724
-2015,Toyota,Corolla S Plus,FWD,29,37,Gasoline,CVT,1.8L I4 16V MPFI DOHC,1725
-2018,Mazda,CX-5 Touring,AWD,24,30,Gasoline,Automatic,2.5L I4 16V GDI DOHC,1726
-2022,Bmw,X2 M35i,AWD,23,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1727
-2019,Nissan,Pathfinder Platinum,FWD,20,27,Gasoline,CVT,3.5L V6 24V GDI DOHC,1728
-2021,Chevrolet,Suburban Z71,4WD,15,19,Gasoline,Automatic,5.3L V8 16V GDI OHV,1729
-2020,Land,Rover Range Rover Velar S R-Dynamic,4WD,18,24,Gasoline,Automatic,V6,1730
-2018,Chrysler,300 Limited,RWD,19,30,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1731
-2017,Porsche,Cayenne Platinum Edition,AWD,17,23,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1732
-2019,Alfa,Romeo Giulia Ti,AWD,23,31,Gasoline,Automatic,2.0L I4 16V GDI SOHC Turbo,1733
-2017,Gmc,Acadia Limited Limited,FWD,15,22,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1734
-2019,Jeep,Renegade Latitude,FWD,22,30,Gasoline,Automatic,2.4L I4 16V MPFI SOHC,1735
-2021,Mercedes-Benz,A-Class A 220,FWD,25,36,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1736
-2019,Maserati,Ghibli Base,RWD,17,24,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1737
-2021,Jeep,Wrangler Unlimited Rubicon 392,4WD,13,17,Gasoline,Automatic,6.4L V8 16V MPFI OHV,1738
-2017,Tesla,Model X 90D,AWD,90,94,Electric,Automatic,Electric,1739
-2019,Lincoln,Nautilus Reserve,AWD,20,25,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1740
-2015,Mercedes-Benz,C-Class C 300,AWD,24,31,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1741
-2020,Lincoln,Nautilus Reserve,FWD,21,26,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1742
-2016,Land,Rover Range Rover 5.0L Supercharged,4WD,14,19,Gasoline,Automatic,5.0L V8 32V GDI DOHC Supercharged,1743
-2021,Kia,Sportage LX,FWD,23,30,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1744
-2019,Kia,Optima SX Turbo,FWD,21,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1745
-2018,Chevrolet,Equinox Premier w/1LZ,FWD,26,32,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,1746
-2017,Acura,TLX w/Technology Package,FWD,24,35,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1747
-2018,Gmc,Sierra 1500 Denali,4WD,15,20,Gasoline,Automatic,6.2L V8 16V GDI OHV,1748
-2013,Kia,Optima EX,FWD,24,35,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1749
-2017,Chevrolet,Silverado 1500 LS,4WD,16,22,Gasoline,Automatic,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,1750
-2019,Lincoln,Continental Select,AWD,16,24,Gasoline,Automatic,3.7L V6 24V MPFI DOHC,1751
-2020,Kia,Sorento LX,AWD,21,26,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1752
-2019,Audi,Q5 2.0T Premium Plus,AWD,22,27,Gasoline,Automatic,4 Cylinder Engine,1753
-2017,Ford,Explorer sport,4WD,16,22,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,1754
-2020,Toyota,Tundra SR5,RWD,13,18,Gasoline,Automatic,5.7L V8 32V MPFI DOHC,1755
-2013,Toyota,Sienna Limited,FWD,18,25,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,1756
-2016,Jeep,Grand Cherokee Limited,4WD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1757
-2022,Kia,Sportage Nightfall,FWD,23,30,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1758
-2019,Volvo,S60 T6 Inscription,AWD,21,32,Gasoline,Automatic,4 Cylinder Engine,1759
-2017,Toyota,Sienna SE,FWD,19,27,Gasoline,Automatic,3.5L V6 24V GDI DOHC,1760
-2012,Ford,F-150 XLT,4WD,14,19,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,1761
-2013,Honda,Odyssey Touring,FWD,19,28,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,1762
-2020,Hyundai,Tucson SE,AWD,22,25,Gasoline,Automatic,2.0L I4 16V GDI DOHC,1763
-2014,Jeep,Patriot Limited,4WD,21,27,Gasoline,Automatic,2.4L I4 16V MPFI DOHC,1764
-2019,Land,Rover Discovery HSE,4WD,21,26,Diesel,Automatic,3.0L V6 Turbo Diesel,1765
-2020,Honda,Civic Sport,FWD,29,36,Gasoline,CVT,2.0L I4 16V MPFI DOHC,1766
-2020,Toyota,RAV4 Limited,AWD,25,33,Gasoline,Automatic,2.5L I4 16V PDI DOHC,1767
-2021,Kia,Forte LXS,FWD,29,40,Gasoline,CVT,2.0L I4 16V MPFI DOHC,1768
-2021,Mercedes-Benz,GLC 300 Base,RWD,22,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1769
-2018,Mercedes-Benz,GLA 250 Base,FWD,24,33,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1770
-2016,Acura,TLX V6 Tech,FWD,21,34,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1771
-2021,Honda,CR-V EX,FWD,28,34,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,1772
+2021,Honda,CR-V EX,FWD,28,34,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,1164
+2021,Bmw,M235 Gran Coupe i xDrive,AWD,23,32,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1165
+2017,Mercedes-Benz,AMG GLE 43 Coupe 4MATIC,AWD,17,23,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1166
+2021,Bmw,X3 M40i,AWD,21,27,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1167
+2020,Hyundai,Palisade Limited,AWD,19,24,Gasoline,Automatic,3.8L V6 24V GDI DOHC,1168
+2020,Toyota,RAV4 XLE,AWD,27,33,Gasoline,Automatic,2.5L I4 16V PDI DOHC,1169
+2021,Infiniti,QX50 Luxe,AWD,22,28,Gasoline,CVT,2.0L I4 16V PDI DOHC Turbo,1170
+2019,Bmw,X4 M40i,AWD,20,27,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1171
+2018,Toyota,Tundra Platinum,4WD,13,17,Gasoline,Automatic,5.7L V8 32V MPFI DOHC,1172
+2018,Toyota,4Runner Limited,RWD,17,21,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,1173
+2014,Mazda,Mazda6 i Touring,FWD,26,38,Gasoline,Automatic,2.5L I4 16V GDI DOHC,1174
+2020,Honda,CR-V EX,FWD,28,34,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,1175
+2021,Chevrolet,Tahoe LT,4WD,16,20,Gasoline,Automatic,5.3L V8 16V GDI OHV,1176
+2020,Ford,Escape SEL,FWD,27,33,Gasoline,Automatic,1.5L I3 12V GDI DOHC Turbo,1177
+2020,Bmw,740 i xDrive,AWD,20,28,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1178
+2021,Toyota,C-HR LE,FWD,27,31,Gasoline,CVT,2.0L I4 16V MPFI DOHC,1179
+2021,Mercedes-Benz,GLE 350 Base,RWD,19,26,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1180
+2020,Honda,Pilot EX-L,FWD,19,27,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1181
+2021,Hyundai,Tucson Ultimate,FWD,22,28,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1182
+2016,Bmw,528 i xDrive,AWD,22,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1183
+2019,Honda,CR-V EX-L,FWD,28,34,Gasoline,Unknown,Intercooled Turbo Regular Unleaded I-4 1.5 L/91,1184
+2019,Cadillac,XT4 Premium Luxury,AWD,22,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1185
+2019,Chevrolet,Cruze LT,FWD,28,38,Gasoline,Automatic,1.4L I4 16V GDI DOHC Turbo,1186
+2019,Lexus,GX 460,4WD,15,18,Gasoline,Automatic,4.6L V8 32V MPFI DOHC,1187
+2015,Mercedes-Benz,GLK-Class GLK 350 4MATIC,AWD,18,25,Gasoline,Automatic,3.5L V6 24V GDI DOHC,1188
+2019,Subaru,Forester Limited,AWD,26,33,Gasoline,CVT,2.5L H4 16V GDI DOHC,1189
+2014,Volvo,XC90 3.2,â,16,23,Gasoline,Automatic,3.2L I6 24V MPFI DOHC,1190
+2013,Hyundai,Veloster Base,FWD,28,37,Gasoline,Automatic,1.6L I4 16V GDI DOHC,1191
+2019,Porsche,Cayenne S,AWD,18,23,Gasoline,Automatic,2.9L V6 24V GDI DOHC Twin Turbo,1192
+2020,Mazda,CX-9 Touring,AWD,20,26,Gasoline,Automatic,2.5L I4 16V GDI DOHC Turbo,1193
+2015,Infiniti,Q50 Base,AWD,19,27,Gasoline,Automatic,3.7L V6 24V MPFI DOHC,1194
+2021,Audi,A4 45 S line quattro Premium,AWD,24,31,Gasoline,Automatic,2.0L,1195
+2022,Chevrolet,Tahoe LT,RWD,15,20,Gasoline,Automatic,5.3L V8 16V GDI OHV,1196
+2012,Audi,Q5 2.0T Premium,AWD,20,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1197
+2021,Mercedes-Benz,GLC 300 Base 4MATIC,AWD,21,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1198
+2019,Honda,HR-V Sport,AWD,26,31,Gasoline,Unknown,Regular Unleaded I-4 1.8 L/110,1199
+2018,Chevrolet,Trax LT,AWD,24,30,Gasoline,Automatic,1.4L I4 16V MPFI DOHC Turbo,1200
+2020,Acura,TLX Tech,FWD,20,31,Gasoline,Automatic,Premium Unleaded V-6 3.5 L/212,1201
+2020,Lamborghini,Urus Base,AWD,12,17,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,1202
+2019,Nissan,Altima 2.5 SR,AWD,25,35,Gasoline,CVT,2.5L I4 16V GDI DOHC,1203
+2019,Acura,MDX 3.5L w/Technology Package,AWD,19,26,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1204
+2020,Chevrolet,Malibu 1LS,FWD,29,36,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,1205
+2017,Mercedes-Benz,E-Class E 300 Sport,AWD,22,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1206
+2018,Bmw,X1 sDrive28i,FWD,23,32,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1207
+2020,Acura,RDX A-Spec,AWD,21,26,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1208
+2021,Chevrolet,Suburban High Country,4WD,14,19,Gasoline,Automatic,6.2L V8 16V GDI OHV,1209
+2021,Dodge,Durango R/T,RWD,14,22,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1210
+2017,Lincoln,MKC Reserve,AWD,19,25,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1211
+2014,Bmw,X3 xDrive35i,AWD,19,26,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1212
+2019,Gmc,Yukon Denali,4WD,14,22,Gasoline,Automatic,6.2L V8 16V GDI OHV,1213
+2016,Ford,Focus SE,FWD,26,36,Flex Fuel,Automatic,2.0L I4 16V GDI DOHC Flexible Fuel,1214
+2020,Ford,Expedition XLT,RWD,17,23,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,1215
+2017,Chevrolet,Cruze LT,FWD,30,40,Gasoline,Automatic,1.4L I4 16V GDI DOHC Turbo,1216
+2021,Audi,Q3 45 S line Premium,AWD,20,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1217
+2021,Hyundai,Santa Fe Calligraphy,AWD,21,28,Gasoline,Automatic,2.5L I4 16V PDI DOHC Turbo,1218
+2008,Bmw,X5 4.8i,AWD,14,19,Gasoline,Automatic,4.8L V8 32V MPFI DOHC,1219
+2021,Lexus,IS 350 F Sport,AWD,19,26,Gasoline,Automatic,3.5L V6 24V PDI DOHC,1220
+2019,Bmw,440 i xDrive,AWD,21,31,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1221
+2018,Mercedes-Benz,AMG C 43 Base 4MATIC,AWD,20,27,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1222
+2021,Mazda,CX-5 Touring,FWD,25,31,Gasoline,Automatic,2.5L I4 16V GDI DOHC,1223
+2020,Buick,Enclave Avenir,FWD,18,26,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1224
+2020,Toyota,RAV4 LE,AWD,27,34,Gasoline,Automatic,4 Cylinder Engine,1225
+2011,Honda,Pilot EX-L,4WD,16,22,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,1226
+2020,Ford,Escape SEL,AWD,26,31,Gasoline,Automatic,1.5L I3 12V GDI DOHC Turbo,1227
+2019,Cadillac,XT5 Luxury,FWD,19,26,Gasoline,Automatic,Gas V6 3.6L/222,1228
+2020,Nissan,Leaf SV,FWD,123,99,Electric,Automatic,Electric,1229
+2019,Audi,A5 2.0T Premium,AWD,23,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1230
+2016,Volkswagen,Golf R 4-Door,AWD,23,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1231
+2021,Mazda,CX-30 Premium Package,FWD,25,33,Gasoline,Automatic,2.5L I4 16V GDI DOHC,1232
+2004,Bmw,Z4 2.5i Roadster,RWD,20,28,Gasoline,Automatic,2.5L I6 24V MPFI DOHC,1233
+2019,Subaru,Crosstrek 2.0i Premium,AWD,27,33,Gasoline,CVT,4 Cylinder Engine,1234
+2020,Lexus,ES 350 Base,FWD,22,32,Gasoline,Automatic,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,1235
+2020,Jeep,Cherokee Latitude,4WD,21,29,Gasoline,Automatic,2.4L I4 16V MPFI SOHC,1236
+2019,Acura,RDX Advance Package,AWD,21,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1237
+2018,Honda,Accord EX,FWD,30,38,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,1238
+2017,Land,Rover Range Rover Sport 3.0L Supercharged HSE,4WD,17,23,Gasoline,Automatic,3.0L V6 24V GDI DOHC Supercharged,1239
+2019,Bmw,430 i,RWD,24,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1240
+2017,Honda,Accord EX-L,FWD,27,36,Gasoline,CVT,2.4L I4 16V GDI DOHC,1241
+2015,Mercedes-Benz,S-Class S 63 AMG,AWD,15,23,Gasoline,Automatic,5.5L V8 32V GDI DOHC Twin Turbo,1242
+2020,Jeep,Grand Cherokee Trailhawk,4WD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1243
+2022,Porsche,911 GT3,RWD,15,18,Gasoline,Automatic,4.0L H6 24V GDI DOHC,1244
+2020,Ram,1500 Laramie,RWD,20,25,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1245
+2005,Mazda,Tribute i,4WD,19,22,Gasoline,Automatic,2.3L DOHC SMPI 16-valve I4 engine,1246
+2019,Ford,F-150 XLT,4WD,18,23,Flex Fuel,Automatic,3.3L V6 24V PDI DOHC Flexible Fuel,1247
+2015,Acura,MDX 3.5L Technology Package,FWD,20,28,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1248
+2020,Jeep,Wrangler Unlimited Rubicon,4WD,17,23,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1249
+2018,Honda,Accord EX-L 2.0T,FWD,23,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1250
+2018,Gmc,Sierra 1500 SLT,RWD,16,23,Gasoline,Automatic,5.3L V8 16V GDI OHV,1251
+2010,Audi,A4 2.0T Premium Plus quattro,AWD,21,27,Gasoline,Automatic,4 Cylinder Engine,1252
+2005,Porsche,Cayenne S,AWD,14,18,Gasoline,Automatic,4.5L V8 32V MPFI DOHC,1253
+2018,Toyota,RAV4 XLE,AWD,22,28,Gasoline,Automatic,2.5L I4 16V MPFI DOHC,1254
+2020,Lincoln,Nautilus Reserve,AWD,20,25,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1255
+2020,Ford,Explorer XLT,4WD,20,27,Gasoline,Automatic,4 Cylinder Engine,1256
+2018,Lexus,RX 350 RX 350,AWD,19,26,Gasoline,Automatic,3.5L V6 24V GDI DOHC,1257
+2010,Mercedes-Benz,E-Class E 350,RWD,17,26,Gasoline,Automatic,V6 Cylinder Engine,1258
+2020,Lexus,NX 300 F Sport,FWD,22,28,Gasoline,Automatic,2.0L I4 16V PDI DOHC Turbo,1259
+2019,Ford,Expedition Max Limited,4WD,16,21,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,1260
+2021,Nissan,Murano Platinum,FWD,20,28,Gasoline,CVT,3.5L V6 24V MPFI DOHC,1261
+2015,Jeep,Grand Cherokee Summit,4WD,21,28,Diesel,Automatic,Intercooled Turbo Diesel V-6 3.0 L/182,1262
+2018,Mercedes-Benz,GLA 250 Base 4MATIC,AWD,23,31,Flex Fuel,Automatic,2.0L I4 16V GDI DOHC Turbo Flexible Fuel,1263
+2019,Maserati,Levante Base,AWD,15,21,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1264
+2016,Nissan,Versa 1.6 S+,FWD,31,40,Gasoline,CVT,1.6L I4 16V MPFI DOHC,1265
+2021,Land,Rover Defender 110 X,4WD,17,22,Gasoline,Automatic,V6,1266
+2021,Bmw,330 i xDrive,AWD,25,34,Gasoline,Automatic,4 Cylinder Engine,1267
+2019,Nissan,Maxima 3.5 SL,FWD,20,30,Gasoline,CVT,V6 Cylinder Engine,1268
+2019,Lexus,LS 500 Base,AWD,18,27,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,1269
+2020,Hyundai,Palisade SEL,AWD,19,24,Gasoline,Automatic,3.8L V6 24V GDI DOHC,1270
+2021,Chevrolet,Tahoe LT,RWD,16,20,Gasoline,Automatic,5.3L V8 16V GDI OHV,1271
+2020,Land,Rover Range Rover Sport SE,4WD,19,24,Gasoline,Automatic,V6,1272
+2014,Bmw,X3 xDrive28i,AWD,21,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1273
+2015,Nissan,Pathfinder SL,FWD,20,27,Gasoline,CVT,3.5L V6 24V MPFI DOHC,1274
+2022,Bmw,X2 xDrive28i,AWD,24,31,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1275
+2020,Acura,MDX SH-AWD 7-Passenger,AWD,19,26,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1276
+2014,Mercedes-Benz,E-Class E 350 4MATIC,AWD,19,26,Gasoline,Automatic,3.5L V6 24V GDI DOHC,1277
+2017,Lexus,NX 200t F Sport,AWD,22,27,Gasoline,Automatic,2.0L I4 16V PDI DOHC Turbo,1278
+2015,Jeep,Grand Cherokee Limited,RWD,17,25,Flex Fuel,Automatic,3.6L V6 24V MPFI DOHC Flexible Fuel,1279
+2021,Volkswagen,Tiguan 2.0T S,FWD,23,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1280
+2021,Gmc,Yukon XL SLT,4WD,15,19,Gasoline,Automatic,5.3L V8 16V GDI OHV,1281
+2021,Mercedes-Benz,GLE 350 Base 4MATIC,AWD,19,26,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1282
+2019,Toyota,Highlander XLE,AWD,20,26,Gasoline,Automatic,Regular Unleaded V-6 3.5 L/211,1283
+2020,Gmc,Sierra 1500 Denali,4WD,16,22,Gasoline,Automatic,6.2L V8 16V GDI OHV,1284
+2020,Ford,Edge SEL,AWD,21,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1285
+2017,Porsche,911 Carrera GTS,RWD,18,26,Gasoline,Automatic,3.0L H6 24V GDI DOHC Twin Turbo,1286
+2022,Volkswagen,Taos 1.5T SE,FWD,28,36,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,1287
+2020,Acura,RDX Technology Package,AWD,21,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1288
+2017,Toyota,Highlander XLE,AWD,20,26,Gasoline,Automatic,3.5L V6 24V GDI DOHC,1289
+2021,Audi,RS 5 2.9T,AWD,18,25,Gasoline,Automatic,2.9L V6 24V GDI DOHC Twin Turbo,1290
+2019,Lincoln,Nautilus Select,AWD,20,25,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1291
+2020,Chevrolet,Blazer 2LT,FWD,21,28,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1292
+2018,Chrysler,300 Limited,AWD,18,27,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1293
+2016,Honda,Accord EX-L,FWD,21,34,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,1294
+2018,Bmw,430 Gran Coupe i,RWD,24,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1295
+2019,Ford,Expedition Limited,4WD,17,22,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,1296
+2003,Ford,ZX2,FWD,26,33,Gasoline,Manual,2.0L I4 16V MPFI DOHC,1297
+2016,Land,Rover Range Rover 3.0L Turbocharged Diesel Td6,4WD,22,28,Diesel,Automatic,3.0L V6 24V DDI DOHC Turbo Diesel,1298
+2018,Maserati,Ghibli S,RWD,16,24,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1299
+2017,Mercedes-Benz,GLE 350 Base 4MATIC,AWD,18,23,Gasoline,Automatic,3.5L V6 24V GDI DOHC,1300
+2020,Chevrolet,Traverse LT Leather,FWD,18,27,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1301
+2019,Dodge,Durango GT,AWD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1302
+2019,Mercedes-Benz,AMG GT 63 4-Door,AWD,15,20,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,1303
+2022,Mazda,CX-5 Carbon Edition,AWD,24,30,Gasoline,Automatic,2.5L I4 16V,1304
+2019,Land,Rover Range Rover Sport 3.0L Supercharged HSE,4WD,17,23,Gasoline,Automatic,V6,1305
+2016,Hyundai,Elantra SE,FWD,28,38,Gasoline,Automatic,1.8L 4-Cylinder DOHC 16V Dual CVVT,1306
+2019,Volvo,XC90 T6 R-Design,AWD,19,26,Gasoline,Automatic,2.0L I4 16V GDI DOHC,1307
+2014,Dodge,Durango Citadel,AWD,14,22,Gasoline,Automatic,8 Cylinder Engine,1308
+2017,Mercedes-Benz,AMG C 43 Base 4MATIC,AWD,20,28,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1309
+2019,Jeep,Grand Cherokee Overland,4WD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1310
+2020,Mercedes-Benz,C-Class C 300,RWD,21,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1311
+2019,Toyota,RAV4 Limited,FWD,26,35,Gasoline,Automatic,2.5L I4 16V PDI DOHC,1312
+2018,Subaru,Impreza 2.0i,AWD,28,37,Gasoline,CVT,2.0L H4 16V GDI DOHC,1313
+2021,Gmc,Yukon Denali,4WD,14,19,Gasoline,Automatic,8 Cylinder Engine,1314
+2017,Lincoln,Navigator Select,4WD,15,20,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,1315
+2014,Honda,Accord Sport,FWD,26,34,Gasoline,CVT,2.4L I4 16V GDI DOHC,1316
+2021,Hyundai,Tucson SE,FWD,23,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC,1317
+2021,Mazda,CX-5 Touring,AWD,24,30,Gasoline,Automatic,2.5L I4 16V GDI DOHC,1318
+2019,Cadillac,Escalade Luxury,RWD,14,23,Gasoline,Automatic,6.2L V8 16V GDI OHV,1319
+2017,Mercedes-Benz,E-Class E 300,RWD,22,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1320
+2016,Audi,A6 2.0T Premium Plus,AWD,22,32,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1321
+2021,Toyota,Camry XSE V6,FWD,22,32,Gasoline,Automatic,3.5L V6 24V PDI DOHC,1322
+2020,Gmc,Sierra 1500 Denali,4WD,16,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,1323
+2017,Jaguar,F-TYPE Premium,RWD,20,28,Gasoline,Automatic,3.0L V6 24V GDI DOHC Supercharged,1324
+2019,Cadillac,Escalade Luxury,4WD,14,21,Gasoline,Automatic,6.2L V8 16V GDI OHV,1325
+2020,Hyundai,Santa Fe SEL 2.4,FWD,22,29,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1326
+2022,Hyundai,Palisade Calligraphy,FWD,19,26,Gasoline,Automatic,3.8L V6 24V GDI DOHC,1327
+2019,Audi,A4 2.0T Premium Plus,FWD,27,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1328
+2014,Toyota,4Runner SR5,4WD,17,21,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,1329
+2021,Chevrolet,Suburban RST,4WD,15,19,Gasoline,Automatic,8 Cylinder Engine,1330
+2019,Ford,Escape SEL,FWD,23,30,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,1331
+2016,Infiniti,QX60 Base,AWD,19,26,Gasoline,CVT,3.5L V6 24V MPFI DOHC,1332
+2017,Lincoln,Continental Select,FWD,17,26,Gasoline,Automatic,3.7L V6 24V MPFI DOHC,1333
+2020,Infiniti,QX50 Luxe,FWD,23,29,Gasoline,CVT,2.0L I4 16V PDI DOHC Turbo,1334
+2020,Land,Rover Defender 110 SE,4WD,17,22,Gasoline,Automatic,V6,1335
+2021,Tesla,Model Y Performance,AWD,0,0,Electric,Automatic,Electric,1336
+2019,Volvo,S60 T5 Momentum,FWD,24,36,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1337
+2017,Honda,Accord Sport SE,FWD,23,32,Gasoline,Manual,189.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,1338
+2020,Lexus,IS 300 Base,RWD,21,30,Gasoline,Automatic,2.0L I4 16V PDI DOHC Turbo,1339
+2019,Lamborghini,Urus Base,AWD,12,17,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,1340
+2013,Lexus,ES 350 Base,FWD,21,31,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,1341
+2019,Dodge,Durango R/T,AWD,14,22,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1342
+2019,Toyota,Highlander SE,AWD,20,26,Gasoline,Automatic,3.5L V6 24V PDI DOHC,1343
+2020,Volvo,XC90 T5 Momentum 7 Passenger,AWD,20,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1344
+2018,Mercedes-Benz,AMG GLE 43 Coupe 4MATIC,AWD,17,22,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1345
+2014,Mercedes-Benz,CLS-Class CLS 550 4MATIC,AWD,18,25,Gasoline,Automatic,4.7L V8 32V GDI DOHC Twin Turbo,1346
+2016,Honda,Pilot Touring,AWD,19,26,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1347
+2018,Tesla,Model S 100D,AWD,101,102,Electric,Automatic,Electric,1348
+2015,Honda,Accord EX-L,FWD,27,36,Gasoline,CVT,2.4L I4 16V GDI DOHC,1349
+2016,Ford,Explorer Limited,4WD,16,23,Gasoline,Automatic,2.3L I4 16V GDI DOHC Turbo,1350
+2018,Ford,Edge Titanium,FWD,20,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1351
+2019,Chevrolet,Silverado 1500 High Country,4WD,16,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,1352
+2018,Nissan,Pathfinder S,FWD,20,27,Gasoline,CVT,3.5L V6 24V MPFI DOHC,1353
+2018,Gmc,Yukon XL SLT,4WD,15,22,Gasoline,Automatic,8 Cylinder Engine,1354
+2021,Kia,Telluride EX,AWD,19,24,Gasoline,Automatic,3.8L V6 24V GDI DOHC,1355
+2020,Chevrolet,Silverado 1500 LT,RWD,20,23,Gasoline,Automatic,2.7L I4 16V GDI DOHC Turbo,1356
+2021,Lexus,RX 350 Base,AWD,19,26,Gasoline,Automatic,V6 Cylinder Engine,1357
+2021,Porsche,911 Carrera 4,AWD,18,24,Gasoline,Automatic,3.0L H6 24V GDI DOHC Twin Turbo,1358
+2015,Porsche,911 Turbo S,AWD,17,24,Gasoline,Automatic,3.8L H6 24V GDI DOHC Twin Turbo,1359
+2019,Lexus,ES 350 Luxury,FWD,22,33,Gasoline,Automatic,3.5L V6 24V PDI DOHC,1360
+2019,Mercedes-Benz,E-Class E 450,AWD,20,28,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1361
+2016,Jeep,Grand Cherokee Overland,4WD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1362
+2020,Tesla,Model 3 Long Range,AWD,124,116,â,Automatic,â,1363
+2021,Land,Rover Range Rover HSE Westminster,4WD,18,23,Gasoline,Automatic,V6,1364
+2004,Chevrolet,Trailblazer LS,4WD,15,21,Gasoline,Automatic,4.2L I6 24V MPFI DOHC,1365
+2019,Land,Rover Range Rover Sport 3.0L Supercharged SE,4WD,17,23,Gasoline,Automatic,V6,1366
+2020,Ram,1500 Longhorn,4WD,19,24,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1367
+2019,Chevrolet,Equinox 1LT,FWD,26,32,Gasoline,Automatic,4 Cylinder Engine,1368
+2018,Lexus,RX 350,AWD,19,26,Gasoline,Automatic,3.5L V6 24V GDI DOHC,1369
+2019,Hyundai,Kona SE,AWD,25,30,Gasoline,Automatic,2.0L I4 16V MPFI DOHC,1370
+2021,Mercedes-Benz,GLB 250 4MATIC,AWD,23,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1371
+2020,Kia,Telluride S,AWD,19,24,Gasoline,Automatic,3.8L V6 24V GDI DOHC,1372
+2020,Mercedes-Benz,GLE 450 AWD 4MATIC,AWD,19,24,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1373
+2021,Honda,Passport EX-L,FWD,20,25,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1374
+2022,Hyundai,Palisade SE,AWD,19,24,Gasoline,Automatic,3.8L V6 24V GDI DOHC,1375
+2018,Dodge,Challenger GT,AWD,18,27,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1376
+2017,Chevrolet,Corvette Stingray,RWD,16,25,Gasoline,Automatic,6.2L V8 16V GDI OHV,1377
+2021,Alfa,Romeo Stelvio Base,RWD,22,29,Gasoline,Automatic,2.0L I4 16V GDI SOHC Turbo,1378
+2019,Mini,Countryman Cooper S,FWD,23,32,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1379
+2016,Ford,Mustang EcoBoost Premium,RWD,22,31,Gasoline,Automatic,2.3L I4 16V GDI DOHC Turbo,1380
+2017,Subaru,Legacy 2.5i Premium,AWD,25,34,Gasoline,CVT,2.5L H4 16V MPFI DOHC,1381
+2021,Dodge,Durango R/T,AWD,14,22,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1382
+2015,Porsche,911 Turbo,AWD,17,24,Gasoline,Automatic,3.8L H6 24V GDI DOHC Twin Turbo,1383
+2017,Lexus,GX 460 Base,4WD,15,18,Gasoline,Automatic,4.6L V8 32V MPFI DOHC,1384
+2018,Land,Rover Discovery HSE,4WD,16,21,Gasoline,Automatic,V6,1385
+2020,Tesla,Model 3 Performance,AWD,118,107,Gasoline,Automatic,10 Cylinder,1386
+2021,Porsche,911 Carrera S,RWD,18,23,Gasoline,Automatic,3.0L H6 24V GDI DOHC Twin Turbo,1387
+2019,Bmw,530 i,RWD,24,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1388
+2017,Subaru,Outback 2.5i Premium,AWD,25,32,Gasoline,CVT,2.5L H4 16V MPFI DOHC,1389
+2021,Volvo,XC40 T5 R-Design,AWD,22,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1390
+2019,Honda,Pilot EX-L w/Navigation/RES,FWD,19,27,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1391
+2018,Ford,F-150 Lariat,4WD,19,24,Gasoline,Automatic,2.7L V6 24V PDI DOHC Twin Turbo,1392
+2021,Acura,RDX w/A-Spec Package,FWD,22,27,Gasoline,Automatic,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,1393
+2020,Mazda,CX-5 Grand Touring,AWD,24,30,Gasoline,Automatic,Regular Unleaded I-4 2.5 L/152,1394
+2019,Honda,Civic EX-L,FWD,32,42,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,1395
+2022,Acura,TLX A-Spec,FWD,22,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1396
+2020,Mercedes-Benz,C-Class C 300 4MATIC,AWD,23,33,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1397
+2019,Mercedes-Benz,AMG G 63 Base,AWD,13,15,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,1398
+2016,Bmw,X3 xDrive35i,AWD,19,27,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1399
+2018,Porsche,Macan Base,AWD,20,25,Gasoline,Automatic,4 Cylinder Engine,1400
+2019,Mercedes-Benz,GLC 350e Base 4MATIC,AWD,0,0,Gasoline,Automatic,4 Cylinder Engine,1401
+2020,Honda,CR-V Touring,AWD,27,32,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,1402
+2020,Chevrolet,Blazer 2LT,AWD,21,27,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1403
+2011,Ford,F-150 King Ranch,4WD,15,21,Gasoline,Automatic,Turbocharged Gas V6 3.5/213,1404
+2018,Audi,A4 2.0T Premium,AWD,24,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1405
+2006,Chevrolet,Impala LT,FWD,19,27,Gasoline,Automatic,240.0HP 3.9L V6 Cylinder Engine Gasoline Fuel,1406
+2018,Toyota,RAV4 Limited,FWD,23,29,Gasoline,Automatic,2.5L I4 16V MPFI DOHC,1407
+2018,Bmw,530 i,RWD,24,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1408
+2019,Buick,Encore Sport Touring,AWD,24,29,Gasoline,Automatic,1.4L I4 16V MPFI DOHC Turbo,1409
+2019,Volkswagen,Tiguan 2.0T S,FWD,22,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1410
+2020,Jaguar,E-PACE SE,AWD,21,28,Gasoline,Automatic,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,1411
+2008,Porsche,911 Carrera,AWD,18,26,Gasoline,Automatic,3.6L horizontally-opposed DOHC 24V 6-cyl engine-inc: dry sump lu,1412
+2005,Acura,MDX Touring,4WD,17,23,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,1413
+2019,Nissan,Pathfinder S,4WD,19,26,Gasoline,CVT,Regular Unleaded V-6 3.5 L/213,1414
+2021,Gmc,Yukon XL Denali,RWD,14,20,Gasoline,Automatic,Gas V8 6.2L/,1415
+2020,Nissan,Pathfinder SL,4WD,20,27,Gasoline,CVT,3.5L V6 24V GDI DOHC,1416
+2016,Audi,A3 2.0T Premium,AWD,24,33,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1417
+2016,Honda,CR-V Touring,AWD,25,31,Gasoline,CVT,2.4L I4 16V GDI DOHC,1418
+2019,Dodge,Journey SE,FWD,19,25,Gasoline,Automatic,2.4L I4 16V MPFI DOHC,1419
+2021,Volkswagen,Atlas 3.6 V6 SE w/ Technology,FWD,17,23,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1420
+2020,Lexus,NX 300 Base,FWD,22,28,Gasoline,Automatic,2.0L I4 16V PDI DOHC Turbo,1421
+2020,Chevrolet,Equinox Premier w/1LZ,FWD,26,31,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,1422
+2020,Ford,Fusion SE,AWD,20,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1423
+2018,Bmw,540 i,RWD,21,30,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1424
+2021,Nissan,Sentra SV,FWD,29,39,Gasoline,CVT,2.0L I4 16V MPFI DOHC,1425
+2019,Cadillac,Escalade ESV Luxury,RWD,14,23,Gasoline,Automatic,6.2L V8 16V GDI OHV,1426
+2021,Dodge,Charger GT,RWD,19,30,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1427
+2019,Ram,1500 Laramie,4WD,19,24,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1428
+2019,Ford,Edge SEL,AWD,21,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1429
+2019,Ford,F-150 Platinum,4WD,16,22,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,1430
+2016,Chevrolet,Traverse LTZ,AWD,15,22,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1431
+2019,Toyota,RAV4 XLE Premium,AWD,25,33,Gasoline,Automatic,2.5L I4 16V PDI DOHC,1432
+2020,Lexus,RX 350 F Sport Performance,AWD,19,26,Gasoline,Automatic,3.5L V6 24V PDI DOHC,1433
+2018,Lincoln,Continental Black Label,AWD,17,25,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1434
+2012,Chevrolet,Impala LT,FWD,18,30,Flex Fuel,Automatic,3.6L V6 24V GDI DOHC Flexible Fuel,1435
+2020,Chevrolet,Traverse Premier,AWD,17,25,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1436
+2020,Gmc,Acadia SLE,FWD,21,27,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1437
+2021,Gmc,Sierra 1500 Denali,4WD,16,22,Gasoline,Automatic,6.2L V8 16V GDI OHV,1438
+2019,Chevrolet,Traverse LT Cloth,AWD,17,25,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1439
+2019,Chevrolet,Silverado 1500 LT,4WD,18,21,Gasoline,Automatic,5.3L V8 16V GDI OHV,1440
+2019,Chevrolet,Silverado 1500 Custom,4WD,15,20,Gasoline,Automatic,4.3L V6 12V GDI OHV,1441
+2018,Subaru,Legacy 2.5i Sport,AWD,25,34,Gasoline,CVT,2.5L H4 16V MPFI DOHC,1442
+2013,Honda,Pilot EX-L w/ Navigation,4WD,17,24,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,1443
+2021,Kia,Sorento LX,AWD,23,25,Gasoline,Automatic,2.5L I4 16V PDI DOHC,1444
+2019,Chevrolet,Suburban LT,4WD,14,21,Gasoline,Automatic,5.3L V8 16V GDI OHV,1445
+2013,Mercedes-Benz,GL-Class GL 450 4MATIC,AWD,14,19,Gasoline,Automatic,4.7L V8 32V GDI DOHC Twin Turbo,1446
+2018,Lexus,LC 500 Base,RWD,16,26,Gasoline,Automatic,5.0L V8 32V PDI DOHC,1447
+2018,Jeep,Wrangler Sport,4WD,17,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1448
+2016,Kia,Sorento LX,AWD,21,26,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1449
+2019,Jeep,Grand Cherokee Limited,4WD,18,25,Gasoline,Automatic,V6 Cylinder Engine,1450
+2017,Buick,Enclave Leather,AWD,15,22,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1451
+2011,Bmw,X5 xDrive35i,AWD,16,23,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1452
+2019,Mazda,Mazda3 FWD w/Premium Package,FWD,27,36,Gasoline,Automatic,2.5L I4 16V GDI DOHC,1453
+2017,Porsche,Macan S,AWD,17,23,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1454
+2015,Scion,xB Base,FWD,22,28,Gasoline,Automatic,2.4L I4 16V MPFI DOHC,1455
+2020,Bmw,430 i xDrive,AWD,22,32,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1456
+2021,Volkswagen,Atlas 3.6 V6 SEL,AWD,16,22,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1457
+2021,Acura,RDX Technology Package,FWD,22,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1458
+2019,Honda,CR-V LX,FWD,26,32,Gasoline,CVT,2.4L I4 16V GDI DOHC,1459
+2020,Gmc,Sierra 2500 Denali,4WD,0,0,Diesel,Automatic,Turbocharged Diesel V8 6.6L/403,1460
+2018,Gmc,Yukon XL Denali,4WD,14,21,Gasoline,Automatic,6.2L V8 16V GDI OHV,1461
+2018,Ford,Flex Limited,FWD,16,23,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,1462
+2015,Honda,Accord EX-L,FWD,21,32,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,1463
+2019,Honda,Civic Sport,FWD,29,38,Gasoline,Manual,1.5L I4 16V GDI DOHC Turbo,1464
+2019,Toyota,Highlander Hybrid Limited,AWD,29,27,Hybrid,CVT,3.5L V6 24V PDI DOHC Hybrid,1465
+2020,Volkswagen,Tiguan 2.0T S,AWD,20,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1466
+2014,Ford,Explorer Limited,4WD,17,23,Flex Fuel,Automatic,290.0HP 3.5L V6 Cylinder Engine Flex Fuel Capability,1467
+2021,Dodge,Durango R/T,â,14,22,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1468
+2021,Acura,ILX Premium Package,FWD,24,34,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1469
+2020,Chevrolet,Traverse LS,FWD,18,27,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1470
+2019,Jeep,Grand Cherokee Altitude,4WD,18,25,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1471
+2020,Honda,Accord LX 1.5T,FWD,30,38,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,1472
+2018,Gmc,Sierra 1500 Denali,RWD,16,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,1473
+2021,Audi,A4 40 Premium Plus,AWD,24,31,Gasoline,Automatic,2.0L,1474
+2021,Tesla,Model 3 Long Range,AWD,141,127,Gasoline,Automatic,10 Cylinder,1475
+2018,Infiniti,QX60 Base,AWD,19,26,Gasoline,CVT,3.5L V6 24V MPFI DOHC,1476
+2015,Audi,A3 2.0T Premium,AWD,24,33,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1477
+2019,Ford,Flex Limited,FWD,16,23,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,1478
+2019,Gmc,Acadia SLT-1,AWD,17,25,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1479
+2017,Hyundai,Tucson SE,AWD,21,26,Gasoline,Automatic,4 Cylinder,1480
+2016,Mercedes-Benz,S-Class S 550 4MATIC,AWD,16,24,Gasoline,Automatic,4.7L V8 32V GDI DOHC Twin Turbo,1481
+2020,Nissan,Rogue SV,AWD,25,32,Gasoline,CVT,2.5L I4 16V MPFI DOHC,1482
+2018,Jeep,Grand Cherokee High Altitude,4WD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1483
+2016,Mercedes-Benz,C-Class C 300,AWD,24,31,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1484
+2019,Ford,Fiesta SE,FWD,27,35,Gasoline,Automatic,1.6L I4 16V MPFI DOHC,1485
+2019,Mercedes-Benz,AMG C 63 S,RWD,17,26,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,1486
+2020,Honda,Passport Touring,FWD,20,25,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1487
+2020,Cadillac,Escalade Luxury,4WD,14,21,Gasoline,Automatic,6.2L V8 16V GDI OHV,1488
+2021,Infiniti,Q50 3.0t SENSORY,RWD,20,29,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1489
+2019,Honda,Passport Sport,AWD,19,24,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1490
+2017,Toyota,Highlander Limited,FWD,21,27,Gasoline,Automatic,3.5L V6 24V GDI DOHC,1491
+2020,Volkswagen,Atlas Cross Sport 3.6L V6 SEL,FWD,17,23,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1492
+2015,Cadillac,SRX Luxury Collection,FWD,17,24,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1493
+2021,Toyota,Corolla Hatchback SE,FWD,32,41,Gasoline,CVT,2.0L I4 16V PDI DOHC,1494
+2017,Mercedes-Benz,GLS 550 Base 4MATIC,AWD,14,18,Gasoline,Automatic,4.7L V8 32V GDI DOHC Twin Turbo,1495
+2019,Toyota,Sienna LE Auto Access Seat,FWD,19,27,Gasoline,Automatic,3.5L V6 24V PDI DOHC,1496
+2021,Hyundai,Tucson Value,FWD,23,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC,1497
+2019,Mercedes-Benz,GLC 300 Base,RWD,22,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1498
+2017,Chevrolet,Equinox LT,AWD,20,28,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1499
+2015,Mercedes-Benz,S-Class S 550 4MATIC,AWD,16,24,Gasoline,Automatic,4.7L V8 32V GDI DOHC Twin Turbo,1500
+2015,Chevrolet,Silverado 1500 LTZ,4WD,16,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,1501
+2021,Lexus,RX 350,AWD,19,26,Gasoline,Automatic,3.5L V6 24V PDI DOHC,1502
+2021,Mazda,CX-5 Grand Touring,AWD,24,30,Gasoline,Automatic,2.5L I4 16V,1503
+2020,Buick,Encore Preferred,FWD,25,30,Gasoline,Automatic,1.4L I4 16V MPFI DOHC Turbo,1504
+2016,Nissan,Maxima 3.5 SV,FWD,22,30,Gasoline,CVT,3.5L V6 24V MPFI DOHC,1505
+2019,Toyota,RAV4 Limited,AWD,25,33,Gasoline,Automatic,2.5L I4 16V PDI DOHC,1506
+2019,Hyundai,Santa Fe SE 2.4,AWD,21,27,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1507
+2020,Subaru,Forester Premium,AWD,26,33,Gasoline,CVT,2.5L H4 16V GDI DOHC,1508
+2020,Toyota,RAV4 LE,AWD,27,34,Gasoline,Automatic,2.5L I4 16V PDI DOHC,1509
+2015,Cadillac,Escalade ESV Base,4WD,14,20,Gasoline,Automatic,6.2L V8 16V GDI OHV,1510
+2018,Toyota,Highlander Limited,AWD,20,26,Gasoline,Automatic,3.5L V6 24V PDI DOHC,1511
+2019,Jaguar,F-PACE 25t Premium,AWD,22,27,Gasoline,Automatic,I4,1512
+2019,Gmc,Acadia SLE-2,AWD,17,25,Gasoline,Automatic,V6 Cylinder Engine,1513
+2019,Hyundai,Tucson Limited,AWD,21,26,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1514
+2020,Bmw,X3 xDrive30i,AWD,24,29,Gasoline,Automatic,4 Cylinder Engine,1515
+2019,Volvo,XC90 T5 Momentum,AWD,20,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1516
+2019,Mercedes-Benz,S-Class S 450,RWD,19,28,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1517
+2018,Alfa,Romeo Giulia Ti,RWD,24,33,Gasoline,Automatic,2.0L I4 16V GDI SOHC Turbo,1518
+2020,Cadillac,Escalade Platinum,4WD,14,21,Gasoline,Automatic,6.2L V8 16V GDI OHV,1519
+2021,Kia,Sorento SX,FWD,22,29,Gasoline,Automatic,2.5L I4 16V PDI DOHC Turbo,1520
+2020,Ford,F-150 Lariat,RWD,20,26,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,1521
+2021,Porsche,Macan Base,AWD,19,23,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1522
+2017,Mercedes-Benz,E-Class E 300 Sport,RWD,22,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1523
+2020,Gmc,Yukon XL SLT,4WD,14,21,Gasoline,Automatic,5.3L V8 16V GDI OHV,1524
+2018,Bmw,320 i,RWD,24,35,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1525
+2012,Jeep,Patriot Latitude,4WD,22,28,Gasoline,CVT,2.4L I4 16V MPFI DOHC,1526
+2013,Ford,Escape Titanium,FWD,22,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1527
+2016,Bmw,X6 xDrive35i,AWD,18,24,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1528
+2021,Acura,TLX Type S,AWD,19,24,Gasoline,Automatic,3.0L V6 24V GDI SOHC Turbo,1529
+2019,Toyota,RAV4 XLE,AWD,25,33,Gasoline,Automatic,2.5L I4 16V PDI DOHC,1530
+2004,Nissan,Murano SL,AWD,20,24,Gasoline,CVT,3.5L V6 24V MPFI DOHC,1531
+2020,Buick,Enclave Avenir,AWD,17,25,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1532
+2020,Mercedes-Benz,GLS 450 Base 4MATIC,AWD,19,23,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1533
+2021,Honda,CR-V Touring,AWD,27,32,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,1534
+2014,Chevrolet,Tahoe LTZ,RWD,15,21,Flex Fuel,Automatic,5.3L V8 16V MPFI OHV Flexible Fuel,1535
+2021,Kia,Seltos SX,AWD,25,30,Gasoline,Automatic,1.6L I4 16V GDI DOHC Turbo,1536
+2022,Hyundai,Kona SEL,FWD,30,35,Gasoline,CVT,2.0L I4 16V MPFI DOHC,1537
+2019,Volvo,XC40 T5 Momentum,AWD,23,31,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1538
+2016,Toyota,4Runner SR5,RWD,17,22,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,1539
+2020,Toyota,RAV4 XLE,FWD,28,35,Gasoline,Automatic,2.5L I4 16V PDI DOHC,1540
+2016,Tesla,Model X P90D,AWD,89,90,Electric,Automatic,Electric,1541
+2005,Mazda,Mazda3 s,FWD,24,29,Gasoline,Automatic,2.3L DOHC MPFI 16-valve 4-cyl engine w/variable-valve timing (V-,1542
+2018,Jaguar,F-PACE S,AWD,18,23,Gasoline,Automatic,3.0L V6 24V GDI DOHC Supercharged,1543
+2019,Lincoln,MKC Standard,AWD,19,25,Gasoline,Automatic,4 Cylinder Engine,1544
+2015,Jeep,Grand Cherokee Limited,4WD,17,24,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1545
+2019,Cadillac,Escalade Premium Luxury,4WD,14,21,Gasoline,Automatic,6.2L V8 16V GDI OHV,1546
+2019,Gmc,Sierra 1500 Denali,4WD,15,21,Gasoline,Automatic,6.2L V8 16V GDI OHV,1547
+2020,Nissan,Rogue S,FWD,26,33,Gasoline,Unknown,Regular Unleaded I-4 2.5 L/152,1548
+2017,Hyundai,Tucson Limited,FWD,25,30,Gasoline,Automatic,1.6L I4 16V GDI DOHC Turbo,1549
+2021,Lincoln,Corsair Standard,AWD,21,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1550
+2017,Ford,Escape Titanium,4WD,22,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1551
+2015,Chevrolet,Equinox 1LT,AWD,20,29,Gasoline,Automatic,4 Cylinder Engine,1552
+2017,Gmc,Yukon Denali,4WD,15,21,Gasoline,Automatic,6.2L V8 16V GDI OHV,1553
+2021,Mercedes-Benz,C-Class C 300 4MATIC,AWD,23,32,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1554
+2021,Gmc,Yukon SLT,RWD,16,20,Gasoline,Automatic,5.3L V8 16V GDI OHV,1555
+2014,Maserati,GranTurismo Sport,RWD,13,21,Gasoline,Automatic,4.7L V8 32V MPFI DOHC,1556
+2019,Lincoln,Navigator Select,4WD,16,21,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,1557
+2017,Jeep,Grand Cherokee Limited,4WD,18,25,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1558
+2018,Chevrolet,Suburban LT,RWD,16,23,Gasoline,Automatic,5.3L V8 16V GDI OHV,1559
+2016,Kia,Forte LX,FWD,26,39,Gasoline,Automatic,1.8L I4 16V MPFI DOHC,1560
+2013,Nissan,Maxima SV,FWD,19,26,Gasoline,CVT,3.5L V6 24V MPFI DOHC,1561
+2017,Honda,Civic EX,FWD,31,40,Gasoline,CVT,Engine: 1.5L I-4 DOHC 16-Valve Turbocharged,1562
+2019,Ford,F-150 Lariat,4WD,19,24,Gasoline,Automatic,5.0L V8 32V PDI DOHC,1563
+2019,Chevrolet,Equinox 2LT,FWD,26,32,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,1564
+2020,Alfa,Romeo Giulia Base,AWD,23,31,Gasoline,Automatic,2.0L I4 16V GDI SOHC Turbo,1565
+2019,Gmc,Acadia SLE-2,AWD,21,25,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1566
+2013,Nissan,Rogue S,AWD,22,27,Gasoline,CVT,2.5L I4 16V MPFI DOHC,1567
+2020,Bmw,M4 Base,RWD,18,25,Gasoline,Automatic,3.0L I6 24V GDI DOHC Twin Turbo,1568
+2019,Audi,S5 3.0T Premium Plus,AWD,21,30,Gasoline,Automatic,3.0L V6 24V GDI DOHC Turbo,1569
+2021,Toyota,Camry SE,AWD,25,34,Gasoline,Automatic,2.5L I4 16V PDI DOHC,1570
+2017,Toyota,Camry SE,FWD,24,33,Gasoline,Automatic,2.5L I4 16V MPFI DOHC,1571
+2019,Porsche,Macan 4DR SUV AWD,AWD,19,23,Gasoline,Automatic,Intercooled Turbo Premium Unleaded I-4 2.0 L/121,1572
+2020,Hyundai,Kona Ultimate,AWD,26,29,Gasoline,Automatic,1.6L I4 16V GDI DOHC Turbo,1573
+2017,Chevrolet,Equinox 1LT,FWD,21,31,Gasoline,Automatic,Gas I4 2.4/145,1574
+2019,Gmc,Terrain SLT,AWD,24,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1575
+2015,Gmc,Yukon XL 1500 SLE,4WD,15,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,1576
+2013,Cadillac,Escalade Platinum Edition,AWD,13,18,Gasoline,Automatic,6.2L V8 16V MPFI OHV,1577
+2013,Honda,Accord EX-L,FWD,21,34,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,1578
+2015,Porsche,Macan S,AWD,17,23,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1579
+2019,Audi,A8 L 55,AWD,19,27,Gasoline,Automatic,3.0L V6 24V GDI DOHC Turbo,1580
+2022,Hyundai,Palisade Calligraphy,AWD,19,24,Gasoline,Automatic,3.8L V6 24V GDI DOHC,1581
+2020,Toyota,4Runner Limited,4WD,16,19,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,1582
+2019,Mercedes-Benz,E-Class E 300,AWD,21,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1583
+2018,Tesla,Model 3 Performance,AWD,120,112,Electric,Automatic,Electric,1584
+2021,Mercedes-Benz,GLB 250 Base 4MATIC,AWD,23,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1585
+2019,Buick,Encore Essence,FWD,25,30,Gasoline,Automatic,1.4L I4 16V GDI DOHC Turbo,1586
+2009,Ford,F-150 Lariat SuperCab,RWD,14,20,Flex Fuel,Automatic,5.4L V8 24V MPFI SOHC Flexible Fuel,1587
+2021,Ram,1500 Laramie,4WD,19,24,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1588
+2020,Bmw,X3 M Base (A8),AWD,14,19,Gasoline,Automatic,3.0L I6 24V GDI DOHC Twin Turbo,1589
+2018,Ford,Edge Sport,AWD,17,24,Gasoline,Automatic,2.7L V6 24V GDI DOHC Twin Turbo,1590
+2015,Acura,TLX FWD,FWD,24,35,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1591
+2016,Infiniti,QX80 4WD,4WD,13,19,Gasoline,Automatic,Premium Unleaded V-8 5.6 L/339,1592
+2019,Honda,Pilot Elite,AWD,19,26,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1593
+2020,Subaru,Ascent Premium,AWD,21,27,Gasoline,â,Engine: 2.4L DOHC Intercooled Turbocharged,1594
+2018,Ford,Expedition XLT,RWD,17,24,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,1595
+2014,Ford,Escape Titanium,FWD,23,32,Gasoline,Automatic,1.6L I4 16V GDI DOHC Turbo,1596
+2017,Gmc,Acadia Limited Limited,AWD,15,22,Gasoline,Automatic,V6 Cylinder Engine,1597
+2011,Toyota,Camry LE,FWD,22,32,Gasoline,Automatic,2.5L I4 16V MPFI DOHC,1598
+2019,Gmc,Sierra 1500 Limited SLE,4WD,16,23,Gasoline,Automatic,5.3L V8 16V GDI OHV,1599
+2022,Volvo,XC60 B5 Inscription,FWD,23,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1600
+2020,Acura,RDX Base,AWD,21,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1601
+2018,Ford,Escape SE,FWD,23,30,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,1602
+2012,Toyota,Sequoia SR5,4WD,13,17,Gasoline,Automatic,5.7L V8 32V MPFI DOHC,1603
+2019,Gmc,Acadia SLE-1,AWD,21,25,Gasoline,Automatic,2.5L I4 16V GDI DOHC,1604
+2020,Mercedes-Benz,GLS 580 Base 4MATIC,AWD,16,21,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,1605
+2021,Gmc,Yukon AT4,4WD,16,20,Gasoline,Automatic,5.3L V8 16V GDI OHV,1606
+2020,Toyota,Tundra SR5,4WD,13,17,Gasoline,Automatic,5.7L V8 32V MPFI DOHC,1607
+2019,Nissan,Rogue S,AWD,25,32,Gasoline,CVT,2.5L I4 16V MPFI DOHC,1608
+2015,Mercedes-Benz,G-Class G 63 AMG,AWD,12,14,Gasoline,Automatic,5.5L V8 32V GDI DOHC Twin Turbo,1609
+2019,Toyota,Camry XSE,FWD,28,39,Gasoline,Automatic,Regular Unleaded I-4 2.5 L/152,1610
+2019,Subaru,Forester Premium,AWD,26,33,Gasoline,CVT,2.5L H4 16V GDI DOHC,1611
+2014,Volvo,S60 T5,FWD,21,30,Gasoline,Automatic,2.5L I5 20V MPFI DOHC Turbo,1612
+2019,Lexus,NX 300 Base,FWD,22,28,Gasoline,Automatic,2.0L I4 16V PDI DOHC Turbo,1613
+2019,Jaguar,F-PACE 25t Prestige,AWD,22,27,Gasoline,Automatic,I4,1614
+2019,Porsche,Macan Base,AWD,19,23,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1615
+2018,Porsche,Macan S,AWD,17,23,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1616
+2016,Honda,Pilot Touring,FWD,20,27,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1617
+2020,Lexus,UX 250h Base,AWD,41,38,Hybrid,CVT,2.0L I4 16V PDI DOHC Hybrid,1618
+2015,Acura,TLX V6 Tech,FWD,21,34,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1619
+2020,Gmc,Acadia SLT,FWD,21,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1620
+2020,Jeep,Compass Trailhawk,4WD,22,30,Gasoline,Automatic,2.4L I4 16V MPFI SOHC,1621
+2022,Kia,Telluride SX,FWD,20,26,Gasoline,Automatic,3.8L V6 24V GDI DOHC,1622
+2020,Ford,EcoSport SE,4WD,23,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC,1623
+2018,Ford,Escape Titanium,4WD,20,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1624
+2021,Ford,Mustang Mach-E Premium,AWD,100,86,Electric,Automatic,Electric,1625
+2020,Cadillac,XT6 AWD Premium Luxury,AWD,17,24,Gasoline,Automatic,Gas V6 3.6L/222,1626
+2019,Cadillac,XT5 Luxury,AWD,18,25,Gasoline,Automatic,Gas V6 3.6L/222,1627
+2011,Honda,Pilot Touring,4WD,16,22,Gasoline,Automatic,V6 Cylinder Engine,1628
+2019,Buick,Encore Preferred,AWD,24,29,Gasoline,Automatic,1.4L I4 16V MPFI DOHC Turbo,1629
+2021,Lexus,RX 350 Base,FWD,20,27,Gasoline,Automatic,V6 Cylinder Engine,1630
+2018,Jeep,Grand Cherokee Trackhawk,4WD,11,17,Gasoline,Automatic,6.2L V8 16V MPFI OHV Supercharged,1631
+2019,Buick,Encore Preferred,AWD,24,29,Gasoline,Automatic,4 Cylinder Engine,1632
+2020,Ford,Explorer Platinum,4WD,18,24,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1633
+2018,Gmc,Yukon SLT,RWD,16,23,Gasoline,Automatic,5.3L V8 16V GDI OHV,1634
+2017,Chevrolet,Suburban Premier,4WD,15,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,1635
+2014,Acura,TL 3.5,FWD,20,29,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,1636
+2020,Kia,Sportage S,AWD,22,26,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1637
+2018,Subaru,Forester 2.5i Premium,AWD,26,32,Gasoline,Unknown,Regular Unleaded H-4 2.5 L/152,1638
+2021,Subaru,Ascent Touring 7-Passenger,AWD,20,26,Gasoline,CVT,2.4L H4 16V GDI DOHC Turbo,1639
+2017,Porsche,718 Boxster S,RWD,20,26,Gasoline,Automatic,2.5L H4 16V GDI DOHC Turbo,1640
+2019,Infiniti,QX50 Luxe,AWD,24,30,Gasoline,CVT,2.0L I4 16V PDI DOHC Turbo,1641
+2020,Hyundai,Kona SE,FWD,27,33,Gasoline,Automatic,2.0L I4 16V MPFI DOHC,1642
+2019,Hyundai,Tucson Value,AWD,22,25,Gasoline,Automatic,2.0L I4 16V GDI DOHC,1643
+2020,Ram,1500 Big Horn,4WD,19,24,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1644
+2019,Bmw,530 i xDrive,AWD,23,33,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1645
+2019,Volvo,XC60 T5 Inscription,AWD,20,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1646
+2017,Buick,Encore Preferred,FWD,25,33,Gasoline,Automatic,1.4L I4 16V MPFI DOHC Turbo,1647
+2017,Chevrolet,Tahoe LT,4WD,16,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,1648
+2021,Volkswagen,Atlas 2.0T S,AWD,20,24,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1649
+2018,Toyota,RAV4 Sport,AWD,22,28,Gasoline,Automatic,2.5L I4 16V MPFI DOHC,1650
+2019,Honda,Civic EX,FWD,31,40,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,1651
+2015,Ford,Escape Titanium,FWD,23,32,Gasoline,Automatic,1.6L I4 16V GDI DOHC Turbo,1652
+2020,Mercedes-Benz,A-Class A 220,FWD,24,35,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1653
+2019,Ford,Escape Titanium,FWD,22,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1654
+2020,Ram,1500 Classic SLT,4WD,16,23,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1655
+2021,Volkswagen,Atlas 3.6 V6 SE w/ Technology R-Line,FWD,17,23,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1656
+2019,Cadillac,CT6 Luxury,AWD,18,27,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1657
+2020,Bmw,M340 i xDrive,AWD,22,30,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1658
+2021,Jeep,Gladiator Rubicon,4WD,16,23,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1659
+2006,Ford,Escape Limited,4WD,19,23,Gasoline,Automatic,3.0L V6 24V MPFI DOHC,1660
+2018,Hyundai,Santa Fe Sport 2.4L,AWD,20,26,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1661
+2017,Chevrolet,Tahoe Premier,4WD,16,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,1662
+2018,Lexus,RX 350 RX 350,FWD,20,27,Gasoline,Automatic,3.5L V6 24V GDI DOHC,1663
+2019,Buick,Envision Essence,FWD,22,29,Gasoline,Automatic,2.5L I4 16V GDI DOHC,1664
+2020,Nissan,Armada SL,RWD,14,19,Gasoline,Automatic,5.6L V8 32V GDI DOHC,1665
+2013,Mazda,Mazda3 i Touring,FWD,28,40,Gasoline,Automatic,2.0L I4 16V GDI DOHC,1666
+2016,Mercedes-Benz,GLE-Class GLE 350,RWD,18,24,Gasoline,Automatic,3.5L V6 24V GDI DOHC,1667
+2021,Jeep,Grand Cherokee Overland,RWD,19,26,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1668
+2016,Mercedes-Benz,S-Class S 550,RWD,17,26,Gasoline,Automatic,4.7L V8 32V GDI DOHC Twin Turbo,1669
+2017,Kia,Cadenza Technology,FWD,20,28,Gasoline,Automatic,3.3L V6 24V GDI DOHC,1670
+2020,Toyota,Camry LE,AWD,25,34,Gasoline,Automatic,2.5L I4 16V PDI DOHC,1671
+2010,Lexus,RX 350 Base,AWD,18,24,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,1672
+2020,Land,Rover Range Rover Velar S R-Dynamic,4WD,21,27,Gasoline,Automatic,I4,1673
+2019,Volvo,S60 T6 Inscription,AWD,21,32,Gasoline,Automatic,2.0L I4 16V GDI DOHC,1674
+2019,Jeep,Cherokee Limited,4WD,19,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1675
+2018,Audi,SQ5 3.0T Premium Plus,AWD,19,24,Gasoline,Automatic,3.0L V6 24V GDI DOHC Turbo,1676
+2019,Mercedes-Benz,GLA 250 Base,FWD,24,33,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1677
+2019,Bmw,750 i,RWD,18,26,Gasoline,Automatic,4.4L V8 32V GDI DOHC Twin Turbo,1678
+2017,Infiniti,Q50 3.0T Sport,RWD,20,29,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1679
+2018,Jeep,Grand Cherokee Altitude,4WD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1680
+2020,Dodge,Durango GT,RWD,19,26,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1681
+2020,Ford,Edge SEL,FWD,21,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1682
+2014,Buick,Enclave Premium,FWD,17,24,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1683
+2018,Mercedes-Benz,CLA 250 Base,FWD,24,37,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1684
+2021,Jeep,Wrangler Sport,4WD,17,25,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1685
+2016,Chevrolet,Corvette Z06,RWD,15,22,Gasoline,Automatic,6.2L V8 16V GDI OHV Supercharged,1686
+2019,Ford,Edge SEL,FWD,22,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1687
+2012,Chevrolet,Tahoe LT,4WD,15,21,Flex Fuel,Automatic,5.3L V8 16V MPFI OHV Flexible Fuel,1688
+2018,Bmw,X2 xDrive28i,AWD,21,31,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1689
+2018,Mercedes-Benz,GLC 300 Base 4MATIC,AWD,21,28,Gasoline,Automatic,4 Cylinder Engine,1690
+2020,Volkswagen,Passat 2.0T SE,FWD,23,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1691
+2021,Kia,Sorento EX,FWD,22,29,Gasoline,Automatic,2.5L I4 16V PDI DOHC Turbo,1692
+2021,Toyota,4Runner TRD Pro,4WD,16,19,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,1693
+2012,Toyota,Camry SE,FWD,25,35,Gasoline,Automatic,2.5L I4 16V MPFI DOHC,1694
+2021,Hyundai,Sonata SEL Plus,FWD,27,37,Gasoline,Automatic,1.6L I4 16V GDI DOHC Turbo,1695
+2017,Jaguar,XE 35t First Edition,RWD,21,30,Gasoline,Automatic,V6,1696
+2012,Chevrolet,Cruze LT w/1LT,FWD,26,38,Gasoline,Automatic,"Engine, ECOTEC Turbo 1.4L Variable Valve Timing DOHC 4-cylinder",1697
+2018,Bmw,M3 Base,RWD,17,25,Gasoline,Automatic,3.0L I6 24V GDI DOHC Twin Turbo,1698
+2021,Mercedes-Benz,AMG GLE 53 Base,AWD,18,23,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1699
+2020,Hyundai,Santa Fe SE 2.4,AWD,21,27,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1700
+2015,Subaru,Forester 2.5i Limited,AWD,24,32,Gasoline,CVT,2.5L H4 16V MPFI DOHC,1701
+2021,Audi,A4 40 Premium,AWD,24,31,Gasoline,Automatic,2.0L,1702
+2015,Lexus,GS 350 Base,RWD,19,29,Gasoline,Automatic,3.5L V6 24V PDI DOHC,1703
+2021,Chevrolet,Tahoe LT,RWD,16,20,Gasoline,Automatic,8 Cylinder Engine,1704
+2016,Honda,Accord Touring,FWD,21,34,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,1705
+2019,Ford,Explorer Limited,FWD,19,27,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,1706
+2020,Subaru,Outback Limited,AWD,26,33,Gasoline,CVT,2.5L H4 16V GDI DOHC,1707
+2021,Jeep,Wrangler Unlimited Rubicon,4WD,17,23,Diesel,Automatic,3.0L V6 24V DDI DOHC Turbo Diesel,1708
+2015,Toyota,RAV4 Limited,AWD,22,29,Gasoline,Automatic,2.5L I4 16V MPFI DOHC,1709
+2019,Chevrolet,Camaro 1LT,RWD,20,30,Gasoline,Automatic,3.6L V6 GDI DOHC,1710
+2019,Hyundai,Santa Fe XL Limited Ultimate,AWD,17,22,Gasoline,Automatic,3.3L V6 24V GDI DOHC,1711
+2021,Dodge,Durango GT,AWD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1712
+2012,Mitsubishi,Eclipse GS Sport,FWD,20,27,Gasoline,Automatic,2.4L I4 16V MPFI SOHC,1713
+2011,Hyundai,Sonata GLS,FWD,22,35,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1714
+2021,Kia,K5 GT-Line,AWD,26,34,Gasoline,Automatic,1.6L I4 16V GDI DOHC Turbo,1715
+2015,Mini,Hardtop Cooper,FWD,29,40,Gasoline,Automatic,1.5L I3 12V GDI DOHC Turbo,1716
+2017,Toyota,RAV4 XLE,AWD,22,29,Gasoline,Automatic,2.5L I4 16V MPFI DOHC,1717
+2019,Buick,Envision Essence,AWD,21,27,Gasoline,Automatic,4 Cylinder Engine,1718
+2019,Toyota,Highlander Limited,AWD,20,26,Gasoline,Automatic,3.5L V6 24V PDI DOHC,1719
+2019,Subaru,Ascent Touring 7-Passenger,AWD,20,26,Gasoline,CVT,2.4L H4 16V GDI DOHC Turbo,1720
+2019,Nissan,Rogue Sport SV,FWD,25,32,Gasoline,CVT,2.0L I4 16V GDI DOHC,1721
+2021,Ram,1500 Laramie,RWD,20,25,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1722
+2021,Jaguar,E-PACE P250 SE,AWD,20,26,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1723
+2018,Audi,A5 2.0T Premium Plus,AWD,24,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1724
+2020,Volkswagen,Tiguan 2.0T SEL Premium R-Line,AWD,20,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1725
+2015,Toyota,Corolla S Plus,FWD,29,37,Gasoline,CVT,1.8L I4 16V MPFI DOHC,1726
+2018,Mazda,CX-5 Touring,AWD,24,30,Gasoline,Automatic,2.5L I4 16V GDI DOHC,1727
+2022,Bmw,X2 M35i,AWD,23,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1728
+2019,Nissan,Pathfinder Platinum,FWD,20,27,Gasoline,CVT,3.5L V6 24V GDI DOHC,1729
+2021,Chevrolet,Suburban Z71,4WD,15,19,Gasoline,Automatic,5.3L V8 16V GDI OHV,1730
+2020,Land,Rover Range Rover Velar S R-Dynamic,4WD,18,24,Gasoline,Automatic,V6,1731
+2018,Chrysler,300 Limited,RWD,19,30,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1732
+2017,Porsche,Cayenne Platinum Edition,AWD,17,23,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1733
+2019,Alfa,Romeo Giulia Ti,AWD,23,31,Gasoline,Automatic,2.0L I4 16V GDI SOHC Turbo,1734
+2017,Gmc,Acadia Limited Limited,FWD,15,22,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1735
+2019,Jeep,Renegade Latitude,FWD,22,30,Gasoline,Automatic,2.4L I4 16V MPFI SOHC,1736
+2021,Mercedes-Benz,A-Class A 220,FWD,25,36,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1737
+2019,Maserati,Ghibli Base,RWD,17,24,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1738
+2021,Jeep,Wrangler Unlimited Rubicon 392,4WD,13,17,Gasoline,Automatic,6.4L V8 16V MPFI OHV,1739
+2017,Tesla,Model X 90D,AWD,90,94,Electric,Automatic,Electric,1740
+2019,Lincoln,Nautilus Reserve,AWD,20,25,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1741
+2015,Mercedes-Benz,C-Class C 300,AWD,24,31,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1742
+2020,Lincoln,Nautilus Reserve,FWD,21,26,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1743
+2016,Land,Rover Range Rover 5.0L Supercharged,4WD,14,19,Gasoline,Automatic,5.0L V8 32V GDI DOHC Supercharged,1744
+2021,Kia,Sportage LX,FWD,23,30,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1745
+2019,Kia,Optima SX Turbo,FWD,21,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1746
+2018,Chevrolet,Equinox Premier w/1LZ,FWD,26,32,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,1747
+2017,Acura,TLX w/Technology Package,FWD,24,35,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1748
+2018,Gmc,Sierra 1500 Denali,4WD,15,20,Gasoline,Automatic,6.2L V8 16V GDI OHV,1749
+2013,Kia,Optima EX,FWD,24,35,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1750
+2017,Chevrolet,Silverado 1500 LS,4WD,16,22,Gasoline,Automatic,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,1751
+2019,Lincoln,Continental Select,AWD,16,24,Gasoline,Automatic,3.7L V6 24V MPFI DOHC,1752
+2020,Kia,Sorento LX,AWD,21,26,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1753
+2019,Audi,Q5 2.0T Premium Plus,AWD,22,27,Gasoline,Automatic,4 Cylinder Engine,1754
+2017,Ford,Explorer sport,4WD,16,22,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,1755
+2020,Toyota,Tundra SR5,RWD,13,18,Gasoline,Automatic,5.7L V8 32V MPFI DOHC,1756
+2013,Toyota,Sienna Limited,FWD,18,25,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,1757
+2016,Jeep,Grand Cherokee Limited,4WD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1758
+2022,Kia,Sportage Nightfall,FWD,23,30,Gasoline,Automatic,2.4L I4 16V GDI DOHC,1759
+2019,Volvo,S60 T6 Inscription,AWD,21,32,Gasoline,Automatic,4 Cylinder Engine,1760
+2017,Toyota,Sienna SE,FWD,19,27,Gasoline,Automatic,3.5L V6 24V GDI DOHC,1761
+2012,Ford,F-150 XLT,4WD,14,19,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,1762
+2013,Honda,Odyssey Touring,FWD,19,28,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,1763
+2020,Hyundai,Tucson SE,AWD,22,25,Gasoline,Automatic,2.0L I4 16V GDI DOHC,1764
+2014,Jeep,Patriot Limited,4WD,21,27,Gasoline,Automatic,2.4L I4 16V MPFI DOHC,1765
+2019,Land,Rover Discovery HSE,4WD,21,26,Diesel,Automatic,3.0L V6 Turbo Diesel,1766
+2020,Honda,Civic Sport,FWD,29,36,Gasoline,CVT,2.0L I4 16V MPFI DOHC,1767
+2020,Toyota,RAV4 Limited,AWD,25,33,Gasoline,Automatic,2.5L I4 16V PDI DOHC,1768
+2021,Kia,Forte LXS,FWD,29,40,Gasoline,CVT,2.0L I4 16V MPFI DOHC,1769
+2021,Mercedes-Benz,GLC 300 Base,RWD,22,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1770
+2018,Mercedes-Benz,GLA 250 Base,FWD,24,33,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1771
+2016,Acura,TLX V6 Tech,FWD,21,34,Gasoline,Automatic,3.5L V6 24V GDI SOHC,1772
 2018,Mazda,CX-5 Sport,AWD,24,30,Gasoline,Automatic,2.5L I4 16V GDI DOHC,1773
 2022,Chevrolet,Blazer RS,FWD,19,27,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1774
 2018,Bmw,M6 Base,RWD,14,20,Gasoline,Automatic,4.4L V8 32V GDI DOHC Twin Turbo,1775
@@ -2088,148 +2088,148 @@ Year,Make,Model,Drivetrain,MinMPG,MaxMPG,FuelType,Transmission,Engine,ID_Vehicul
 2018,Toyota,Camry XLE,FWD,28,39,Gasoline,Automatic,2.5L I4 16V PDI DOHC,2087
 2016,Toyota,Tundra Platinum,4WD,13,17,Gasoline,Automatic,5.7L V8 32V MPFI DOHC,2088
 2020,Infiniti,Q50 3.0t LUXE,RWD,20,29,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,2089
-2017,Porsche,Macan Base,AWD,20,25,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2090
-2021,Chevrolet,Suburban RST,4WD,15,19,Gasoline,Automatic,5.3L V8 16V GDI OHV,2091
-2021,Volkswagen,Atlas 3.6 V6 SEL Premium,AWD,16,22,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2092
-2014,Honda,Civic LX,FWD,30,39,Gasoline,CVT,1.8L I4 16V MPFI SOHC,2093
-2021,Bmw,530 i,RWD,25,33,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2094
-2012,Kia,Sorento SX,AWD,18,24,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,2095
-2019,Subaru,Outback 2.5i Premium,AWD,25,32,Gasoline,CVT,2.5L,2096
-2020,Subaru,Ascent Premium 7-Passenger,AWD,21,27,Gasoline,CVT,2.4L H4 16V GDI DOHC Turbo,2097
-2020,Gmc,Terrain SLE,FWD,26,30,Gasoline,Automatic,4 Cylinder Engine,2098
-2021,Dodge,Challenger R/T Scat Pack,RWD,14,23,Gasoline,Automatic,6.4L V8 16V MPFI OHV,2099
-2021,Lexus,UX 250h Base,AWD,41,38,Hybrid,CVT,2.0L I4 16V PDI DOHC Hybrid,2100
-2019,Mazda,Mazda3 AWD w/Preferred Package,AWD,24,32,Gasoline,Automatic,2.5L I4 16V GDI DOHC,2101
-2019,Toyota,Highlander XLE,FWD,21,27,Gasoline,Automatic,3.5L V6 24V PDI DOHC,2102
-2014,Bmw,328 Gran Turismo i xDrive,AWD,22,33,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2103
-2020,Honda,Civic LX,FWD,31,40,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,2104
-2014,Chevrolet,Camaro 2LS,RWD,19,30,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2105
-2013,Cadillac,Escalade Base,AWD,13,18,Gasoline,Automatic,6.2L V8 16V MPFI OHV,2106
-2017,Subaru,Crosstrek 2.0i Premium,AWD,26,33,Gasoline,CVT,2.0L,2107
-2003,Mercedes-Benz,SL-Class SL500 Roadster,RWD,15,22,Gasoline,Automatic,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,2108
-2019,Jeep,Grand Cherokee Laredo,RWD,19,26,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2109
-2015,Mazda,CX-5 Grand Touring,AWD,24,30,Gasoline,Automatic,2.5L I4 16V GDI DOHC,2110
-2020,Hyundai,Palisade SEL,FWD,19,26,Gasoline,Automatic,3.8L V6 24V GDI DOHC,2111
-2017,Mercedes-Benz,GLA 250 Base 4MATIC,AWD,23,31,Flex Fuel,Automatic,2.0L I4 16V GDI DOHC Turbo Flexible Fuel,2112
-2020,Gmc,Sierra 3500 Denali,4WD,0,0,Diesel,Automatic,8 Cylinder Engine,2113
-2018,Mazda,CX-9 Touring,AWD,20,26,Gasoline,Automatic,2.5L V6 24V,2114
-2020,Volvo,V90 Cross Country T6,AWD,20,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC,2115
-2021,Toyota,4Runner SR5,4WD,16,19,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,2116
-2018,Mercedes-Benz,C-Class C 300,RWD,24,33,Gasoline,Automatic,4 Cylinder Engine,2117
-2020,Mercedes-Benz,CLS 450 Base,RWD,24,31,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,2118
-2020,Honda,CR-V EX,AWD,27,32,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,2119
-2020,Jeep,Grand Cherokee Altitude,4WD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2120
-2006,Jeep,Commander Limited,4WD,15,19,Gasoline,Automatic,330.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,2121
-2021,Jeep,Wrangler Unlimited Rubicon,4WD,17,23,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2122
-2018,Kia,Optima LX,FWD,25,36,Gasoline,Automatic,2.4L I4 16V GDI DOHC,2123
-2019,Jeep,Cherokee Latitude Plus,FWD,22,31,Gasoline,Automatic,2.4L I4 16V MPFI SOHC,2124
-2019,Ford,Explorer XLT,4WD,16,22,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,2125
-2020,Land,Rover Range Rover P525 HSE LWB,4WD,16,21,Gasoline,Automatic,V8,2126
-2016,Honda,CR-V EX,AWD,25,31,Gasoline,CVT,2.4L I4 16V GDI DOHC,2127
-2015,Gmc,Sierra 2500 Denali,4WD,0,0,Diesel,Automatic,8 Cylinder Engine,2128
-2015,Acura,RDX Technology Package,FWD,20,28,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,2129
-2022,Hyundai,Santa Fe SEL,FWD,25,28,Gasoline,Automatic,2.5L I4 16V PDI DOHC,2130
-2016,Acura,MDX 3.5L w/Technology Package,AWD,18,26,Gasoline,Automatic,3.5L V6 24V GDI SOHC,2131
-2016,Chevrolet,Suburban LT,RWD,16,23,Flex Fuel,Automatic,5.3L V8 16V GDI OHV Flexible Fuel,2132
-2021,Ford,F-150 Lariat,4WD,24,24,Hybrid,Automatic,V6 Cylinder Engine,2133
-2019,Lincoln,MKC Reserve,AWD,19,25,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2134
-2020,Volkswagen,Jetta 1.4T S,FWD,30,40,Gasoline,Automatic,1.4L I4 16V GDI DOHC Turbo,2135
-2021,Lexus,LX 570 Three-Row,4WD,12,16,Gasoline,Automatic,5.7L V8 32V MPFI DOHC,2136
-2016,Toyota,Sequoia Platinum,4WD,13,17,Gasoline,Automatic,5.7L V8 32V MPFI DOHC,2137
-2019,Lincoln,MKC Reserve,AWD,19,25,Gasoline,Automatic,2.3L I4 16V GDI DOHC Turbo,2138
-2006,Toyota,Tundra SR5,4WD,15,18,Gasoline,Automatic,4.7L V8 32V MPFI DOHC,2139
-2020,Subaru,Crosstrek Premium,AWD,27,33,Gasoline,CVT,2.0L H4 16V GDI DOHC,2140
-2017,Mercedes-Benz,GLS 450 Base 4MATIC,AWD,19,22,Gasoline,Automatic,V6 Cylinder Engine,2141
-2010,Chevrolet,Equinox LS,FWD,22,32,Gasoline,Automatic,2.4L I4 16V GDI DOHC,2142
-2013,Toyota,Highlander Base,FWD,20,25,Gasoline,Automatic,2.7L I4 16V MPFI DOHC,2143
-2019,Jeep,Compass Trailhawk,4WD,22,30,Gasoline,Automatic,2.4L I4 16V MPFI SOHC,2144
-2022,Honda,Pilot Special Edition,AWD,19,26,Gasoline,Automatic,3.5L V6 24V GDI SOHC,2145
-2021,Honda,CR-V EX,AWD,27,32,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,2146
-2016,Cadillac,SRX Luxury Collection,FWD,17,24,Gasoline,Automatic,"Engine, 3.6L SIDI DOHC V6 VVT (308 hp [229.7 kW] @ 6800 rpm, 265",2147
-2019,Toyota,4Runner Limited Nightshade,4WD,17,20,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,2148
-2021,Hyundai,Kona SEL Plus,AWD,25,30,Gasoline,Automatic,2.0L I4 16V MPFI DOHC,2149
-2019,Ford,Escape SE,4WD,22,28,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,2150
-2019,Audi,A3 2.0T Premium,FWD,26,35,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2151
-2019,Mazda,CX-5 Touring,AWD,24,30,Gasoline,Automatic,2.5L I4 16V GDI DOHC,2152
-2021,Chevrolet,Colorado Z71,RWD,18,25,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2153
-2021,Ram,1500 Laramie,RWD,20,25,Hybrid,Automatic,V6 Cylinder Engine,2154
-2019,Kia,Sportage LX,AWD,21,25,Gasoline,Automatic,2.4L I4 16V GDI DOHC,2155
-2013,Maserati,GranTurismo Sport,RWD,13,20,Gasoline,Automatic,4.7L V8 32V MPFI DOHC,2156
-2017,Chrysler,300 Limited,AWD,18,27,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2157
-2021,Lincoln,Navigator Black Label,4WD,16,20,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,2158
-2022,Toyota,Corolla SE,FWD,31,40,Gasoline,CVT,2.0L I4 16V PDI DOHC,2159
-2019,Infiniti,Q50 3.0t Red Sport 400,RWD,20,26,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,2160
-2019,Toyota,Corolla Hatchback SE,FWD,28,37,Gasoline,Manual,2.0L I4 16V PDI DOHC,2161
-2018,Ford,F-150 King Ranch,4WD,16,22,Diesel,Automatic,3.0L V6 24V DI DOHC Turbo Diesel,2162
-2022,Hyundai,Palisade SEL,AWD,19,24,Gasoline,Automatic,3.8L V6 24V GDI DOHC,2163
-2016,Lexus,RC 350 Base,RWD,19,28,Gasoline,Automatic,3.5L V6 24V PDI DOHC,2164
-2019,Lincoln,MKC Select,FWD,20,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2165
-2016,Nissan,Pathfinder SV,FWD,20,27,Gasoline,CVT,3.5L V6 24V MPFI DOHC,2166
-2015,Cadillac,ATS 2.0L Turbo Luxury,AWD,20,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2167
-2014,Buick,LaCrosse Premium 1,FWD,18,28,Gasoline,Automatic,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,2168
-2021,Tesla,Model Y Performance,AWD,0,0,Electric,Automatic,Electric Motor,2169
-2021,Mercedes-Benz,AMG GLE 53 Base,AWD,18,22,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,2170
-2020,Ford,Ranger XLT,4WD,20,24,Gasoline,Automatic,2.3L I4 16V GDI DOHC Turbo,2171
-2016,Toyota,Highlander XLE,AWD,18,24,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,2172
-2020,Chrysler,300 Limited,RWD,19,30,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2173
-2021,Chevrolet,Tahoe RST,4WD,16,20,Gasoline,Automatic,5.3L V8 16V GDI OHV,2174
-2018,Tesla,Model 3 Mid Range,RWD,128,117,Electric,Automatic,Electric,2175
-2020,Land,Rover Discovery Landmark,4WD,16,21,Gasoline,Automatic,V6,2176
-2016,Honda,Pilot Elite,AWD,19,26,Gasoline,Automatic,3.5L V6 24V GDI SOHC,2177
-2019,Lexus,ES 350 Base,FWD,22,33,Gasoline,Automatic,3.5L V6 24V PDI DOHC,2178
-2018,Dodge,Journey SE,AWD,16,24,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2179
-2021,Nissan,Altima 2.5 SR,FWD,28,39,Gasoline,CVT,2.5L I4 16V GDI DOHC,2180
-2019,Ford,Expedition Platinum,RWD,17,24,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,2181
-2021,Land,Rover Range Rover Velar S,4WD,20,26,Gasoline,Automatic,V6,2182
-2012,Porsche,Cayenne S,AWD,16,22,Gasoline,Automatic,4.8L V8 32V GDI DOHC,2183
-2021,Toyota,Highlander XLE,AWD,20,27,Gasoline,Automatic,3.5L V6 24V PDI DOHC,2184
-2021,Mazda,Mazda3 Premium Plus,AWD,23,31,Gasoline,Automatic,2.5L I4 16V,2185
-2007,Volvo,XC90 3.2,AWD,17,22,Gasoline,Automatic,3.2L I6 24V MPFI DOHC,2186
-2021,Jeep,Wrangler Unlimited Sport,4WD,19,24,Hybrid,Automatic,V6 Cylinder Engine,2187
-2019,Volkswagen,Arteon 2.0T SE R-Line,FWD,22,31,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2188
-2021,Volkswagen,Atlas 3.6L SEL,AWD,16,22,Gasoline,Automatic,V6 Cylinder Engine,2189
-2019,Chevrolet,Traverse RS,AWD,17,25,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2190
-2021,Buick,Encore GX Select,FWD,28,31,Gasoline,CVT,1.3L I3 12V GDI DOHC Turbo,2191
-2017,Bmw,X1 xDrive 28i,AWD,22,31,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2192
-2017,Hyundai,Elantra SE,FWD,29,38,Gasoline,Automatic,2.0L I4 16V MPFI DOHC,2193
-2017,Ford,Explorer XLT,FWD,17,24,Gasoline,Automatic,2.3L I4 16V GDI DOHC Turbo,2194
-2012,Subaru,Forester 2.5X,AWD,21,27,Gasoline,Automatic,2.5L H4 16V MPFI DOHC,2195
-2020,Toyota,Tundra SR5,4WD,13,17,Gasoline,Automatic,Engine: 5.7L V8 DOHC 32V w/i-Force -inc: acoustic control induct,2196
-2016,Audi,Q3 2.0T Premium Plus,FWD,20,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2197
-2011,Lexus,IS-F Base,RWD,16,23,Gasoline,Automatic,5.0L V8 32V PDI DOHC,2198
-2021,Toyota,Highlander XLE,AWD,20,27,Gasoline,Automatic,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,2199
-2021,Nissan,Rogue Platinum,AWD,25,32,Gasoline,CVT,2.5L I4 16V GDI DOHC,2200
-2016,Infiniti,Q70 3.7X,AWD,18,24,Gasoline,Automatic,3.7L V6 24V MPFI DOHC,2201
-2020,Cadillac,XT4 Premium Luxury,AWD,22,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2202
-2020,Audi,Q3 S line Premium Plus,AWD,19,27,Gasoline,Automatic,Intercooled Turbo Regular Unleaded I-4 2.0 L/121,2203
-2017,Subaru,Legacy 2.5i Limited,AWD,25,34,Gasoline,CVT,2.5L H4 16V MPFI DOHC,2204
-2021,Volkswagen,Tiguan 2.0T S,AWD,21,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2205
-2019,Kia,Forte LXS,FWD,30,40,Gasoline,CVT,2.0L I4 16V MPFI DOHC,2206
-2020,Subaru,Impreza Premium,AWD,28,36,Gasoline,CVT,2.0L H4 16V GDI DOHC,2207
-2021,Chevrolet,Suburban RST,4WD,15,19,Diesel,Automatic,3.0L I6 24V DDI DOHC Turbo Diesel,2208
-2018,Jeep,Renegade Altitude,4WD,24,31,Gasoline,Automatic,2.4L I4 16V MPFI SOHC,2209
-2020,Jeep,Cherokee Latitude Plus,FWD,22,31,Gasoline,Automatic,2.4L I4 16V MPFI SOHC,2210
-2021,Hyundai,Palisade Calligraphy,AWD,19,24,Gasoline,Automatic,3.8L V6 24V GDI DOHC,2211
-2019,Bmw,M850 i xDrive,AWD,17,26,Gasoline,Automatic,4.4L V8 32V GDI DOHC Twin Turbo,2212
-2018,Cadillac,XT5 Luxury,FWD,19,26,Gasoline,Automatic,Gas V6 3.6L/222.6,2213
-2017,Dodge,Durango GT,RWD,19,26,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2214
-2017,Porsche,911 Turbo S,AWD,19,24,Gasoline,Automatic,3.8L H6 24V GDI DOHC Twin Turbo,2215
-2020,Bmw,330 i,RWD,26,36,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2216
-2019,Bmw,330 i,RWD,26,36,Gasoline,Automatic,4 Cylinder Engine,2217
-2013,Chrysler,Town & Country Touring-L,FWD,17,25,Flex Fuel,Automatic,3.6L V6 24V MPFI DOHC Flexible Fuel,2218
-2021,Infiniti,QX80 PREMIUM SELECT,RWD,14,20,Gasoline,Automatic,5.6L V8 32V GDI DOHC,2219
-2020,Nissan,Rogue SL,FWD,26,33,Gasoline,Unknown,Regular Unleaded I-4 2.5 L/152,2220
-2019,Toyota,4Runner TRD Off Road,4WD,17,20,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,2221
-2018,Volkswagen,Passat 2.0T S,FWD,25,36,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2222
-2016,Kia,Soul Base,FWD,24,30,Gasoline,Automatic,1.6L I4 16V GDI DOHC,2223
-2018,Jeep,Wrangler JK Sport,4WD,17,21,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2224
-2020,Chevrolet,Suburban LT,RWD,15,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,2225
-2019,Mazda,CX-9 Touring,FWD,22,28,Gasoline,Automatic,2.5L I4 16V GDI DOHC Turbo,2226
-2020,Ram,1500 Limited,4WD,17,22,Gasoline,Automatic,Regular Unleaded V-8 5.7 L/345,2227
-2020,Chevrolet,Equinox 2LT,FWD,26,31,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,2228
-2019,Kia,Sorento LX,AWD,21,26,Gasoline,Automatic,4 Cylinder Engine,2229
-2020,Ford,Explorer XLT,RWD,21,28,Gasoline,Automatic,4 Cylinder Engine,2230
-2018,Honda,Civic EX,FWD,31,40,Gasoline,CVT,2.0L I4 16V MPFI DOHC,2231
+2018,Honda,Civic EX,FWD,31,40,Gasoline,CVT,2.0L I4 16V MPFI DOHC,2090
+2017,Porsche,Macan Base,AWD,20,25,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2091
+2021,Chevrolet,Suburban RST,4WD,15,19,Gasoline,Automatic,5.3L V8 16V GDI OHV,2092
+2021,Volkswagen,Atlas 3.6 V6 SEL Premium,AWD,16,22,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2093
+2014,Honda,Civic LX,FWD,30,39,Gasoline,CVT,1.8L I4 16V MPFI SOHC,2094
+2021,Bmw,530 i,RWD,25,33,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2095
+2012,Kia,Sorento SX,AWD,18,24,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,2096
+2019,Subaru,Outback 2.5i Premium,AWD,25,32,Gasoline,CVT,2.5L,2097
+2020,Subaru,Ascent Premium 7-Passenger,AWD,21,27,Gasoline,CVT,2.4L H4 16V GDI DOHC Turbo,2098
+2020,Gmc,Terrain SLE,FWD,26,30,Gasoline,Automatic,4 Cylinder Engine,2099
+2021,Dodge,Challenger R/T Scat Pack,RWD,14,23,Gasoline,Automatic,6.4L V8 16V MPFI OHV,2100
+2021,Lexus,UX 250h Base,AWD,41,38,Hybrid,CVT,2.0L I4 16V PDI DOHC Hybrid,2101
+2019,Mazda,Mazda3 AWD w/Preferred Package,AWD,24,32,Gasoline,Automatic,2.5L I4 16V GDI DOHC,2102
+2019,Toyota,Highlander XLE,FWD,21,27,Gasoline,Automatic,3.5L V6 24V PDI DOHC,2103
+2014,Bmw,328 Gran Turismo i xDrive,AWD,22,33,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2104
+2020,Honda,Civic LX,FWD,31,40,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,2105
+2014,Chevrolet,Camaro 2LS,RWD,19,30,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2106
+2013,Cadillac,Escalade Base,AWD,13,18,Gasoline,Automatic,6.2L V8 16V MPFI OHV,2107
+2017,Subaru,Crosstrek 2.0i Premium,AWD,26,33,Gasoline,CVT,2.0L,2108
+2003,Mercedes-Benz,SL-Class SL500 Roadster,RWD,15,22,Gasoline,Automatic,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,2109
+2019,Jeep,Grand Cherokee Laredo,RWD,19,26,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2110
+2015,Mazda,CX-5 Grand Touring,AWD,24,30,Gasoline,Automatic,2.5L I4 16V GDI DOHC,2111
+2020,Hyundai,Palisade SEL,FWD,19,26,Gasoline,Automatic,3.8L V6 24V GDI DOHC,2112
+2017,Mercedes-Benz,GLA 250 Base 4MATIC,AWD,23,31,Flex Fuel,Automatic,2.0L I4 16V GDI DOHC Turbo Flexible Fuel,2113
+2020,Gmc,Sierra 3500 Denali,4WD,0,0,Diesel,Automatic,8 Cylinder Engine,2114
+2018,Mazda,CX-9 Touring,AWD,20,26,Gasoline,Automatic,2.5L V6 24V,2115
+2020,Volvo,V90 Cross Country T6,AWD,20,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC,2116
+2021,Toyota,4Runner SR5,4WD,16,19,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,2117
+2018,Mercedes-Benz,C-Class C 300,RWD,24,33,Gasoline,Automatic,4 Cylinder Engine,2118
+2020,Mercedes-Benz,CLS 450 Base,RWD,24,31,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,2119
+2020,Honda,CR-V EX,AWD,27,32,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,2120
+2020,Jeep,Grand Cherokee Altitude,4WD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2121
+2006,Jeep,Commander Limited,4WD,15,19,Gasoline,Automatic,330.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,2122
+2021,Jeep,Wrangler Unlimited Rubicon,4WD,17,23,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2123
+2018,Kia,Optima LX,FWD,25,36,Gasoline,Automatic,2.4L I4 16V GDI DOHC,2124
+2019,Jeep,Cherokee Latitude Plus,FWD,22,31,Gasoline,Automatic,2.4L I4 16V MPFI SOHC,2125
+2019,Ford,Explorer XLT,4WD,16,22,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,2126
+2020,Land,Rover Range Rover P525 HSE LWB,4WD,16,21,Gasoline,Automatic,V8,2127
+2016,Honda,CR-V EX,AWD,25,31,Gasoline,CVT,2.4L I4 16V GDI DOHC,2128
+2015,Gmc,Sierra 2500 Denali,4WD,0,0,Diesel,Automatic,8 Cylinder Engine,2129
+2015,Acura,RDX Technology Package,FWD,20,28,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,2130
+2022,Hyundai,Santa Fe SEL,FWD,25,28,Gasoline,Automatic,2.5L I4 16V PDI DOHC,2131
+2016,Acura,MDX 3.5L w/Technology Package,AWD,18,26,Gasoline,Automatic,3.5L V6 24V GDI SOHC,2132
+2016,Chevrolet,Suburban LT,RWD,16,23,Flex Fuel,Automatic,5.3L V8 16V GDI OHV Flexible Fuel,2133
+2021,Ford,F-150 Lariat,4WD,24,24,Hybrid,Automatic,V6 Cylinder Engine,2134
+2019,Lincoln,MKC Reserve,AWD,19,25,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2135
+2020,Volkswagen,Jetta 1.4T S,FWD,30,40,Gasoline,Automatic,1.4L I4 16V GDI DOHC Turbo,2136
+2021,Lexus,LX 570 Three-Row,4WD,12,16,Gasoline,Automatic,5.7L V8 32V MPFI DOHC,2137
+2016,Toyota,Sequoia Platinum,4WD,13,17,Gasoline,Automatic,5.7L V8 32V MPFI DOHC,2138
+2019,Lincoln,MKC Reserve,AWD,19,25,Gasoline,Automatic,2.3L I4 16V GDI DOHC Turbo,2139
+2006,Toyota,Tundra SR5,4WD,15,18,Gasoline,Automatic,4.7L V8 32V MPFI DOHC,2140
+2020,Subaru,Crosstrek Premium,AWD,27,33,Gasoline,CVT,2.0L H4 16V GDI DOHC,2141
+2017,Mercedes-Benz,GLS 450 Base 4MATIC,AWD,19,22,Gasoline,Automatic,V6 Cylinder Engine,2142
+2010,Chevrolet,Equinox LS,FWD,22,32,Gasoline,Automatic,2.4L I4 16V GDI DOHC,2143
+2013,Toyota,Highlander Base,FWD,20,25,Gasoline,Automatic,2.7L I4 16V MPFI DOHC,2144
+2019,Jeep,Compass Trailhawk,4WD,22,30,Gasoline,Automatic,2.4L I4 16V MPFI SOHC,2145
+2022,Honda,Pilot Special Edition,AWD,19,26,Gasoline,Automatic,3.5L V6 24V GDI SOHC,2146
+2021,Honda,CR-V EX,AWD,27,32,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,2147
+2016,Cadillac,SRX Luxury Collection,FWD,17,24,Gasoline,Automatic,"Engine, 3.6L SIDI DOHC V6 VVT (308 hp [229.7 kW] @ 6800 rpm, 265",2148
+2019,Toyota,4Runner Limited Nightshade,4WD,17,20,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,2149
+2021,Hyundai,Kona SEL Plus,AWD,25,30,Gasoline,Automatic,2.0L I4 16V MPFI DOHC,2150
+2019,Ford,Escape SE,4WD,22,28,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,2151
+2019,Audi,A3 2.0T Premium,FWD,26,35,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2152
+2019,Mazda,CX-5 Touring,AWD,24,30,Gasoline,Automatic,2.5L I4 16V GDI DOHC,2153
+2021,Chevrolet,Colorado Z71,RWD,18,25,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2154
+2021,Ram,1500 Laramie,RWD,20,25,Hybrid,Automatic,V6 Cylinder Engine,2155
+2019,Kia,Sportage LX,AWD,21,25,Gasoline,Automatic,2.4L I4 16V GDI DOHC,2156
+2013,Maserati,GranTurismo Sport,RWD,13,20,Gasoline,Automatic,4.7L V8 32V MPFI DOHC,2157
+2017,Chrysler,300 Limited,AWD,18,27,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2158
+2021,Lincoln,Navigator Black Label,4WD,16,20,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,2159
+2022,Toyota,Corolla SE,FWD,31,40,Gasoline,CVT,2.0L I4 16V PDI DOHC,2160
+2019,Infiniti,Q50 3.0t Red Sport 400,RWD,20,26,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,2161
+2019,Toyota,Corolla Hatchback SE,FWD,28,37,Gasoline,Manual,2.0L I4 16V PDI DOHC,2162
+2018,Ford,F-150 King Ranch,4WD,16,22,Diesel,Automatic,3.0L V6 24V DI DOHC Turbo Diesel,2163
+2022,Hyundai,Palisade SEL,AWD,19,24,Gasoline,Automatic,3.8L V6 24V GDI DOHC,2164
+2016,Lexus,RC 350 Base,RWD,19,28,Gasoline,Automatic,3.5L V6 24V PDI DOHC,2165
+2019,Lincoln,MKC Select,FWD,20,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2166
+2016,Nissan,Pathfinder SV,FWD,20,27,Gasoline,CVT,3.5L V6 24V MPFI DOHC,2167
+2015,Cadillac,ATS 2.0L Turbo Luxury,AWD,20,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2168
+2014,Buick,LaCrosse Premium 1,FWD,18,28,Gasoline,Automatic,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,2169
+2021,Tesla,Model Y Performance,AWD,0,0,Electric,Automatic,Electric Motor,2170
+2021,Mercedes-Benz,AMG GLE 53 Base,AWD,18,22,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,2171
+2020,Ford,Ranger XLT,4WD,20,24,Gasoline,Automatic,2.3L I4 16V GDI DOHC Turbo,2172
+2016,Toyota,Highlander XLE,AWD,18,24,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,2173
+2020,Chrysler,300 Limited,RWD,19,30,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2174
+2021,Chevrolet,Tahoe RST,4WD,16,20,Gasoline,Automatic,5.3L V8 16V GDI OHV,2175
+2018,Tesla,Model 3 Mid Range,RWD,128,117,Electric,Automatic,Electric,2176
+2020,Land,Rover Discovery Landmark,4WD,16,21,Gasoline,Automatic,V6,2177
+2016,Honda,Pilot Elite,AWD,19,26,Gasoline,Automatic,3.5L V6 24V GDI SOHC,2178
+2019,Lexus,ES 350 Base,FWD,22,33,Gasoline,Automatic,3.5L V6 24V PDI DOHC,2179
+2018,Dodge,Journey SE,AWD,16,24,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2180
+2021,Nissan,Altima 2.5 SR,FWD,28,39,Gasoline,CVT,2.5L I4 16V GDI DOHC,2181
+2019,Ford,Expedition Platinum,RWD,17,24,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,2182
+2021,Land,Rover Range Rover Velar S,4WD,20,26,Gasoline,Automatic,V6,2183
+2012,Porsche,Cayenne S,AWD,16,22,Gasoline,Automatic,4.8L V8 32V GDI DOHC,2184
+2021,Toyota,Highlander XLE,AWD,20,27,Gasoline,Automatic,3.5L V6 24V PDI DOHC,2185
+2021,Mazda,Mazda3 Premium Plus,AWD,23,31,Gasoline,Automatic,2.5L I4 16V,2186
+2007,Volvo,XC90 3.2,AWD,17,22,Gasoline,Automatic,3.2L I6 24V MPFI DOHC,2187
+2021,Jeep,Wrangler Unlimited Sport,4WD,19,24,Hybrid,Automatic,V6 Cylinder Engine,2188
+2019,Volkswagen,Arteon 2.0T SE R-Line,FWD,22,31,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2189
+2021,Volkswagen,Atlas 3.6L SEL,AWD,16,22,Gasoline,Automatic,V6 Cylinder Engine,2190
+2019,Chevrolet,Traverse RS,AWD,17,25,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2191
+2021,Buick,Encore GX Select,FWD,28,31,Gasoline,CVT,1.3L I3 12V GDI DOHC Turbo,2192
+2017,Bmw,X1 xDrive 28i,AWD,22,31,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2193
+2017,Hyundai,Elantra SE,FWD,29,38,Gasoline,Automatic,2.0L I4 16V MPFI DOHC,2194
+2017,Ford,Explorer XLT,FWD,17,24,Gasoline,Automatic,2.3L I4 16V GDI DOHC Turbo,2195
+2012,Subaru,Forester 2.5X,AWD,21,27,Gasoline,Automatic,2.5L H4 16V MPFI DOHC,2196
+2020,Toyota,Tundra SR5,4WD,13,17,Gasoline,Automatic,Engine: 5.7L V8 DOHC 32V w/i-Force -inc: acoustic control induct,2197
+2016,Audi,Q3 2.0T Premium Plus,FWD,20,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2198
+2011,Lexus,IS-F Base,RWD,16,23,Gasoline,Automatic,5.0L V8 32V PDI DOHC,2199
+2021,Toyota,Highlander XLE,AWD,20,27,Gasoline,Automatic,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,2200
+2021,Nissan,Rogue Platinum,AWD,25,32,Gasoline,CVT,2.5L I4 16V GDI DOHC,2201
+2016,Infiniti,Q70 3.7X,AWD,18,24,Gasoline,Automatic,3.7L V6 24V MPFI DOHC,2202
+2020,Cadillac,XT4 Premium Luxury,AWD,22,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2203
+2020,Audi,Q3 S line Premium Plus,AWD,19,27,Gasoline,Automatic,Intercooled Turbo Regular Unleaded I-4 2.0 L/121,2204
+2017,Subaru,Legacy 2.5i Limited,AWD,25,34,Gasoline,CVT,2.5L H4 16V MPFI DOHC,2205
+2021,Volkswagen,Tiguan 2.0T S,AWD,21,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2206
+2019,Kia,Forte LXS,FWD,30,40,Gasoline,CVT,2.0L I4 16V MPFI DOHC,2207
+2020,Subaru,Impreza Premium,AWD,28,36,Gasoline,CVT,2.0L H4 16V GDI DOHC,2208
+2021,Chevrolet,Suburban RST,4WD,15,19,Diesel,Automatic,3.0L I6 24V DDI DOHC Turbo Diesel,2209
+2018,Jeep,Renegade Altitude,4WD,24,31,Gasoline,Automatic,2.4L I4 16V MPFI SOHC,2210
+2020,Jeep,Cherokee Latitude Plus,FWD,22,31,Gasoline,Automatic,2.4L I4 16V MPFI SOHC,2211
+2021,Hyundai,Palisade Calligraphy,AWD,19,24,Gasoline,Automatic,3.8L V6 24V GDI DOHC,2212
+2019,Bmw,M850 i xDrive,AWD,17,26,Gasoline,Automatic,4.4L V8 32V GDI DOHC Twin Turbo,2213
+2018,Cadillac,XT5 Luxury,FWD,19,26,Gasoline,Automatic,Gas V6 3.6L/222.6,2214
+2017,Dodge,Durango GT,RWD,19,26,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2215
+2017,Porsche,911 Turbo S,AWD,19,24,Gasoline,Automatic,3.8L H6 24V GDI DOHC Twin Turbo,2216
+2020,Bmw,330 i,RWD,26,36,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2217
+2019,Bmw,330 i,RWD,26,36,Gasoline,Automatic,4 Cylinder Engine,2218
+2013,Chrysler,Town & Country Touring-L,FWD,17,25,Flex Fuel,Automatic,3.6L V6 24V MPFI DOHC Flexible Fuel,2219
+2021,Infiniti,QX80 PREMIUM SELECT,RWD,14,20,Gasoline,Automatic,5.6L V8 32V GDI DOHC,2220
+2020,Nissan,Rogue SL,FWD,26,33,Gasoline,Unknown,Regular Unleaded I-4 2.5 L/152,2221
+2019,Toyota,4Runner TRD Off Road,4WD,17,20,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,2222
+2018,Volkswagen,Passat 2.0T S,FWD,25,36,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2223
+2016,Kia,Soul Base,FWD,24,30,Gasoline,Automatic,1.6L I4 16V GDI DOHC,2224
+2018,Jeep,Wrangler JK Sport,4WD,17,21,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2225
+2020,Chevrolet,Suburban LT,RWD,15,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,2226
+2019,Mazda,CX-9 Touring,FWD,22,28,Gasoline,Automatic,2.5L I4 16V GDI DOHC Turbo,2227
+2020,Ram,1500 Limited,4WD,17,22,Gasoline,Automatic,Regular Unleaded V-8 5.7 L/345,2228
+2020,Chevrolet,Equinox 2LT,FWD,26,31,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,2229
+2019,Kia,Sorento LX,AWD,21,26,Gasoline,Automatic,4 Cylinder Engine,2230
+2020,Ford,Explorer XLT,RWD,21,28,Gasoline,Automatic,4 Cylinder Engine,2231
 2021,Tesla,Model 3 Standard Range Plus,RWD,150,133,â,Automatic,â,2232
 2019,Ford,Expedition Platinum,4WD,17,22,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,2233
 2020,Nissan,Rogue SV,FWD,26,33,Gasoline,CVT,2.5L I4 16V MPFI DOHC,2234
@@ -2322,15 +2322,15 @@ Year,Make,Model,Drivetrain,MinMPG,MaxMPG,FuelType,Transmission,Engine,ID_Vehicul
 2016,Nissan,Altima 2.5 S,FWD,27,39,Gasoline,CVT,2.5L I4 16V MPFI DOHC,2321
 2019,Acura,MDX 3.5L,AWD,19,26,Gasoline,Automatic,V6 Cylinder Engine,2322
 2016,Mercedes-Benz,GLE-Class GLE 350 4MATIC,AWD,17,22,Flex Fuel,Automatic,3.5L V6 24V GDI DOHC Flexible Fuel,2323
-2012,Acura,TL Technology,FWD,20,29,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,2324
-2018,Porsche,Macan,AWD,20,25,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2325
-2019,Porsche,718 Boxster Base,RWD,21,28,Gasoline,Automatic,2.0L H4 16V GDI DOHC Turbo,2326
-2022,Honda,Civic Sport,FWD,30,37,Gasoline,CVT,2.0L I4 16V GDI DOHC,2327
-2017,Buick,LaCrosse Premium,AWD,20,29,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2328
-2015,Chevrolet,Equinox 1LT,AWD,20,29,Gasoline,Automatic,2.4L I4 16V GDI DOHC,2329
-2014,Lexus,LS 460 Base,RWD,16,24,Gasoline,Automatic,4.6L V8 32V PDI DOHC,2330
-2021,Volkswagen,Atlas 3.6L SE w/Technology,AWD,16,22,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2331
-2019,Toyota,Camry XLE,FWD,28,39,Gasoline,Automatic,2.5L I4 16V PDI DOHC,2332
+2019,Toyota,Camry XLE,FWD,28,39,Gasoline,Automatic,2.5L I4 16V PDI DOHC,2324
+2012,Acura,TL Technology,FWD,20,29,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,2325
+2018,Porsche,Macan,AWD,20,25,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2326
+2019,Porsche,718 Boxster Base,RWD,21,28,Gasoline,Automatic,2.0L H4 16V GDI DOHC Turbo,2327
+2022,Honda,Civic Sport,FWD,30,37,Gasoline,CVT,2.0L I4 16V GDI DOHC,2328
+2017,Buick,LaCrosse Premium,AWD,20,29,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2329
+2015,Chevrolet,Equinox 1LT,AWD,20,29,Gasoline,Automatic,2.4L I4 16V GDI DOHC,2330
+2014,Lexus,LS 460 Base,RWD,16,24,Gasoline,Automatic,4.6L V8 32V PDI DOHC,2331
+2021,Volkswagen,Atlas 3.6L SE w/Technology,AWD,16,22,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2332
 2018,Lincoln,Navigator L Select,RWD,16,22,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,2333
 2019,Volkswagen,Atlas 3.6L S,AWD,17,23,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2334
 2013,Lexus,GS 350 Base,AWD,19,26,Gasoline,Automatic,3.5L V6 24V GDI DOHC,2335
@@ -2552,204 +2552,204 @@ Year,Make,Model,Drivetrain,MinMPG,MaxMPG,FuelType,Transmission,Engine,ID_Vehicul
 2018,Ford,Escape SE,4WD,22,28,Gasoline,Automatic,4 Cylinder Engine,2551
 2019,Jeep,Wrangler Sport,4WD,17,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2552
 2014,Porsche,Cayenne GTS,AWD,15,21,Gasoline,Automatic,4.8L V8 32V GDI DOHC,2553
-2018,Chevrolet,Malibu 1LS,FWD,27,36,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,2554
-2021,Honda,Passport Touring,AWD,19,24,Gasoline,Automatic,3.5L V6 24V GDI SOHC,2555
-2014,Ford,Escape S,FWD,22,31,Gasoline,Automatic,2.5L I4 16V MPFI DOHC,2556
-2016,Chevrolet,Corvette Stingray,RWD,17,29,Gasoline,Automatic,6.2L V8 16V GDI OHV,2557
-2019,Jeep,Wrangler Unlimited Sahara,4WD,18,23,Gasoline,Automatic,V6 Cylinder Engine,2558
-2018,Mercedes-Benz,E-Class E 400,RWD,20,26,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,2559
-2019,Audi,S4 3.0T Prestige,AWD,21,30,Gasoline,Automatic,3.0L V6 24V GDI DOHC Turbo,2560
-2019,Nissan,Rogue SV,AWD,25,32,Gasoline,CVT,2.5L I4 16V MPFI DOHC,2561
-2016,Honda,Accord EX-L,FWD,27,37,Gasoline,CVT,2.4L I4 16V GDI DOHC,2562
-2020,Gmc,Terrain SLT,AWD,25,28,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,2563
-2014,Honda,Odyssey Touring,FWD,19,28,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,2564
-2019,Mercedes-Benz,C-Class C 300,RWD,22,31,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2565
-2017,Jeep,Wrangler Sahara,4WD,17,21,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2566
-2019,Subaru,Ascent Premium 7-Passenger,AWD,21,27,Gasoline,CVT,2.4L H4 16V GDI DOHC Turbo,2567
-2020,Subaru,Forester Sport,AWD,26,33,Gasoline,CVT,2.5L H4 16V GDI DOHC,2568
-2019,Cadillac,XT5 Luxury AWD,AWD,18,25,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2569
-2020,Gmc,Sierra 1500 Elevation,RWD,20,23,Gasoline,Automatic,5.3L V8 16V GDI OHV,2570
-2019,Ford,Expedition Limited,RWD,17,24,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,2571
-2020,Bmw,M4 Base,RWD,17,25,Gasoline,Automatic,3.0L I6 24V GDI DOHC Twin Turbo,2572
-2021,Ford,F-150 XL,4WD,19,22,Gasoline,Automatic,5.0L V8 32V PDI DOHC,2573
-2018,Chevrolet,Equinox Premier,FWD,26,32,Gasoline,Automatic,Turbocharged Gas I4 1.5L/,2574
-2019,Dodge,Grand Caravan GT,FWD,17,25,â,Automatic,3.6L V6 24V MPFI DOHC,2575
-2020,Ram,1500 Laramie,4WD,19,22,Hybrid,Automatic,8 Cylinder Engine,2576
-2013,Land,Rover Range Rover Evoque Pure,4WD,20,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2577
-2021,Toyota,Camry XSE,FWD,27,38,Gasoline,Automatic,4 Cylinder Engine,2578
-2021,Bmw,X5 sDrive40i,RWD,21,26,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,2579
-2022,Kia,K5 GT-Line,FWD,27,37,Gasoline,Automatic,1.6L I4 16V GDI DOHC Turbo,2580
-2017,Honda,Civic EX-L,FWD,32,42,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,2581
-2019,Chevrolet,Traverse LT Cloth,FWD,18,27,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2582
-2016,Toyota,Highlander XLE,FWD,19,25,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,2583
-2020,Ford,Escape Titanium Hybrid,FWD,44,37,Hybrid,CVT,2.5L I4 16V MPFI DOHC Hybrid,2584
-2021,Nissan,Altima 2.5 S,FWD,28,39,Gasoline,CVT,2.5L I4 16V GDI DOHC,2585
-2021,Mercedes-Benz,GLB 250 Base,FWD,23,31,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2586
-2019,Honda,CR-V EX,AWD,27,33,Gasoline,Unknown,Intercooled Turbo Regular Unleaded I-4 1.5 L/91,2587
-2015,Lexus,LS 460,AWD,16,23,Gasoline,Automatic,4.6L V8 32V PDI DOHC,2588
-2015,Mercedes-Benz,S-Class S 550 4MATIC,AWD,16,26,Gasoline,Automatic,4.7L V8 32V GDI DOHC Twin Turbo,2589
-2021,Subaru,Forester Touring,AWD,26,33,Gasoline,CVT,2.5L H4 16V GDI DOHC,2590
-2017,Audi,Q7 3.0T Premium Plus,AWD,19,25,Gasoline,Automatic,Intercooled Supercharger Premium Unleaded V-6 3.0 L/183,2591
-2018,Volkswagen,Atlas 3.6L SE w/Technology,FWD,18,25,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2592
-2012,Jeep,Grand Cherokee Overland,4WD,16,23,Flex Fuel,Automatic,3.6L V6 24V MPFI DOHC Flexible Fuel,2593
-2010,Toyota,RAV4 Sport,4WD,21,27,Gasoline,Automatic,2.5L I4 16V MPFI DOHC,2594
-2013,Audi,A6 2.0T Premium Plus,AWD,20,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2595
-2008,Bmw,M6,RWD,11,17,Gasoline,Automatic,5.0L V10 40V MPFI DOHC,2596
-2016,Gmc,Yukon SLE,4WD,16,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,2597
-2013,Mercedes-Benz,S-Class S 550,RWD,15,25,Gasoline,Automatic,4.7L V8 32V GDI DOHC Twin Turbo,2598
-2021,Porsche,911,â,18,23,Gasoline,Automatic,3.0L H6 24V GDI DOHC Twin Turbo,2599
-2016,Dodge,Challenger R/T,RWD,15,23,Gasoline,Manual,5.7L V8 16V MPFI OHV,2600
-2016,Nissan,370Z Sport,RWD,19,26,Gasoline,Automatic,3.7L V6 24V MPFI DOHC,2601
-2018,Bmw,X6 xDrive35i,AWD,18,24,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,2602
-2020,Hyundai,Elantra Limited,FWD,30,40,Gasoline,CVT,2.0L I4 16V MPFI DOHC,2603
-2018,Chevrolet,Traverse LS,FWD,18,27,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2604
-2020,Mitsubishi,Outlander SEL,FWD,25,30,Gasoline,CVT,2.4L I4 16V MPFI SOHC,2605
-2020,Gmc,Sierra 1500 Denali,4WD,15,20,Gasoline,Automatic,Gas V8 6.2L/376,2606
-2020,Volkswagen,Passat 2.0T R-Line,FWD,23,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2607
-2014,Lexus,LS 460 Base,AWD,16,23,Gasoline,Automatic,4.6L V8 32V PDI DOHC,2608
-2015,Lincoln,Navigator Base,4WD,15,20,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,2609
-2013,Volvo,S60 T5 Premier,FWD,21,30,Gasoline,Automatic,2.5L I5 20V MPFI DOHC Turbo,2610
-2021,Kia,Telluride LX,AWD,19,24,Gasoline,Automatic,3.8L V6 24V GDI DOHC,2611
-2020,Subaru,Outback Touring,AWD,26,33,Gasoline,CVT,2.5L H4 16V GDI DOHC,2612
-2017,Chevrolet,Camaro 2SS,RWD,16,25,Gasoline,Manual,6.2L V8 16V GDI OHV,2613
-2019,Lincoln,Nautilus Reserve,FWD,21,26,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2614
-2020,Buick,Enclave Essence,AWD,17,25,Gasoline,Automatic,V6 Cylinder Engine,2615
-2020,Kia,Soul GT-Line 1.6L,FWD,27,32,Gasoline,Automatic,1.6L I4 16V GDI DOHC Turbo,2616
-2020,Hyundai,Santa Fe Limited 2.0T,AWD,20,26,Gasoline,Automatic,Intercooled Turbo Regular Unleaded I-4 2.0 L/122,2617
-2021,Mercedes-Benz,C-Class C 300,RWD,23,31,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2618
-2017,Bmw,X3 sDrive28i,RWD,21,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2619
-2019,Tesla,Model 3 Mid Range,RWD,128,117,Electric,Automatic,Electric,2620
-2018,Toyota,Highlander XLE,AWD,20,26,Gasoline,Automatic,3.5L V6 24V PDI DOHC,2621
-2018,Bmw,X5 xDrive50i,AWD,15,21,Gasoline,Automatic,8 Cylinder Engine,2622
-2021,Jeep,Grand Cherokee Laredo,4WD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2623
-2020,Toyota,4Runner SR5 Premium,4WD,16,19,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,2624
-2017,Honda,Accord Sport,FWD,26,34,Gasoline,CVT,2.4L I4 16V GDI DOHC,2625
-2019,Gmc,Sierra 1500 SLT,4WD,15,21,Gasoline,Automatic,5.3L V8 16V GDI OHV,2626
-2019,Hyundai,Kona EV Limited,FWD,132,108,Electric,Automatic,Electric,2627
-2019,Ram,1500 Limited,4WD,19,24,Gasoline,Automatic,5.7L V8 16V MPFI OHV,2628
-2015,Chevrolet,Captiva Sport 2LS,FWD,20,28,Flex Fuel,Automatic,2.4L I4 16V GDI DOHC Flexible Fuel,2629
-2016,Ford,Explorer Limited,FWD,17,24,Gasoline,Automatic,2.3L I4 16V GDI DOHC Turbo,2630
-2021,Dodge,Durango SXT,RWD,19,26,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2631
-2020,Chevrolet,Spark 1LT,FWD,30,38,Gasoline,CVT,1.4L I4 16V MPFI DOHC,2632
-2021,Ford,F-150 Platinum,4WD,16,22,Hybrid,Automatic,3.5L V6 24V PDI DOHC Twin Turbo Hybrid,2633
-2017,Jeep,Grand Cherokee Limited,4WD,18,0,Gasoline,Automatic,3.6L,2634
-2017,Ford,Expedition Limited,4WD,15,20,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,2635
-2017,Toyota,Tundra Limited,4WD,13,17,Flex Fuel,Automatic,5.7L V8 32V MPFI DOHC Flexible Fuel,2636
-2021,Kia,Telluride S,AWD,19,24,Gasoline,Automatic,3.8L V6 24V GDI DOHC,2637
-2016,Audi,Q5 3.0T Premium Plus,AWD,18,26,Gasoline,Automatic,3.0L V6 24V GDI DOHC Supercharged,2638
-2021,Chevrolet,Trailblazer ACTIV,AWD,26,30,Gasoline,Automatic,1.3L I3 12V GDI DOHC Turbo,2639
-2016,Chevrolet,Equinox LT,FWD,22,32,Gasoline,Automatic,4 Cylinder Engine,2640
-2018,Jeep,Wrangler JK Unlimited Sahara,4WD,16,21,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2641
-2020,Lincoln,Corsair Reserve,AWD,21,29,Gasoline,Automatic,2.3L I4 16V GDI DOHC Turbo,2642
-2022,Honda,Odyssey EX-L,FWD,19,28,Gasoline,Automatic,3.5L V6 24V GDI SOHC,2643
-2019,Audi,A4 2.0T Premium,FWD,27,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2644
-2020,Tesla,Model 3 Standard Range Plus,RWD,148,132,â,Automatic,NOT SPECIFIED NOT SPECIFIED,2645
-2015,Chevrolet,Silverado 1500 LT,4WD,17,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,2646
-2019,Nissan,Murano Platinum,FWD,20,28,Gasoline,CVT,3.5L V6 24V MPFI DOHC,2647
-2014,Hyundai,Elantra GT Base,FWD,24,33,Gasoline,Automatic,2.0L I4 16V GDI DOHC,2648
-2021,Dodge,Charger SRT8,RWD,15,24,Gasoline,Automatic,Premium Unleaded V-8 6.4 L/392,2649
-2018,Jeep,Compass Latitude,FWD,22,31,Gasoline,Automatic,2.4L I4 16V MPFI SOHC,2650
-2019,Lexus,ES 350 Premium,FWD,22,33,Gasoline,Automatic,Regular Unleaded V-6 3.5 L/211,2651
-2008,Kia,Sorento LX,4WD,15,22,Gasoline,Automatic,3.3L DOHC MPFI 24-valve V6 engine,2652
-2020,Toyota,Sienna XLE Premium,FWD,19,26,Gasoline,Automatic,3.5L V6 24V PDI DOHC,2653
-2020,Ford,Expedition Max Limited,4WD,16,21,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,2654
-2018,Land,Rover Range Rover Velar P250 HSE R-Dynamic,4WD,21,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2655
-2020,Land,Rover Discovery SE,4WD,16,21,Gasoline,Automatic,V6,2656
-2021,Chevrolet,Silverado 1500 Custom Trail Boss,4WD,15,20,Gasoline,Automatic,5.3L V8 16V GDI OHV,2657
-2016,Bmw,X5 xDrive50i,AWD,15,21,Gasoline,Automatic,4.4L V8 32V GDI DOHC Twin Turbo,2658
-2020,Toyota,Corolla LE,FWD,30,38,Gasoline,CVT,4 Cylinder Engine,2659
-2018,Gmc,Sierra 2500 Denali,4WD,0,0,Diesel,Automatic,8 Cylinder Engine,2660
-2017,Land,Rover Range Rover Evoque SE Premium,4WD,21,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2661
-2020,Subaru,WRX STI Base,AWD,16,22,Gasoline,Manual,2.5L H4 16V MPFI DOHC Turbo,2662
-2020,Kia,Sorento LX V6,FWD,19,26,Gasoline,Automatic,3.3L V6 24V GDI DOHC,2663
-2020,Subaru,Legacy Touring XT,AWD,24,32,Gasoline,CVT,2.4L H4 16V GDI DOHC Turbo,2664
-2019,Genesis,G90 3.3T Premium,RWD,17,24,Gasoline,Automatic,3.3L V6 24V GDI DOHC Twin Turbo,2665
-2015,Bmw,X3 xDrive28i,AWD,21,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2666
-2020,Ford,Fusion SE,FWD,23,34,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,2667
-2021,Toyota,Corolla LE,FWD,30,38,Gasoline,Unknown,Regular Unleaded I-4 1.8 L/110,2668
-2014,Lincoln,MKZ Base,FWD,22,33,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2669
-2020,Mazda,CX-30 Select,FWD,25,33,Gasoline,Automatic,2.5L I4 16V GDI DOHC,2670
-2017,Gmc,Acadia Denali,FWD,18,25,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2671
-2020,Dodge,Challenger R/T,RWD,15,23,Gasoline,Automatic,5.7L V8 16V MPFI OHV,2672
-2011,Bmw,550 i xDrive,AWD,16,24,Gasoline,Automatic,4.4L V8 32V GDI DOHC Twin Turbo,2673
-2013,Audi,A7 3.0T Prestige quattro,AWD,18,28,Gasoline,Automatic,3.0L V6 24V GDI DOHC Supercharged,2674
-2018,Porsche,718 Cayman S,RWD,20,26,Gasoline,Automatic,2.5L H4 16V GDI DOHC Turbo,2675
-2019,Honda,Accord LX,FWD,30,38,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,2676
-2009,Mercedes-Benz,SL-Class SL550 Roadster,RWD,13,21,Gasoline,Automatic,5.5L V8 32V MPFI DOHC,2677
-2017,Subaru,Forester 2.5i Limited,AWD,26,32,Gasoline,CVT,2.5L H4 16V MPFI DOHC,2678
-2017,Lincoln,MKC Select,AWD,19,25,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2679
-2019,Toyota,C-HR LE,FWD,27,31,Gasoline,CVT,2.0L I4 16V MPFI DOHC,2680
-2022,Volkswagen,Atlas Cross Sport 2.0T SE w/Technology,AWD,20,24,Gasoline,Automatic,2.0L,2681
-2020,Nissan,Altima 2.5 S,FWD,28,39,Gasoline,CVT,2.5L I4 16V GDI DOHC,2682
-2018,Chevrolet,Tahoe LS,RWD,16,23,Gasoline,Automatic,5.3L V8 16V GDI OHV,2683
-2020,Gmc,Yukon Denali,4WD,14,22,Gasoline,Automatic,6.2L V8 16V GDI OHV,2684
-2011,Nissan,Rogue S,FWD,22,28,Gasoline,CVT,2.5L I4 16V MPFI DOHC,2685
-2018,Hyundai,Elantra Value Edition,FWD,28,37,Gasoline,Automatic,2.0L I4 16V MPFI DOHC,2686
-2018,Toyota,Tundra SR5,4WD,13,17,Flex Fuel,Automatic,5.7L V8 32V MPFI DOHC Flexible Fuel,2687
-2017,Mercedes-Benz,E-Class E 300 Luxury,RWD,22,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2688
-2019,Chevrolet,Equinox Premier,AWD,22,28,Gasoline,Automatic,Turbocharged Gas I4 2.0L/122,2689
-2011,Chevrolet,Cruze LTZ,FWD,24,36,Gasoline,Automatic,1.4L I4 16V MPFI DOHC Turbo,2690
-2020,Tesla,Model 3 Performance,AWD,118,107,â,Automatic,â,2691
-2021,Toyota,4Runner SR5 4WD,4WD,16,19,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,2692
-2014,Mercedes-Benz,C-Class C 350 Sport,RWD,20,29,Flex Fuel,Automatic,3.5L V6 24V GDI DOHC Flexible Fuel,2693
-2020,Chevrolet,Equinox 2LT,AWD,25,30,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,2694
-2020,Chevrolet,Blazer 2LT,FWD,21,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2695
-2012,Ford,Escape Limited,4WD,20,27,Flex Fuel,Automatic,3.0L V6 24V MPFI DOHC Flexible Fuel,2696
-2020,Ford,Expedition Limited,4WD,17,22,Gasoline,Automatic,6 Cylinder,2697
-2021,Jeep,Grand Cherokee Limited,4WD,18,25,Gasoline,Automatic,V6 Cylinder Engine,2698
-2020,Porsche,Taycan Turbo S,AWD,67,68,Electric,Automatic,Electric,2699
-2021,Chevrolet,Silverado 1500 WT,RWD,16,21,Gasoline,Automatic,4.3L V6 12V GDI OHV,2700
-2019,Lincoln,Navigator L Reserve,4WD,0,0,Gasoline,Automatic,V6 Cylinder Engine,2701
-2019,Nissan,Rogue Sport SV,AWD,24,30,Gasoline,CVT,2.0L I4 16V GDI DOHC,2702
-2017,Land,Rover Range Rover 3.0L Supercharged HSE,4WD,17,23,Gasoline,Automatic,3.0L V6 24V GDI DOHC Supercharged,2703
-2021,Ford,Explorer XLT,RWD,21,28,Gasoline,Automatic,2.3L I4 16V GDI DOHC Turbo,2704
-2016,Ford,Edge Sport,AWD,17,24,Gasoline,Automatic,2.7L V6 24V GDI DOHC Twin Turbo,2705
-2021,Infiniti,Q50 3.0t LUXE,RWD,20,29,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,2706
-2020,Chevrolet,Tahoe LT,RWD,15,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,2707
-2018,Mercedes-Benz,E-Class E 300,RWD,22,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2708
-2019,Dodge,Charger SXT,RWD,19,30,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2709
-2020,Dodge,Challenger SRT Hellcat,RWD,13,21,Gasoline,Automatic,6.2L V8 16V MPFI OHV Supercharged,2710
-2009,Lexus,ES 350,FWD,19,27,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,2711
-2022,Hyundai,Sonata N Line Night Edition,FWD,23,33,Gasoline,Automatic,2.5L I4 16V PDI DOHC Turbo,2712
-2020,Chevrolet,Blazer 1LT,FWD,21,27,Gasoline,Automatic,4 Cylinder Engine,2713
-2020,Nissan,Altima 2.5 Platinum,AWD,25,35,Gasoline,CVT,2.5L I4 16V GDI DOHC,2714
-2016,Gmc,Yukon SLT,RWD,16,23,Gasoline,Automatic,5.3L V8 16V GDI OHV,2715
-2020,Toyota,RAV4 XLE,FWD,28,35,Gasoline,Automatic,4 Cylinder Engine,2716
-2014,Jeep,Grand Cherokee Overland,4WD,17,24,Flex Fuel,Automatic,3.6L V6 24V MPFI DOHC Flexible Fuel,2717
-2017,Ford,Explorer XLT,4WD,16,23,Flex Fuel,Automatic,3.5L V6 24V MPFI DOHC Flexible Fuel,2718
-2018,Audi,A4 2.0T Premium Plus,AWD,24,34,Gasoline,Automatic,2.0L I4,2719
-2021,Mazda,CX-5 Touring,FWD,25,31,Gasoline,Automatic,2.5L I4 16V,2720
-2013,Jeep,Wrangler Unlimited Sahara,4WD,16,21,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2721
-2020,Mazda,CX-5 Touring,AWD,24,30,Gasoline,Automatic,2.5L I4 16V GDI DOHC,2722
-2020,Porsche,Cayenne AWD,AWD,19,23,Gasoline,Automatic,3.0L V6 24V GDI DOHC Turbo,2723
-2021,Genesis,G70 2.0T,RWD,22,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2724
-2019,Buick,Enclave Essence,AWD,17,25,Gasoline,Automatic,V6 Cylinder Engine,2725
-2017,Porsche,Cayenne S,AWD,17,24,Gasoline,Automatic,3.6L V6 24V GDI DOHC Twin Turbo,2726
-2019,Mercedes-Benz,GLA 250 4MATIC,AWD,23,31,Flex Fuel,Automatic,2.0L I4 16V GDI DOHC Turbo Flexible Fuel,2727
-2019,Land,Rover Range Rover HSE,4WD,17,23,Gasoline,Automatic,V6,2728
-2017,Mercedes-Benz,C-Class C 300,RWD,23,31,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2729
-2019,Hyundai,Kona EV Ultimate,FWD,132,108,Electric,Automatic,Electric,2730
-2019,Dodge,Charger SXT,AWD,18,27,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2731
-2019,Lexus,GX 460 GX 460 Premium,4WD,15,18,Gasoline,Automatic,4.6L V8 32V MPFI DOHC,2732
-2013,Honda,Accord EX-L,FWD,27,36,Gasoline,CVT,2.4L I4 16V GDI DOHC,2733
-2020,Chevrolet,Silverado 1500 Custom,RWD,16,21,Gasoline,Automatic,4.3L V6 12V GDI OHV,2734
-2018,Ford,Expedition Platinum,RWD,17,24,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,2735
-2020,Chevrolet,Equinox 1LT,FWD,26,31,Gasoline,Automatic,4 Cylinder Engine,2736
-2021,Nissan,Kicks S,FWD,31,36,Gasoline,CVT,1.6L I4 16V MPFI DOHC,2737
-2014,Acura,MDX 3.5L Technology Package,AWD,18,27,Gasoline,Automatic,3.5L V6 24V GDI SOHC,2738
-2016,Ford,Escape Titanium,4WD,22,29,Gasoline,Automatic,1.6L I4 16V GDI DOHC Turbo,2739
-2021,Toyota,Tacoma TRD Off Road,4WD,18,22,Gasoline,Automatic,3.5L V6 24V PDI DOHC,2740
-2019,Lexus,NX 300 F-SPORT,FWD,22,28,Gasoline,Automatic,2.0L I4 16V PDI DOHC Turbo,2741
-2020,Nissan,Maxima 3.5 SV,FWD,20,30,Gasoline,CVT,3.5L V6 24V GDI DOHC,2742
-2019,Chevrolet,Traverse LS,FWD,18,27,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2743
-2020,Toyota,Camry Hybrid SE,FWD,44,47,Hybrid,CVT,2.5L I4 16V PDI DOHC Hybrid,2744
-2016,Toyota,Highlander Limited,AWD,18,24,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,2745
-2018,Mercedes-Benz,GLC 300 Base,RWD,22,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2746
-2015,Bmw,X5 xDrive35i,AWD,18,27,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,2747
-2020,Volvo,XC90 T6 Inscription 7 Passenger,AWD,18,26,Gasoline,Automatic,2.0L I4 16V GDI DOHC,2748
-2007,Honda,Fit Sport,FWD,33,38,Gasoline,Manual,1.5L I4 16V MPFI SOHC,2749
-2017,Mercedes-Benz,C-Class C 300,RWD,23,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2750
-2018,Lexus,RX 350 350,FWD,20,27,Gasoline,Automatic,3.5L V6 24V GDI DOHC,2751
+2018,Lexus,RX 350 350,FWD,20,27,Gasoline,Automatic,3.5L V6 24V GDI DOHC,2554
+2018,Chevrolet,Malibu 1LS,FWD,27,36,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,2555
+2021,Honda,Passport Touring,AWD,19,24,Gasoline,Automatic,3.5L V6 24V GDI SOHC,2556
+2014,Ford,Escape S,FWD,22,31,Gasoline,Automatic,2.5L I4 16V MPFI DOHC,2557
+2016,Chevrolet,Corvette Stingray,RWD,17,29,Gasoline,Automatic,6.2L V8 16V GDI OHV,2558
+2019,Jeep,Wrangler Unlimited Sahara,4WD,18,23,Gasoline,Automatic,V6 Cylinder Engine,2559
+2018,Mercedes-Benz,E-Class E 400,RWD,20,26,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,2560
+2019,Audi,S4 3.0T Prestige,AWD,21,30,Gasoline,Automatic,3.0L V6 24V GDI DOHC Turbo,2561
+2019,Nissan,Rogue SV,AWD,25,32,Gasoline,CVT,2.5L I4 16V MPFI DOHC,2562
+2016,Honda,Accord EX-L,FWD,27,37,Gasoline,CVT,2.4L I4 16V GDI DOHC,2563
+2020,Gmc,Terrain SLT,AWD,25,28,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,2564
+2014,Honda,Odyssey Touring,FWD,19,28,Gasoline,Automatic,3.5L V6 24V MPFI SOHC,2565
+2019,Mercedes-Benz,C-Class C 300,RWD,22,31,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2566
+2017,Jeep,Wrangler Sahara,4WD,17,21,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2567
+2019,Subaru,Ascent Premium 7-Passenger,AWD,21,27,Gasoline,CVT,2.4L H4 16V GDI DOHC Turbo,2568
+2020,Subaru,Forester Sport,AWD,26,33,Gasoline,CVT,2.5L H4 16V GDI DOHC,2569
+2019,Cadillac,XT5 Luxury AWD,AWD,18,25,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2570
+2020,Gmc,Sierra 1500 Elevation,RWD,20,23,Gasoline,Automatic,5.3L V8 16V GDI OHV,2571
+2019,Ford,Expedition Limited,RWD,17,24,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,2572
+2020,Bmw,M4 Base,RWD,17,25,Gasoline,Automatic,3.0L I6 24V GDI DOHC Twin Turbo,2573
+2021,Ford,F-150 XL,4WD,19,22,Gasoline,Automatic,5.0L V8 32V PDI DOHC,2574
+2018,Chevrolet,Equinox Premier,FWD,26,32,Gasoline,Automatic,Turbocharged Gas I4 1.5L/,2575
+2019,Dodge,Grand Caravan GT,FWD,17,25,â,Automatic,3.6L V6 24V MPFI DOHC,2576
+2020,Ram,1500 Laramie,4WD,19,22,Hybrid,Automatic,8 Cylinder Engine,2577
+2013,Land,Rover Range Rover Evoque Pure,4WD,20,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2578
+2021,Toyota,Camry XSE,FWD,27,38,Gasoline,Automatic,4 Cylinder Engine,2579
+2021,Bmw,X5 sDrive40i,RWD,21,26,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,2580
+2022,Kia,K5 GT-Line,FWD,27,37,Gasoline,Automatic,1.6L I4 16V GDI DOHC Turbo,2581
+2017,Honda,Civic EX-L,FWD,32,42,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,2582
+2019,Chevrolet,Traverse LT Cloth,FWD,18,27,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2583
+2016,Toyota,Highlander XLE,FWD,19,25,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,2584
+2020,Ford,Escape Titanium Hybrid,FWD,44,37,Hybrid,CVT,2.5L I4 16V MPFI DOHC Hybrid,2585
+2021,Nissan,Altima 2.5 S,FWD,28,39,Gasoline,CVT,2.5L I4 16V GDI DOHC,2586
+2021,Mercedes-Benz,GLB 250 Base,FWD,23,31,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2587
+2019,Honda,CR-V EX,AWD,27,33,Gasoline,Unknown,Intercooled Turbo Regular Unleaded I-4 1.5 L/91,2588
+2015,Lexus,LS 460,AWD,16,23,Gasoline,Automatic,4.6L V8 32V PDI DOHC,2589
+2015,Mercedes-Benz,S-Class S 550 4MATIC,AWD,16,26,Gasoline,Automatic,4.7L V8 32V GDI DOHC Twin Turbo,2590
+2021,Subaru,Forester Touring,AWD,26,33,Gasoline,CVT,2.5L H4 16V GDI DOHC,2591
+2017,Audi,Q7 3.0T Premium Plus,AWD,19,25,Gasoline,Automatic,Intercooled Supercharger Premium Unleaded V-6 3.0 L/183,2592
+2018,Volkswagen,Atlas 3.6L SE w/Technology,FWD,18,25,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2593
+2012,Jeep,Grand Cherokee Overland,4WD,16,23,Flex Fuel,Automatic,3.6L V6 24V MPFI DOHC Flexible Fuel,2594
+2010,Toyota,RAV4 Sport,4WD,21,27,Gasoline,Automatic,2.5L I4 16V MPFI DOHC,2595
+2013,Audi,A6 2.0T Premium Plus,AWD,20,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2596
+2008,Bmw,M6,RWD,11,17,Gasoline,Automatic,5.0L V10 40V MPFI DOHC,2597
+2016,Gmc,Yukon SLE,4WD,16,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,2598
+2013,Mercedes-Benz,S-Class S 550,RWD,15,25,Gasoline,Automatic,4.7L V8 32V GDI DOHC Twin Turbo,2599
+2021,Porsche,911,â,18,23,Gasoline,Automatic,3.0L H6 24V GDI DOHC Twin Turbo,2600
+2016,Dodge,Challenger R/T,RWD,15,23,Gasoline,Manual,5.7L V8 16V MPFI OHV,2601
+2016,Nissan,370Z Sport,RWD,19,26,Gasoline,Automatic,3.7L V6 24V MPFI DOHC,2602
+2018,Bmw,X6 xDrive35i,AWD,18,24,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,2603
+2020,Hyundai,Elantra Limited,FWD,30,40,Gasoline,CVT,2.0L I4 16V MPFI DOHC,2604
+2018,Chevrolet,Traverse LS,FWD,18,27,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2605
+2020,Mitsubishi,Outlander SEL,FWD,25,30,Gasoline,CVT,2.4L I4 16V MPFI SOHC,2606
+2020,Gmc,Sierra 1500 Denali,4WD,15,20,Gasoline,Automatic,Gas V8 6.2L/376,2607
+2020,Volkswagen,Passat 2.0T R-Line,FWD,23,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2608
+2014,Lexus,LS 460 Base,AWD,16,23,Gasoline,Automatic,4.6L V8 32V PDI DOHC,2609
+2015,Lincoln,Navigator Base,4WD,15,20,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,2610
+2013,Volvo,S60 T5 Premier,FWD,21,30,Gasoline,Automatic,2.5L I5 20V MPFI DOHC Turbo,2611
+2021,Kia,Telluride LX,AWD,19,24,Gasoline,Automatic,3.8L V6 24V GDI DOHC,2612
+2020,Subaru,Outback Touring,AWD,26,33,Gasoline,CVT,2.5L H4 16V GDI DOHC,2613
+2017,Chevrolet,Camaro 2SS,RWD,16,25,Gasoline,Manual,6.2L V8 16V GDI OHV,2614
+2019,Lincoln,Nautilus Reserve,FWD,21,26,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2615
+2020,Buick,Enclave Essence,AWD,17,25,Gasoline,Automatic,V6 Cylinder Engine,2616
+2020,Kia,Soul GT-Line 1.6L,FWD,27,32,Gasoline,Automatic,1.6L I4 16V GDI DOHC Turbo,2617
+2020,Hyundai,Santa Fe Limited 2.0T,AWD,20,26,Gasoline,Automatic,Intercooled Turbo Regular Unleaded I-4 2.0 L/122,2618
+2021,Mercedes-Benz,C-Class C 300,RWD,23,31,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2619
+2017,Bmw,X3 sDrive28i,RWD,21,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2620
+2019,Tesla,Model 3 Mid Range,RWD,128,117,Electric,Automatic,Electric,2621
+2018,Toyota,Highlander XLE,AWD,20,26,Gasoline,Automatic,3.5L V6 24V PDI DOHC,2622
+2018,Bmw,X5 xDrive50i,AWD,15,21,Gasoline,Automatic,8 Cylinder Engine,2623
+2021,Jeep,Grand Cherokee Laredo,4WD,18,25,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2624
+2020,Toyota,4Runner SR5 Premium,4WD,16,19,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,2625
+2017,Honda,Accord Sport,FWD,26,34,Gasoline,CVT,2.4L I4 16V GDI DOHC,2626
+2019,Gmc,Sierra 1500 SLT,4WD,15,21,Gasoline,Automatic,5.3L V8 16V GDI OHV,2627
+2019,Hyundai,Kona EV Limited,FWD,132,108,Electric,Automatic,Electric,2628
+2019,Ram,1500 Limited,4WD,19,24,Gasoline,Automatic,5.7L V8 16V MPFI OHV,2629
+2015,Chevrolet,Captiva Sport 2LS,FWD,20,28,Flex Fuel,Automatic,2.4L I4 16V GDI DOHC Flexible Fuel,2630
+2016,Ford,Explorer Limited,FWD,17,24,Gasoline,Automatic,2.3L I4 16V GDI DOHC Turbo,2631
+2021,Dodge,Durango SXT,RWD,19,26,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2632
+2020,Chevrolet,Spark 1LT,FWD,30,38,Gasoline,CVT,1.4L I4 16V MPFI DOHC,2633
+2021,Ford,F-150 Platinum,4WD,16,22,Hybrid,Automatic,3.5L V6 24V PDI DOHC Twin Turbo Hybrid,2634
+2017,Jeep,Grand Cherokee Limited,4WD,18,0,Gasoline,Automatic,3.6L,2635
+2017,Ford,Expedition Limited,4WD,15,20,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,2636
+2017,Toyota,Tundra Limited,4WD,13,17,Flex Fuel,Automatic,5.7L V8 32V MPFI DOHC Flexible Fuel,2637
+2021,Kia,Telluride S,AWD,19,24,Gasoline,Automatic,3.8L V6 24V GDI DOHC,2638
+2016,Audi,Q5 3.0T Premium Plus,AWD,18,26,Gasoline,Automatic,3.0L V6 24V GDI DOHC Supercharged,2639
+2021,Chevrolet,Trailblazer ACTIV,AWD,26,30,Gasoline,Automatic,1.3L I3 12V GDI DOHC Turbo,2640
+2016,Chevrolet,Equinox LT,FWD,22,32,Gasoline,Automatic,4 Cylinder Engine,2641
+2018,Jeep,Wrangler JK Unlimited Sahara,4WD,16,21,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2642
+2020,Lincoln,Corsair Reserve,AWD,21,29,Gasoline,Automatic,2.3L I4 16V GDI DOHC Turbo,2643
+2022,Honda,Odyssey EX-L,FWD,19,28,Gasoline,Automatic,3.5L V6 24V GDI SOHC,2644
+2019,Audi,A4 2.0T Premium,FWD,27,34,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2645
+2020,Tesla,Model 3 Standard Range Plus,RWD,148,132,â,Automatic,NOT SPECIFIED NOT SPECIFIED,2646
+2015,Chevrolet,Silverado 1500 LT,4WD,17,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,2647
+2019,Nissan,Murano Platinum,FWD,20,28,Gasoline,CVT,3.5L V6 24V MPFI DOHC,2648
+2014,Hyundai,Elantra GT Base,FWD,24,33,Gasoline,Automatic,2.0L I4 16V GDI DOHC,2649
+2021,Dodge,Charger SRT8,RWD,15,24,Gasoline,Automatic,Premium Unleaded V-8 6.4 L/392,2650
+2018,Jeep,Compass Latitude,FWD,22,31,Gasoline,Automatic,2.4L I4 16V MPFI SOHC,2651
+2019,Lexus,ES 350 Premium,FWD,22,33,Gasoline,Automatic,Regular Unleaded V-6 3.5 L/211,2652
+2008,Kia,Sorento LX,4WD,15,22,Gasoline,Automatic,3.3L DOHC MPFI 24-valve V6 engine,2653
+2020,Toyota,Sienna XLE Premium,FWD,19,26,Gasoline,Automatic,3.5L V6 24V PDI DOHC,2654
+2020,Ford,Expedition Max Limited,4WD,16,21,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,2655
+2018,Land,Rover Range Rover Velar P250 HSE R-Dynamic,4WD,21,27,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2656
+2020,Land,Rover Discovery SE,4WD,16,21,Gasoline,Automatic,V6,2657
+2021,Chevrolet,Silverado 1500 Custom Trail Boss,4WD,15,20,Gasoline,Automatic,5.3L V8 16V GDI OHV,2658
+2016,Bmw,X5 xDrive50i,AWD,15,21,Gasoline,Automatic,4.4L V8 32V GDI DOHC Twin Turbo,2659
+2020,Toyota,Corolla LE,FWD,30,38,Gasoline,CVT,4 Cylinder Engine,2660
+2018,Gmc,Sierra 2500 Denali,4WD,0,0,Diesel,Automatic,8 Cylinder Engine,2661
+2017,Land,Rover Range Rover Evoque SE Premium,4WD,21,29,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2662
+2020,Subaru,WRX STI Base,AWD,16,22,Gasoline,Manual,2.5L H4 16V MPFI DOHC Turbo,2663
+2020,Kia,Sorento LX V6,FWD,19,26,Gasoline,Automatic,3.3L V6 24V GDI DOHC,2664
+2020,Subaru,Legacy Touring XT,AWD,24,32,Gasoline,CVT,2.4L H4 16V GDI DOHC Turbo,2665
+2019,Genesis,G90 3.3T Premium,RWD,17,24,Gasoline,Automatic,3.3L V6 24V GDI DOHC Twin Turbo,2666
+2015,Bmw,X3 xDrive28i,AWD,21,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2667
+2020,Ford,Fusion SE,FWD,23,34,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,2668
+2021,Toyota,Corolla LE,FWD,30,38,Gasoline,Unknown,Regular Unleaded I-4 1.8 L/110,2669
+2014,Lincoln,MKZ Base,FWD,22,33,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2670
+2020,Mazda,CX-30 Select,FWD,25,33,Gasoline,Automatic,2.5L I4 16V GDI DOHC,2671
+2017,Gmc,Acadia Denali,FWD,18,25,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2672
+2020,Dodge,Challenger R/T,RWD,15,23,Gasoline,Automatic,5.7L V8 16V MPFI OHV,2673
+2011,Bmw,550 i xDrive,AWD,16,24,Gasoline,Automatic,4.4L V8 32V GDI DOHC Twin Turbo,2674
+2013,Audi,A7 3.0T Prestige quattro,AWD,18,28,Gasoline,Automatic,3.0L V6 24V GDI DOHC Supercharged,2675
+2018,Porsche,718 Cayman S,RWD,20,26,Gasoline,Automatic,2.5L H4 16V GDI DOHC Turbo,2676
+2019,Honda,Accord LX,FWD,30,38,Gasoline,CVT,1.5L I4 16V GDI DOHC Turbo,2677
+2009,Mercedes-Benz,SL-Class SL550 Roadster,RWD,13,21,Gasoline,Automatic,5.5L V8 32V MPFI DOHC,2678
+2017,Subaru,Forester 2.5i Limited,AWD,26,32,Gasoline,CVT,2.5L H4 16V MPFI DOHC,2679
+2017,Lincoln,MKC Select,AWD,19,25,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2680
+2019,Toyota,C-HR LE,FWD,27,31,Gasoline,CVT,2.0L I4 16V MPFI DOHC,2681
+2022,Volkswagen,Atlas Cross Sport 2.0T SE w/Technology,AWD,20,24,Gasoline,Automatic,2.0L,2682
+2020,Nissan,Altima 2.5 S,FWD,28,39,Gasoline,CVT,2.5L I4 16V GDI DOHC,2683
+2018,Chevrolet,Tahoe LS,RWD,16,23,Gasoline,Automatic,5.3L V8 16V GDI OHV,2684
+2020,Gmc,Yukon Denali,4WD,14,22,Gasoline,Automatic,6.2L V8 16V GDI OHV,2685
+2011,Nissan,Rogue S,FWD,22,28,Gasoline,CVT,2.5L I4 16V MPFI DOHC,2686
+2018,Hyundai,Elantra Value Edition,FWD,28,37,Gasoline,Automatic,2.0L I4 16V MPFI DOHC,2687
+2018,Toyota,Tundra SR5,4WD,13,17,Flex Fuel,Automatic,5.7L V8 32V MPFI DOHC Flexible Fuel,2688
+2017,Mercedes-Benz,E-Class E 300 Luxury,RWD,22,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2689
+2019,Chevrolet,Equinox Premier,AWD,22,28,Gasoline,Automatic,Turbocharged Gas I4 2.0L/122,2690
+2011,Chevrolet,Cruze LTZ,FWD,24,36,Gasoline,Automatic,1.4L I4 16V MPFI DOHC Turbo,2691
+2020,Tesla,Model 3 Performance,AWD,118,107,â,Automatic,â,2692
+2021,Toyota,4Runner SR5 4WD,4WD,16,19,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,2693
+2014,Mercedes-Benz,C-Class C 350 Sport,RWD,20,29,Flex Fuel,Automatic,3.5L V6 24V GDI DOHC Flexible Fuel,2694
+2020,Chevrolet,Equinox 2LT,AWD,25,30,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,2695
+2020,Chevrolet,Blazer 2LT,FWD,21,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2696
+2012,Ford,Escape Limited,4WD,20,27,Flex Fuel,Automatic,3.0L V6 24V MPFI DOHC Flexible Fuel,2697
+2020,Ford,Expedition Limited,4WD,17,22,Gasoline,Automatic,6 Cylinder,2698
+2021,Jeep,Grand Cherokee Limited,4WD,18,25,Gasoline,Automatic,V6 Cylinder Engine,2699
+2020,Porsche,Taycan Turbo S,AWD,67,68,Electric,Automatic,Electric,2700
+2021,Chevrolet,Silverado 1500 WT,RWD,16,21,Gasoline,Automatic,4.3L V6 12V GDI OHV,2701
+2019,Lincoln,Navigator L Reserve,4WD,0,0,Gasoline,Automatic,V6 Cylinder Engine,2702
+2019,Nissan,Rogue Sport SV,AWD,24,30,Gasoline,CVT,2.0L I4 16V GDI DOHC,2703
+2017,Land,Rover Range Rover 3.0L Supercharged HSE,4WD,17,23,Gasoline,Automatic,3.0L V6 24V GDI DOHC Supercharged,2704
+2021,Ford,Explorer XLT,RWD,21,28,Gasoline,Automatic,2.3L I4 16V GDI DOHC Turbo,2705
+2016,Ford,Edge Sport,AWD,17,24,Gasoline,Automatic,2.7L V6 24V GDI DOHC Twin Turbo,2706
+2021,Infiniti,Q50 3.0t LUXE,RWD,20,29,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,2707
+2020,Chevrolet,Tahoe LT,RWD,15,22,Gasoline,Automatic,5.3L V8 16V GDI OHV,2708
+2018,Mercedes-Benz,E-Class E 300,RWD,22,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2709
+2019,Dodge,Charger SXT,RWD,19,30,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2710
+2020,Dodge,Challenger SRT Hellcat,RWD,13,21,Gasoline,Automatic,6.2L V8 16V MPFI OHV Supercharged,2711
+2009,Lexus,ES 350,FWD,19,27,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,2712
+2022,Hyundai,Sonata N Line Night Edition,FWD,23,33,Gasoline,Automatic,2.5L I4 16V PDI DOHC Turbo,2713
+2020,Chevrolet,Blazer 1LT,FWD,21,27,Gasoline,Automatic,4 Cylinder Engine,2714
+2020,Nissan,Altima 2.5 Platinum,AWD,25,35,Gasoline,CVT,2.5L I4 16V GDI DOHC,2715
+2016,Gmc,Yukon SLT,RWD,16,23,Gasoline,Automatic,5.3L V8 16V GDI OHV,2716
+2020,Toyota,RAV4 XLE,FWD,28,35,Gasoline,Automatic,4 Cylinder Engine,2717
+2014,Jeep,Grand Cherokee Overland,4WD,17,24,Flex Fuel,Automatic,3.6L V6 24V MPFI DOHC Flexible Fuel,2718
+2017,Ford,Explorer XLT,4WD,16,23,Flex Fuel,Automatic,3.5L V6 24V MPFI DOHC Flexible Fuel,2719
+2018,Audi,A4 2.0T Premium Plus,AWD,24,34,Gasoline,Automatic,2.0L I4,2720
+2021,Mazda,CX-5 Touring,FWD,25,31,Gasoline,Automatic,2.5L I4 16V,2721
+2013,Jeep,Wrangler Unlimited Sahara,4WD,16,21,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2722
+2020,Mazda,CX-5 Touring,AWD,24,30,Gasoline,Automatic,2.5L I4 16V GDI DOHC,2723
+2020,Porsche,Cayenne AWD,AWD,19,23,Gasoline,Automatic,3.0L V6 24V GDI DOHC Turbo,2724
+2021,Genesis,G70 2.0T,RWD,22,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2725
+2019,Buick,Enclave Essence,AWD,17,25,Gasoline,Automatic,V6 Cylinder Engine,2726
+2017,Porsche,Cayenne S,AWD,17,24,Gasoline,Automatic,3.6L V6 24V GDI DOHC Twin Turbo,2727
+2019,Mercedes-Benz,GLA 250 4MATIC,AWD,23,31,Flex Fuel,Automatic,2.0L I4 16V GDI DOHC Turbo Flexible Fuel,2728
+2019,Land,Rover Range Rover HSE,4WD,17,23,Gasoline,Automatic,V6,2729
+2017,Mercedes-Benz,C-Class C 300,RWD,23,31,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2730
+2019,Hyundai,Kona EV Ultimate,FWD,132,108,Electric,Automatic,Electric,2731
+2019,Dodge,Charger SXT,AWD,18,27,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,2732
+2019,Lexus,GX 460 GX 460 Premium,4WD,15,18,Gasoline,Automatic,4.6L V8 32V MPFI DOHC,2733
+2013,Honda,Accord EX-L,FWD,27,36,Gasoline,CVT,2.4L I4 16V GDI DOHC,2734
+2020,Chevrolet,Silverado 1500 Custom,RWD,16,21,Gasoline,Automatic,4.3L V6 12V GDI OHV,2735
+2018,Ford,Expedition Platinum,RWD,17,24,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,2736
+2020,Chevrolet,Equinox 1LT,FWD,26,31,Gasoline,Automatic,4 Cylinder Engine,2737
+2021,Nissan,Kicks S,FWD,31,36,Gasoline,CVT,1.6L I4 16V MPFI DOHC,2738
+2014,Acura,MDX 3.5L Technology Package,AWD,18,27,Gasoline,Automatic,3.5L V6 24V GDI SOHC,2739
+2016,Ford,Escape Titanium,4WD,22,29,Gasoline,Automatic,1.6L I4 16V GDI DOHC Turbo,2740
+2021,Toyota,Tacoma TRD Off Road,4WD,18,22,Gasoline,Automatic,3.5L V6 24V PDI DOHC,2741
+2019,Lexus,NX 300 F-SPORT,FWD,22,28,Gasoline,Automatic,2.0L I4 16V PDI DOHC Turbo,2742
+2020,Nissan,Maxima 3.5 SV,FWD,20,30,Gasoline,CVT,3.5L V6 24V GDI DOHC,2743
+2019,Chevrolet,Traverse LS,FWD,18,27,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2744
+2020,Toyota,Camry Hybrid SE,FWD,44,47,Hybrid,CVT,2.5L I4 16V PDI DOHC Hybrid,2745
+2016,Toyota,Highlander Limited,AWD,18,24,Gasoline,Automatic,3.5L V6 24V MPFI DOHC,2746
+2018,Mercedes-Benz,GLC 300 Base,RWD,22,28,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2747
+2015,Bmw,X5 xDrive35i,AWD,18,27,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,2748
+2020,Volvo,XC90 T6 Inscription 7 Passenger,AWD,18,26,Gasoline,Automatic,2.0L I4 16V GDI DOHC,2749
+2007,Honda,Fit Sport,FWD,33,38,Gasoline,Manual,1.5L I4 16V MPFI SOHC,2750
+2017,Mercedes-Benz,C-Class C 300,RWD,23,30,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2751
 2018,Nissan,Altima 2.5 S,FWD,27,38,Gasoline,CVT,2.5L I4 16V MPFI DOHC,2752
 2019,Kia,Sorento SX,AWD,19,24,Gasoline,Automatic,3.3L V6 24V GDI DOHC,2753
 2016,Honda,HR-V EX,AWD,27,32,Gasoline,CVT,1.8L I4 16V MPFI SOHC,2754
