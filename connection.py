@@ -5,7 +5,7 @@ import os
 
 load_dotenv()
 
-localhost = os.getenv('DB_HOST')
+localhost = os.getenv('LOCALHOST')
 port = os.getenv('PORT')
 nameDB = os.getenv('DB_NAME')
 userDB = os.getenv('DB_USER')
