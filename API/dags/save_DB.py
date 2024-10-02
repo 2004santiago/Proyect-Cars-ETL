@@ -12,7 +12,7 @@ def save_data():
     try:
         
         # Definir la ruta de los CSVs (ajusta según tu sistema)
-        csv_directory = 'Data/Tablas de hechos'  # Ruta de la carpeta con los CSVs
+        csv_directory = 'Data/Fact tables'  # Ruta de la carpeta con los CSVs
         
         # Leer los archivos CSV desde la ruta
         dimension_vehiculo = pd.read_csv(os.path.join(csv_directory, 'dimension_vehiculo.csv'))

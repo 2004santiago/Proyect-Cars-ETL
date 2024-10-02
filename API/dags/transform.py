@@ -159,7 +159,7 @@ def process_data(**kwargs):
         dimension_vehiculo.to_csv(os.path.join(output_dir, 'dimension_vehiculo.csv'), index=False)
         dimension_vendedor.to_csv(os.path.join(output_dir, 'dimension_vendedor.csv'), index=False)
         dimension_ratings.to_csv(os.path.join(output_dir, 'dimension_ratings.csv'), index=False)
-        tabla_hechos.to_csv(os.path.join(output_dir, 'tabla_hechos.csv'), index=False)
+        tabla_hechos.to_csv(os.path.join(output_dir, 'fact_table.csv'), index=False)
         logging.info("CSV files saved successfully.")
 
         return {
