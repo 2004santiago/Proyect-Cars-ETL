@@ -4,6 +4,7 @@ import os
 import json
 from dotenv import load_dotenv
 from sqlalchemy import create_engine, inspect
+import shutil
 
 logging.basicConfig(level=logging.INFO)
 
@@ -11,10 +12,8 @@ logging.basicConfig(level=logging.INFO)
 def save_data():
     try:
         
-        # Definir la ruta de los CSVs (ajusta según tu sistema)
-        csv_directory = 'Data/Fact tables'  # Ruta de la carpeta con los CSVs
+        csv_directory = 'Data/Fact tables'  
         
-        # Leer los archivos CSV desde la ruta
         dimension_vehiculo = pd.read_csv(os.path.join(csv_directory, 'dimension_vehiculo.csv'))
         dimension_vendedor = pd.read_csv(os.path.join(csv_directory, 'dimension_vendedor.csv'))
         dimension_ratings = pd.read_csv(os.path.join(csv_directory, 'dimension_ratings.csv'))
@@ -22,21 +21,17 @@ def save_data():
         
         logging.info("Data loaded successfully from CSV files.")
         
-        # Cargar las variables de entorno para la conexión a la base de datos
         load_dotenv()
 
-        # Extraer los detalles de la base de datos desde las variables de entorno
         localhost = os.getenv('LOCALHOST')
         port = os.getenv('PORT')
         nameDB = os.getenv('DB_NAME')
         userDB = os.getenv('DB_USER')
         passDB = os.getenv('DB_PASS')
 
-        # Crear la conexión con la base de datos
         engine = create_engine(f'postgresql+psycopg2://{userDB}:{passDB}@{localhost}:{port}/{nameDB}')
         logging.info("Connected to the database successfully.")
 
-        # Guardar las dimensiones y la tabla de hechos en diferentes tablas en la base de datos
         dimension_vehiculo.to_sql('dimension_vehiculo', con=engine, if_exists='replace', index=False)
         logging.info("Dimension Vehiculo saved to table 'dimension_vehiculo' successfully.")
         
@@ -48,6 +43,9 @@ def save_data():
         
         fact_table.to_sql('fact_table', con=engine, if_exists='replace', index=False)
         logging.info("Fact Table saved to table 'fact_table' successfully.")
+        
+        shutil.rmtree(csv_directory)
+        logging.info(f"Deleted directory: {csv_directory}")
         
     except Exception as e:
         logging.error(f"Error saving data to the database: {str(e)}")

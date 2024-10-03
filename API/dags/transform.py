@@ -154,7 +154,9 @@ def process_data(**kwargs):
                                      'Mileage', 'ExteriorColor', 'InteriorColor', 'Used', 'VIN', 'Stock#']]
         logging.info("Fact Table created")
         
-        output_dir = './Data/Tablas de hechos'
+        output_dir = './Data/Fact tables'
+        os.makedirs(output_dir, exist_ok=True)
+        logging.info(f"Directory '{output_dir}' created or already exists.")
         
         dimension_vehiculo.to_csv(os.path.join(output_dir, 'dimension_vehiculo.csv'), index=False)
         dimension_vendedor.to_csv(os.path.join(output_dir, 'dimension_vendedor.csv'), index=False)
