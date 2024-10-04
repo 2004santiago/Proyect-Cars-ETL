@@ -1,0 +1,307 @@
+process,process-name,series-description,details_ID
+PTE,Retail Sales,Gulf Coast All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),1
+PTE,Retail Sales,East Coast No 2 Diesel Retail Prices (Dollars per Gallon),2
+PTE,Retail Sales,West Coast (PADD 5) Except California No 2 Diesel Retail Prices (Dollars per Gallon),3
+PTE,Retail Sales,Rocky Mountain Regular Conventional Retail Gasoline Prices (Dollars per Gallon),4
+PTE,Retail Sales,New England (PADD 1A) Regular Conventional Retail Gasoline Prices (Dollars per Gallon),5
+PTE,Retail Sales,"Chicago, IL Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",6
+PTE,Retail Sales,West Coast Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),7
+PTE,Retail Sales,"Los Angeles, CA Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",8
+PTE,Retail Sales,Central Atlantic (PADD 1B) Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),9
+PTE,Retail Sales,Florida Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),10
+PTE,Retail Sales,Minnesota Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),11
+PTE,Retail Sales,New England (PADD 1A) Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),12
+PTE,Retail Sales,Rocky Mountain Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),13
+PTE,Retail Sales,Massachusetts Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),14
+PTE,Retail Sales,U.S. Premium Conventional Retail Gasoline Prices (Dollars per Gallon),15
+PTE,Retail Sales,Ohio Premium Conventional Retail Gasoline Prices (Dollars per Gallon),16
+PTE,Retail Sales,"San Francisco, CA Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",17
+PTE,Retail Sales,East Coast Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),18
+PTE,Retail Sales,"Boston, MA Premium All Formulations Retail Gasoline Prices (Dollars per Gallon)",19
+PTE,Retail Sales,"Seattle, WA Premium All Formulations Retail Gasoline Prices (Dollars per Gallon)",20
+PTE,Retail Sales,"Miami, FL Premium All Formulations Retail Gasoline Prices (Dollars per Gallon)",21
+PTE,Retail Sales,Ohio Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),22
+PTE,Retail Sales,U.S. Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),23
+PTE,Retail Sales,Texas Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),24
+PTE,Retail Sales,Gulf Coast Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),25
+PTE,Retail Sales,"Seattle, WA Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon)",26
+PTE,Retail Sales,Lower Atlantic (PADD 1C) Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),27
+PTE,Retail Sales,New York Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),28
+PTE,Retail Sales,Massachusetts Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),29
+PTE,Retail Sales,"Los Angeles, CA All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon)",30
+PTE,Retail Sales,"San Francisco, CA All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon)",31
+PTE,Retail Sales,Lower Atlantic (PADD 1C) All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),32
+PTE,Retail Sales,Minnesota All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),33
+PTE,Retail Sales,West Coast (PADD 5) Except California All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),34
+PTE,Retail Sales,New England (PADD 1A) All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),35
+PTE,Retail Sales,Lower Atlantic (PADD 1C) Regular Conventional Retail Gasoline Prices (Dollars per Gallon),36
+PTE,Retail Sales,"Seattle, WA Regular Conventional Retail Gasoline Prices (Dollars per Gallon)",37
+PTE,Retail Sales,Gulf Coast Regular Conventional Retail Gasoline Prices (Dollars per Gallon),38
+PTE,Retail Sales,"Denver, CO Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",39
+PTE,Retail Sales,California Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),40
+PTE,Retail Sales,Gulf Coast Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),41
+PTE,Retail Sales,U.S. Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),42
+PTE,Retail Sales,San Francisco Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),43
+PTE,Retail Sales,"Miami, FL Premium Conventional Retail Gasoline Prices (Dollars per Gallon)",44
+PTE,Retail Sales,Colorado Premium Conventional Retail Gasoline Prices (Dollars per Gallon),45
+PTE,Retail Sales,U.S. Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),46
+PTE,Retail Sales,New York City Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),47
+PTE,Retail Sales,California Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),48
+PTE,Retail Sales,Gulf Coast Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),49
+PTE,Retail Sales,West Coast Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),50
+PTE,Retail Sales,"Miami, FL Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon)",51
+PTE,Retail Sales,West Coast (PADD 5) Except California Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),52
+PTE,Retail Sales,Midwest Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),53
+PTE,Retail Sales,Rocky Mountain Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),54
+PTE,Retail Sales,West Coast Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),55
+PTE,Retail Sales,"Houston, TX Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",56
+PTE,Retail Sales,Chicago Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),57
+PTE,Retail Sales,New England (PADD 1A) Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),58
+PTE,Retail Sales,Gulf Coast Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),59
+PTE,Retail Sales,Rocky Mountain Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),60
+PTE,Retail Sales,Ohio All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),61
+PTE,Retail Sales,Minnesota All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),62
+PTE,Retail Sales,Central Atlantic (PADD 1B) All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),63
+PTE,Retail Sales,"Miami, FL All Grades Conventional Retail Gasoline Prices (Dollars per Gallon)",64
+PTE,Retail Sales,Midwest All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),65
+PTE,Retail Sales,"Chicago, IL All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon)",66
+PTE,Retail Sales,Texas All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),67
+PTE,Retail Sales,Gulf Coast All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),68
+PTE,Retail Sales,San Francisco All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),69
+PTE,Retail Sales,Midwest All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),70
+PTE,Retail Sales,Central Atlantic (PADD 1B) All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),71
+PTE,Retail Sales,Rocky Mountain No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),72
+PTE,Retail Sales,West Coast No 2 Diesel Retail Prices (Dollars per Gallon),73
+PTE,Retail Sales,New York Regular Conventional Retail Gasoline Prices (Dollars per Gallon),74
+PTE,Retail Sales,Florida Regular Conventional Retail Gasoline Prices (Dollars per Gallon),75
+PTE,Retail Sales,Ohio Regular Conventional Retail Gasoline Prices (Dollars per Gallon),76
+PTE,Retail Sales,East Coast Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),77
+PTE,Retail Sales,"Houston, TX Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",78
+PTE,Retail Sales,Midwest Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),79
+PTE,Retail Sales,Midwest Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),80
+PTE,Retail Sales,"Boston, MA Regular All Formulations Retail Gasoline Prices (Dollars per Gallon)",81
+PTE,Retail Sales,Minnesota Premium Conventional Retail Gasoline Prices (Dollars per Gallon),82
+PTE,Retail Sales,Texas Premium Conventional Retail Gasoline Prices (Dollars per Gallon),83
+PTE,Retail Sales,Washington Premium Conventional Retail Gasoline Prices (Dollars per Gallon),84
+PTE,Retail Sales,"Cleveland, OH Premium Conventional Retail Gasoline Prices (Dollars per Gallon)",85
+PTE,Retail Sales,Rocky Mountain Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),86
+PTE,Retail Sales,West Coast (PADD 5) Except California Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),87
+PTE,Retail Sales,Lower Atlantic (PADD 1C) Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),88
+PTE,Retail Sales,West Coast Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),89
+PTE,Retail Sales,Chicago Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),90
+PTE,Retail Sales,Minnesota Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),91
+PTE,Retail Sales,West Coast Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),92
+PTE,Retail Sales,Rocky Mountain Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),93
+PTE,Retail Sales,Minnesota Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),94
+PTE,Retail Sales,Washington Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),95
+PTE,Retail Sales,"Cleveland, OH Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon)",96
+PTE,Retail Sales,U.S. Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),97
+PTE,Retail Sales,"Los Angeles, CA Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",98
+PTE,Retail Sales,New England (PADD 1A) Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),99
+PTE,Retail Sales,California Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),100
+PTE,Retail Sales,West Coast (PADD 5) Except California Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),101
+PTE,Retail Sales,Central Atlantic (PADD 1B) Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),102
+PTE,Retail Sales,Denver Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),103
+PTE,Retail Sales,California Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),104
+PTE,Retail Sales,"Boston, MA Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon)",105
+PTE,Retail Sales,Florida All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),106
+PTE,Retail Sales,West Coast (PADD 5) Except California All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),107
+PTE,Retail Sales,Colorado All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),108
+PTE,Retail Sales,U.S. All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),109
+PTE,Retail Sales,New York All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),110
+PTE,Retail Sales,New England (PADD 1A) All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),111
+PTE,Retail Sales,Texas All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),112
+PTE,Retail Sales,Lower Atlantic (PADD 1C) All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),113
+PTE,Retail Sales,Massachusetts All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),114
+PTE,Retail Sales,New York All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),115
+PTE,Retail Sales,West Coast (PADD 5) Except California All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),116
+PTE,Retail Sales,Ohio All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),117
+PTE,Retail Sales,Colorado All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),118
+PTE,Retail Sales,Rocky Mountain All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),119
+PTE,Retail Sales,West Coast (PADD 5) Except California No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),120
+PTE,Retail Sales,U.S. No 2 Diesel Retail Prices (Dollars per Gallon),121
+PTE,Retail Sales,East Coast Regular Conventional Retail Gasoline Prices (Dollars per Gallon),122
+PTE,Retail Sales,Colorado Regular Conventional Retail Gasoline Prices (Dollars per Gallon),123
+PTE,Retail Sales,"San Francisco, CA Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",124
+PTE,Retail Sales,New England (PADD 1A) Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),125
+PTE,Retail Sales,Gulf Coast Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),126
+PTE,Retail Sales,Los Angeles Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),127
+PTE,Retail Sales,New York Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),128
+PTE,Retail Sales,West Coast Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),129
+PTE,Retail Sales,California Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),130
+PTE,Retail Sales,"Seattle, WA Premium Conventional Retail Gasoline Prices (Dollars per Gallon)",131
+PTE,Retail Sales,Florida Premium Conventional Retail Gasoline Prices (Dollars per Gallon),132
+PTE,Retail Sales,New England (PADD 1A) Premium Conventional Retail Gasoline Prices (Dollars per Gallon),133
+PTE,Retail Sales,Colorado Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),134
+PTE,Retail Sales,"Denver, CO Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",135
+PTE,Retail Sales,"Chicago, IL Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",136
+PTE,Retail Sales,Central Atlantic (PADD 1B) Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),137
+PTE,Retail Sales,U.S. Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),138
+PTE,Retail Sales,Central Atlantic (PADD 1B) Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),139
+PTE,Retail Sales,Central Atlantic (PADD 1B) Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),140
+PTE,Retail Sales,Florida Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),141
+PTE,Retail Sales,Texas Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),142
+PTE,Retail Sales,Gulf Coast Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),143
+PTE,Retail Sales,East Coast Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),144
+PTE,Retail Sales,San Francisco Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),145
+PTE,Retail Sales,Los Angeles Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),146
+PTE,Retail Sales,Central Atlantic (PADD 1B) Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),147
+PTE,Retail Sales,East Coast Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),148
+PTE,Retail Sales,New York City Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),149
+PTE,Retail Sales,Lower Atlantic (PADD 1C) Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),150
+PTE,Retail Sales,Washington All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),151
+PTE,Retail Sales,West Coast All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),152
+PTE,Retail Sales,Colorado Allgrades Reformulated Retail Gasoline Prices (Dollars per Gallon),153
+PTE,Retail Sales,"Houston, TX All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon)",154
+PTE,Retail Sales,Midwest All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),155
+PTE,Retail Sales,U.S. All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),156
+PTE,Retail Sales,New England (PADD 1A) All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),157
+PTE,Retail Sales,Los Angeles All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),158
+PTE,Retail Sales,"Boston, MA All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon)",159
+PTE,Retail Sales,Houston All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),160
+PTE,Retail Sales,Texas All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),161
+PTE,Retail Sales,Chicago All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),162
+PTE,Retail Sales,New England (PADD 1A) No 2 Diesel Retail Prices (Dollars per Gallon),163
+PTE,Retail Sales,"Miami, FL Regular Conventional Retail Gasoline Prices (Dollars per Gallon)",164
+PTE,Retail Sales,"Cleveland, OH Regular Conventional Retail Gasoline Prices (Dollars per Gallon)",165
+PTE,Retail Sales,Midwest Regular Conventional Retail Gasoline Prices (Dollars per Gallon),166
+PTE,Retail Sales,Chicago Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),167
+PTE,Retail Sales,Colorado Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),168
+PTE,Retail Sales,Ohio Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),169
+PTE,Retail Sales,Houston Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),170
+PTE,Retail Sales,East Coast Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),171
+PTE,Retail Sales,East Coast Premium Conventional Retail Gasoline Prices (Dollars per Gallon),172
+PTE,Retail Sales,Central Atlantic (PADD 1B) Premium Conventional Retail Gasoline Prices (Dollars per Gallon),173
+PTE,Retail Sales,Lower Atlantic (PADD 1C) Premium Conventional Retail Gasoline Prices (Dollars per Gallon),174
+PTE,Retail Sales,West Coast (PADD 5) Except California Premium Conventional Retail Gasoline Prices (Dollars per Gallon),175
+PTE,Retail Sales,New England (PADD 1A) Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),176
+PTE,Retail Sales,Gulf Coast Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),177
+PTE,Retail Sales,"Los Angeles, CA Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",178
+PTE,Retail Sales,Washington Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),179
+PTE,Retail Sales,East Coast Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),180
+PTE,Retail Sales,Lower Atlantic (PADD 1C) Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),181
+PTE,Retail Sales,Texas Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),182
+PTE,Retail Sales,East Coast Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),183
+PTE,Retail Sales,"Denver, CO Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",184
+PTE,Retail Sales,Midwest Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),185
+PTE,Retail Sales,"Chicago, IL Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",186
+PTE,Retail Sales,West Coast Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),187
+PTE,Retail Sales,Colorado Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),188
+PTE,Retail Sales,"Cleveland, OH Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon)",189
+PTE,Retail Sales,Houston Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),190
+PTE,Retail Sales,Washington Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),191
+PTE,Retail Sales,Gulf Coast All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),192
+PTE,Retail Sales,Central Atlantic (PADD 1B) All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),193
+PTE,Retail Sales,Washington All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),194
+PTE,Retail Sales,"Seattle, WA All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon)",195
+PTE,Retail Sales,Lower Atlantic (PADD 1C) All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),196
+PTE,Retail Sales,New England (PADD 1A) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),197
+PTE,Retail Sales,Midwest No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),198
+PTE,Retail Sales,Midwest No 2 Diesel Retail Prices (Dollars per Gallon),199
+PTE,Retail Sales,Gulf Coast No 2 Diesel Retail Prices (Dollars per Gallon),200
+PTE,Retail Sales,Central Atlantic (PADD 1B) No 2 Diesel Retail Prices (Dollars per Gallon),201
+PTE,Retail Sales,U.S. Regular Conventional Retail Gasoline Prices (Dollars per Gallon),202
+PTE,Retail Sales,Texas Regular Conventional Retail Gasoline Prices (Dollars per Gallon),203
+PTE,Retail Sales,Minnesota Regular Conventional Retail Gasoline Prices (Dollars per Gallon),204
+PTE,Retail Sales,Colorado Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),205
+PTE,Retail Sales,U.S. Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),206
+PTE,Retail Sales,West Coast (PADD 5) Except California Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),207
+PTE,Retail Sales,"Boston, MA Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",208
+PTE,Retail Sales,New York Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),209
+PTE,Retail Sales,"Cleveland, OH Regular All Formulations Retail Gasoline Prices (Dollars per Gallon)",210
+PTE,Retail Sales,Lower Atlantic (PADD 1C) Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),211
+PTE,Retail Sales,Washington Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),212
+PTE,Retail Sales,West Coast (PADD 5) Except California Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),213
+PTE,Retail Sales,West Coast Premium Conventional Retail Gasoline Prices (Dollars per Gallon),214
+PTE,Retail Sales,Midwest Premium Conventional Retail Gasoline Prices (Dollars per Gallon),215
+PTE,Retail Sales,California Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),216
+PTE,Retail Sales,New York Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),217
+PTE,Retail Sales,Midwest Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),218
+PTE,Retail Sales,"Houston, TX Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",219
+PTE,Retail Sales,Texas Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),220
+PTE,Retail Sales,Massachusetts Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),221
+PTE,Retail Sales,Massachusetts Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),222
+PTE,Retail Sales,Colorado Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),223
+PTE,Retail Sales,San Francisco Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),224
+PTE,Retail Sales,Ohio Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),225
+PTE,Retail Sales,New York Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),226
+PTE,Retail Sales,Colorado Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),227
+PTE,Retail Sales,"San Francisco, CA Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",228
+PTE,Retail Sales,Lower Atlantic (PADD 1C) Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),229
+PTE,Retail Sales,Texas Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),230
+PTE,Retail Sales,"Seattle, WA Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon)",231
+PTE,Retail Sales,West Coast (PADD 5) Except California Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),232
+PTE,Retail Sales,West Coast All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),233
+PTE,Retail Sales,East Coast All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),234
+PTE,Retail Sales,New York Harbor All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),235
+PTE,Retail Sales,"Cleveland, OH All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon)",236
+PTE,Retail Sales,West Coast All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),237
+PTE,Retail Sales,West Coast No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),238
+PTE,Retail Sales,Central Atlantic (PADD 1B) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),239
+PTE,Retail Sales,Rocky Mountain No 2 Diesel Retail Prices (Dollars per Gallon),240
+PTE,Retail Sales,Lower Atlantic (PADD 1C) No 2 Diesel Retail Prices (Dollars per Gallon),241
+PTE,Retail Sales,Washington Regular Conventional Retail Gasoline Prices (Dollars per Gallon),242
+PTE,Retail Sales,West Coast (PADD 5) Except California Regular Conventional Retail Gasoline Prices (Dollars per Gallon),243
+PTE,Retail Sales,Rocky Mountain Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),244
+PTE,Retail Sales,New York Harbor Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),245
+PTE,Retail Sales,Massachusetts Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),246
+PTE,Retail Sales,Texas Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),247
+PTE,Retail Sales,"Miami, FL Regular All Formulations Retail Gasoline Prices (Dollars per Gallon)",248
+PTE,Retail Sales,"Seattle, WA Regular All Formulations Retail Gasoline Prices (Dollars per Gallon)",249
+PTE,Retail Sales,Texas Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),250
+PTE,Retail Sales,New York Premium Conventional Retail Gasoline Prices (Dollars per Gallon),251
+PTE,Retail Sales,Rocky Mountain Premium Conventional Retail Gasoline Prices (Dollars per Gallon),252
+PTE,Retail Sales,New York Harbor Premium Reformulated Retail Gasoline Prices (Dollars per Gallon),253
+PTE,Retail Sales,New England (PADD 1A) Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),254
+PTE,Retail Sales,Denver Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),255
+PTE,Retail Sales,"Cleveland, OH Premium All Formulations Retail Gasoline Prices (Dollars per Gallon)",256
+PTE,Retail Sales,Houston Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),257
+PTE,Retail Sales,West Coast (PADD 5) Except California Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),258
+PTE,Retail Sales,Florida Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),259
+PTE,Retail Sales,Midwest Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),260
+PTE,Retail Sales,New York Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),261
+PTE,Retail Sales,"Boston, MA Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon)",262
+PTE,Retail Sales,Massachusetts Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),263
+PTE,Retail Sales,Minnesota Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),264
+PTE,Retail Sales,Rocky Mountain All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),265
+PTE,Retail Sales,East Coast All Grades Conventional Retail Gasoline Prices (Dollars per Gallon),266
+PTE,Retail Sales,"Cleveland, OH All Grades Conventional Retail Gasoline Prices (Dollars per Gallon)",267
+PTE,Retail Sales,"Denver, CO Allgrades Reformulated Retail Gasoline Prices (Dollars per Gallon)",268
+PTE,Retail Sales,U.S. All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),269
+PTE,Retail Sales,Denver All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),270
+PTE,Retail Sales,"Miami, FL All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon)",271
+PTE,Retail Sales,New York All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),272
+PTE,Retail Sales,East Coast All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),273
+PTE,Retail Sales,U.S. No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),274
+PTE,Retail Sales,East Coast No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),275
+PTE,Retail Sales,Gulf Coast No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),276
+PTE,Retail Sales,California No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),277
+PTE,Retail Sales,Lower Atlantic (PADD 1C) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),278
+PTE,Retail Sales,California No 2 Diesel Retail Prices (Dollars per Gallon),279
+PTE,Retail Sales,West Coast Regular Conventional Retail Gasoline Prices (Dollars per Gallon),280
+PTE,Retail Sales,Central Atlantic (PADD 1B) Regular Conventional Retail Gasoline Prices (Dollars per Gallon),281
+PTE,Retail Sales,Lower Atlantic (PADD 1C) Regular Reformulated Retail Gasoline Prices (Dollars per Gallon),282
+PTE,Retail Sales,Denver Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),283
+PTE,Retail Sales,New York City Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),284
+PTE,Retail Sales,Central Atlantic (PADD 1B) Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),285
+PTE,Retail Sales,Gulf Coast Premium Conventional Retail Gasoline Prices (Dollars per Gallon),286
+PTE,Retail Sales,"Boston, MA Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)",287
+PTE,Retail Sales,Los Angeles Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),288
+PTE,Retail Sales,New York Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),289
+PTE,Retail Sales,Rocky Mountain Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),290
+PTE,Retail Sales,New England (PADD 1A) Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon),291
+PTE,Retail Sales,Colorado Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),292
+PTE,Retail Sales,New York Harbor Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon),293
+PTE,Retail Sales,Midwest Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),294
+PTE,Retail Sales,Florida Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),295
+PTE,Retail Sales,U.S. Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),296
+PTE,Retail Sales,"Miami, FL Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon)",297
+PTE,Retail Sales,Ohio Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon),298
+PTE,Retail Sales,"Seattle, WA All Grades Conventional Retail Gasoline Prices (Dollars per Gallon)",299
+PTE,Retail Sales,Rocky Mountain Allgrades Reformulated Retail Gasoline Prices (Dollars per Gallon),300
+PTE,Retail Sales,"Boston, MA All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon)",301
+PTE,Retail Sales,California All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),302
+PTE,Retail Sales,California All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),303
+PTE,Retail Sales,Massachusetts All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),304
+PTE,Retail Sales,New York City All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),305
+PTE,Retail Sales,Florida All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),306
