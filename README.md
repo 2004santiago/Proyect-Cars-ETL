@@ -121,6 +121,8 @@ Airflow is used for the creation of a pipeline, where it performs the extraction
 
 ![image.png](data-README.md/Airflow.png)
 
+[Watch the video on Google Drive](https://drive.google.com/file/d/1s7ovi75F-XvlqxjTJW9CAGF5isFLbHLI/view?usp=sharing)
+
 ---
 
 # **Dashboard**
