@@ -1,4 +1,5 @@
-# README
+# ETL Project - Vehicle Data Cleaning and Analysis
+This repository details our process of ETL, data analysis, and visualization using Python and PostgreSQL, focusing on vehicle data to extract valuable insights.
 
 # Structure
 
