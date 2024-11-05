@@ -25,94 +25,91 @@ def process_data(**kwargs):
         api_data = json.loads(ti.xcom_pull(task_ids="clean_API"))
         apidf = pd.json_normalize(data=api_data)
         logging.info("Data API loaded successfully")
-        
-        logging.info("Data loaded successfully")
 
-        # Vehículo
-        dimension_vehiculo = df[['Year', 'Make', 'Model', 'Drivetrain', 'MinMPG', 'MaxMPG', 
-                                 'FuelType', 'Transmission', 'Engine']].drop_duplicates().reset_index(drop=True)
-        dimension_vehiculo['ID_Vehiculo'] = dimension_vehiculo.index + 1
-        logging.info("Dimension Vehículo created")
-        
-        # Vendedor
-        dimension_vendedor = df[['SellerName', 'SellerType', 'State', 'Zipcode', 'StreetName']].drop_duplicates().reset_index(drop=True)
-        dimension_vendedor['ID_Seller'] = dimension_vendedor.index + 1
-        logging.info("Dimension Vendedor created")
-        
-        # Ratings
-        dimension_ratings = df[['ConsumerRating', 'SellerRating', 'ComfortRating', 'InteriorDesignRating', 
-                                'PerformanceRating', 'ValueForMoneyRating', 'ExteriorStylingRating', 
-                                'ReliabilityRating', 'DealType']].drop_duplicates().reset_index(drop=True)
-        dimension_ratings['ID_Rating'] = dimension_ratings.index + 1
-        logging.info("Dimension Ratings created")
+        # Crear dimensiones y tablas de hechos para los datos de DB
+        car_dim = df[['Year', 'Make', 'Model', 'Drivetrain', 'MinMPG', 'MaxMPG', 'FuelType', 
+                      'Transmission', 'Engine', 'ExteriorColor', 'InteriorColor', 'Used', 'VIN', 'Stock#']].drop_duplicates().reset_index(drop=True)
+        car_dim['ID_Car'] = car_dim.index + 1
+        logging.info("Car dimension created successfully.")
 
-        # Fact Table
-        df_hechos_vendedor = pd.merge(df, dimension_vendedor, on=['SellerName', 'SellerType', 'State', 'Zipcode', 'StreetName'], how='left')
-        df_hechos_vehiculo = pd.merge(df, dimension_vehiculo, on=['Year', 'Make', 'Model', 'Drivetrain', 'MinMPG', 'MaxMPG', 
-                                                                  'FuelType', 'Transmission', 'Engine'], how='left')
-        df_hechos_ratings = pd.merge(df, dimension_ratings, on=['ConsumerRating', 'SellerRating', 'ComfortRating', 
-                                                                'InteriorDesignRating', 'PerformanceRating', 
-                                                                'ValueForMoneyRating', 'ExteriorStylingRating', 
-                                                                'ReliabilityRating', 'DealType'], how='left')
+        seller_dim = df[['SellerName', 'SellerType', 'State', 'Zipcode', 'StreetName']].drop_duplicates().reset_index(drop=True)
+        seller_dim['ID_Seller'] = seller_dim.index + 1
+        logging.info("Seller dimension created successfully.")
 
-        tabla_hechos = df_hechos_vendedor[['Price', 'Mileage', 'ExteriorColor', 'InteriorColor', 'Used', 'VIN', 'Stock#', 'ID_Seller']].copy()
-        tabla_hechos['ID_Vehiculo'] = df_hechos_vehiculo['ID_Vehiculo']
+        rating_dim = df[['ConsumerRating', 'SellerRating', 'ComfortRating', 'InteriorDesignRating', 
+                         'PerformanceRating', 'ValueForMoneyRating', 'ExteriorStylingRating', 
+                         'ReliabilityRating', 'DealType']].drop_duplicates().reset_index(drop=True)
+        rating_dim['ID_Rating'] = rating_dim.index + 1
+        logging.info("Rating dimension created successfully.")
+
+        # Combinar datos originales con dimensiones para asignar IDs
+        df_hechos_vendedor = pd.merge(df, seller_dim, on=['SellerName', 'SellerType', 'State', 'Zipcode', 'StreetName'], how='left')
+        df_hechos_vehiculo = pd.merge(df, car_dim, on=['Year', 'Make', 'Model', 'Drivetrain', 'MinMPG', 'MaxMPG', 
+                                                       'FuelType', 'Transmission', 'Engine', 'ExteriorColor', 'InteriorColor', 
+                                                       'Used', 'VIN', 'Stock#'], how='left')
+        df_hechos_ratings = pd.merge(df, rating_dim, on=['ConsumerRating', 'SellerRating', 'ComfortRating', 
+                                                         'InteriorDesignRating', 'PerformanceRating', 
+                                                         'ValueForMoneyRating', 'ExteriorStylingRating', 
+                                                         'ReliabilityRating', 'DealType'], how='left')
+
+        # Tabla de hechos
+        tabla_hechos = df_hechos_vendedor[['Price', 'Mileage', 'ConsumerReviews', 'SellerReviews']].copy()
+        tabla_hechos['ID_Car'] = df_hechos_vehiculo['ID_Car']
         tabla_hechos['ID_Rating'] = df_hechos_ratings['ID_Rating']
-        tabla_hechos['ID_Venta'] = df.index + 1
-        tabla_hechos = tabla_hechos[['ID_Venta', 'ID_Vehiculo', 'ID_Seller', 'ID_Rating', 'Price', 
-                                     'Mileage', 'ExteriorColor', 'InteriorColor', 'Used', 'VIN', 'Stock#']]
-        logging.info("Fact Table created")
-        
-        # Área
+        tabla_hechos['ID_Seller'] = df_hechos_vendedor['ID_Seller']
+        tabla_hechos['ID_Sell'] = df.index + 1
+        tabla_hechos = tabla_hechos[['ID_Sell', 'ID_Car', 'ID_Seller', 'ID_Rating', 'Price', 'Mileage', 'ConsumerReviews', 'SellerReviews']]
+        logging.info("Fact table created successfully.")
+
+        # Crear dimensiones y tabla de hechos para datos de API
         area_dim = apidf[['area', 'area-name']].drop_duplicates().reset_index(drop=True)
         area_dim['area_ID'] = area_dim.index + 1
-        logging.info("Area dimension created")
-        
-        # Producto
+        logging.info("Area dimension created successfully.")
+
         product_dim = apidf[['product', 'product-name']].drop_duplicates().reset_index(drop=True)
         product_dim['product_ID'] = product_dim.index + 1
-        logging.info("Product dimension created")
+        logging.info("Product dimension created successfully.")
 
-        # Detalles
         details_dim = apidf[['process', 'process-name', 'series-description']].drop_duplicates().reset_index(drop=True)
         details_dim['details_ID'] = details_dim.index + 1
-        logging.info("Details dimension created")
-        
-        # Fuel Fact Table
+        logging.info("Details dimension created successfully.")
+
+        # Combinar datos de API con dimensiones para asignar IDs
         df_fuel_area = pd.merge(apidf, area_dim, on=['area', 'area-name'], how='left')
         df_fuel_product = pd.merge(apidf, product_dim, on=['product', 'product-name'], how='left')
         df_fuel_details = pd.merge(apidf, details_dim, on=['process', 'process-name', 'series-description'], how='left')
 
+        # Tabla de hechos para datos de combustible
         fuel_fact = df_fuel_area[['period', 'value($/GAL)']].copy()
         fuel_fact['area_ID'] = df_fuel_area['area_ID']
         fuel_fact['product_ID'] = df_fuel_product['product_ID']
         fuel_fact['details_ID'] = df_fuel_details['details_ID']
         fuel_fact['fuel_ID'] = fuel_fact.index + 1
         fuel_fact = fuel_fact[['fuel_ID', 'period', 'area_ID', 'product_ID', 'details_ID', 'value($/GAL)']]
-        logging.info("Fuel Fact Table created")
-        
+        logging.info("Fuel fact table of fuel created successfully.")
+
         # Crear el directorio si no existe
         output_dir = './Data/Fact_tables'
         os.makedirs(output_dir, exist_ok=True)
         logging.info(f"Directory '{output_dir}' created or already exists.")
         
-        # Guardar las dimensiones y la tabla de hechos en archivos CSV
-        dimension_vehiculo.to_csv(os.path.join(output_dir, 'dimension_vehiculo.csv'), index=False)
-        dimension_vendedor.to_csv(os.path.join(output_dir, 'dimension_vendedor.csv'), index=False)
-        dimension_ratings.to_csv(os.path.join(output_dir, 'dimension_ratings.csv'), index=False)
-        tabla_hechos.to_csv(os.path.join(output_dir, 'fact_table.csv'), index=False)
+        # Guardar tablas en archivos CSV
+        tabla_hechos.to_csv(os.path.join(output_dir, 'sells_fact.csv'), index=False)
+        car_dim.to_csv(os.path.join(output_dir, 'car_dim.csv'), index=False)
+        seller_dim.to_csv(os.path.join(output_dir, 'seller_dim.csv'), index=False)
+        rating_dim.to_csv(os.path.join(output_dir, 'rating_dim.csv'), index=False)
+        fuel_fact.to_csv(os.path.join(output_dir, 'fuel_fact.csv'), index=False)
         area_dim.to_csv(os.path.join(output_dir, 'area_dim.csv'), index=False)
         product_dim.to_csv(os.path.join(output_dir, 'product_dim.csv'), index=False)
         details_dim.to_csv(os.path.join(output_dir, 'details_dim.csv'), index=False)
-        fuel_fact.to_csv(os.path.join(output_dir, 'fuel_fact.csv'), index=False)
         
         logging.info("CSV files saved successfully.")
         
-        # Devolver todos los resultados procesados como JSON
+        # Devolver los resultados procesados como JSON
         return {
-            'dimension_vehiculo': dimension_vehiculo.to_json(orient='records'),
-            'dimension_vendedor': dimension_vendedor.to_json(orient='records'),
-            'dimension_ratings': dimension_ratings.to_json(orient='records'),
+            'dimension_vehiculo': car_dim.to_json(orient='records'),
+            'dimension_vendedor': seller_dim.to_json(orient='records'),
+            'dimension_ratings': rating_dim.to_json(orient='records'),
             'fact_table': tabla_hechos.to_json(orient='records'),
             'area_dim': area_dim.to_json(orient='records'),
             'product_dim': product_dim.to_json(orient='records'),

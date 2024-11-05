@@ -14,10 +14,10 @@ def save_data():
         csv_directory = 'Data/Fact_tables'  # Ruta corregida a Fact_tables
         
         # Cargar los archivos CSV
-        dimension_vehiculo = pd.read_csv(os.path.join(csv_directory, 'dimension_vehiculo.csv'))
-        dimension_vendedor = pd.read_csv(os.path.join(csv_directory, 'dimension_vendedor.csv'))
-        dimension_ratings = pd.read_csv(os.path.join(csv_directory, 'dimension_ratings.csv'))
-        fact_table = pd.read_csv(os.path.join(csv_directory, 'fact_table.csv'))
+        dimension_vehiculo = pd.read_csv(os.path.join(csv_directory, 'car_dim.csv'))
+        dimension_vendedor = pd.read_csv(os.path.join(csv_directory, 'seller_dim.csv'))
+        dimension_ratings = pd.read_csv(os.path.join(csv_directory, 'rating_dim.csv'))
+        fact_table = pd.read_csv(os.path.join(csv_directory, 'sells_fact.csv'))
         area_dim = pd.read_csv(os.path.join(csv_directory, 'area_dim.csv'))
         product_dim = pd.read_csv(os.path.join(csv_directory, 'product_dim.csv'))
         details_dim = pd.read_csv(os.path.join(csv_directory, 'details_dim.csv'))
