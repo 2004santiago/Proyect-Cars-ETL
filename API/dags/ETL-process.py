@@ -38,6 +38,12 @@ with DAG(
         python_callable=extract.load_dataset,
         provide_context=True,
     )
+
+    validate_api = PythonOperator(
+        task_id='validate_api',
+        python_callable=extract.validate_api,
+        provide_context=True
+    )
     
     fact_table_created = PythonOperator(
         task_id='fact_table_created',
@@ -76,5 +82,5 @@ with DAG(
     # )
     
     
-extract_API 
+extract_API >> validate_api
 extract_dataset >> clean_API >> fact_table_created >> save_info
