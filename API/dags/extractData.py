@@ -9,7 +9,7 @@ from sqlalchemy import create_engine, inspect
 from dotenv import load_dotenv
 import great_expectations as gx
 
-# Funciones que ya tienes
+
 def load_API_data(**kwargs):
     url = "https://api.eia.gov/v2/petroleum/pri/gnd/data/?frequency=weekly&data[0]=value&sort[0][column]=period&sort[0][direction]=desc&offset=0&length=1000&api_key=bqwjaJLDl8NGnarM5gvFz7iDmIGNyKK47vtgmX91"
     
