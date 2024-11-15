@@ -6,6 +6,7 @@ from datetime import datetime
 import extractData as extract
 import transform as tr
 from save_DB import save_data
+from streaming import kafka_producer
 
 
 
@@ -56,6 +57,12 @@ with DAG(
         python_callable=tr.clean_api_data,
         provide_context=True,
     )
+    
+    producer = PythonOperator(
+        task_id='producer',
+        python_callable=kafka_producer,
+        provide_context=True,
+    )
     ################################################
     # dimension_vehiculo_ = PythonOperator(
     #     task_id='dimension_vehiculo',
@@ -77,4 +84,4 @@ with DAG(
     
     
 extract_API 
-extract_dataset >> clean_API >> fact_table_created >> save_info
+extract_dataset >> clean_API >> fact_table_created >> save_info >> producer
