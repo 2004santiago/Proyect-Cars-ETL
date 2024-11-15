@@ -4,31 +4,29 @@ This repository details our process of ETL, data analysis, and visualization usi
 # Structure
 
 ```bash
-API/
-├── dags/
-│   ├── ETL-process.py
-│   ├── extractData.py
-│   ├── save_DB.py
-│   ├── transform.py
+PROYECT-CARS-ETL
+├── API
+│   ├── dags
 │   ├── apiCall.py
 │   └── EDA_API.ipynb
-├── Dashboard/
-│   ├── Proyect-ETL.pdf
-│   └── proyect2_dashboard.pdf
-├── Data/
-│   ├── Clean/
-│   └── Raws/
-│── data-README.md/
-├── Document/
-│   ├── Proyecto ETL1.pdf
-│   └── Proyecto ETL2.pdf
+├── Dashboard
+├── Data
+│   ├── Clean
+│   ├── Raws
+│   └── data-README.md
+├── Document
+├── src
+├── Video
+├── .env
 ├── .gitignore
 ├── connection.py
+├── docker-compose.yml
 ├── EDA.ipynb
 ├── fact-dimensions.ipynb
 ├── poetry.lock
 ├── pyproject.toml
 └── README.md
+
 
 ```
 
@@ -115,18 +113,58 @@ airflow webserver --port 8080
 
 ---
 
-# Airflow
+# Airflow wirh kafka producer
 
 Airflow is used for the creation of a pipeline, where it performs the extraction, transformation, and loading of the data.
 
-![image.png](data-README.md/Airflow.png)
+![image.png](data-README.md/airflowV2.png)
 
-[Watch the video on Google Drive](https://drive.google.com/file/d/1s7ovi75F-XvlqxjTJW9CAGF5isFLbHLI/view?usp=sharing)
+[Watch the video on Google Drive](https://drive.google.com/file/d/1mRl-BSXWBMi38BLEpLZgk0sLpu0dlSgV/view?usp=sharing)
+
+Before running Kafka, we need to use some additional commands:
+
+```python
+pip install git+https://github.com/dpkp/kafka-python.git
+```
+
+launch Docker with:
+
+```bash
+docker compose up
+```
+
+If you don't have Docker, go to the next [Link](https://www.docker.com/g) and download
+
+Open Docker bash:
+
+```bash
+docker exec -it kafka-test bash 
+```
+
+and paste:
+
+```bash
+kafka-topics --bootstrap-server kafka-test:9092 --create --topic kafka_project
+```
+
+```bash
+exit
+```
+
+Next we start consumer with:
+
+```python
+python3 ./src/consumer.py
+```
 
 ---
 
 # **Dashboard**
 
-![image.png](data-README.md/DashboardPart21.png)
+This is our dashboard which we keep updating trought the time.
 
-![image.png](data-README.md/DashboardPart22.png)
+![image.png](data-README.md/stre1.jpg)
+
+![image.png](data-README.md/strea2.jpg)
+
+![image.png](data-README.md/strea3.jpg)
