@@ -12,8 +12,8 @@ PROYECT-CARS-ETL
 ├── Dashboard
 ├── Data
 │   ├── Clean
-│   ├── Raws
-│   └── data-README.md
+│   └── Raws
+├── data-README.md
 ├── Document
 ├── src
 ├── Video
