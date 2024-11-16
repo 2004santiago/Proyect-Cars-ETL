@@ -119,7 +119,7 @@ Airflow is used for the creation of a pipeline, where it performs the extraction
 
 ![image.png](data-README.md/airflowV2.png)
 
-[Watch the video on Google Drive](https://drive.google.com/file/d/1mRl-BSXWBMi38BLEpLZgk0sLpu0dlSgV/view?usp=sharing)
+[Watch the video on Google Drive](https://drive.google.com/file/d/1KGBqOMcxN3Y5TbdSVWPkXpBkCVWXVRXZ/view?usp=sharing)
 
 Before running Kafka, we need to use some additional commands:
 
