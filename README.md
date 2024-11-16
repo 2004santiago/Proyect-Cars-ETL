@@ -113,7 +113,7 @@ airflow webserver --port 8080
 
 ---
 
-# Airflow wirh kafka producer
+# Airflow with kafka producer
 
 Airflow is used for the creation of a pipeline, where it performs the extraction, transformation, and loading of the data.
 
@@ -155,6 +155,22 @@ Next we start consumer with:
 
 ```python
 python3 ./src/consumer.py
+```
+
+---
+## Data Validation with Great Expectations  
+
+This project uses **Great Expectations** to ensure the quality of data retrieved from the `extract_API` stage before further processing. The validation file is a Jupyter Notebook "testin_extractData.ipynb", in the GX folder.
+
+### Validations Performed  
+1. **Column Structure**: Ensures the retrieved columns match the expected schema.  
+2. **Data Types**: Verifies that each column has the correct data type.  
+3. **Missing Values**: Checks that no columns contain null values, except for the `value` column (as it may contain nulls before data cleaning).  
+
+### Setup  
+Make sure to initialize a Great Expectations project before using the notebook by running:  
+```bash
+great_expectations init
 ```
 
 ---
